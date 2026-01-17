@@ -1,0 +1,116 @@
+[Event "Exercise 199 - Skewer"]
+[FEN "8/8/2k5/8/8/8/2K4R/r7 b - - 0 1"]
+1...Ra2+ {Skewering the king and rook on the 2nd rank.}
+2.Kd3 Rxh2 {Black wins the rook and should go on to win the game using the rook and king checkmate.}
+
+[Event "Exercise 200 - Skewer"]
+[FEN "4r3/8/1p4PK/1P6/pP2k3/P2p4/8/7R w - - 0 1"]
+1.Re1+ {Skewering the king and rook.}
+1...Kf3 {}
+2.Rxe8 {White is up a rook and should win.}
+
+[Event "Exercise 201 - Skewer"]
+[FEN "r4k2/ppq2ppQ/5r2/2p3N1/8/2P1p1P1/PP4PP/R5K1 w - - 0 1"]
+1.Qh8+ {Skewering the king and rook.}
+1...Ke7 {}
+2.Qxa8 {White is up a knight and should go on to win.}
+
+[Event "Exercise 202 - Skewer"]
+[FEN "1r6/8/1p1k2p1/1P4P1/p1K5/P3B3/8/8 w - - 0 1"]
+1.Bf4+ {Skewering the king and rook.}
+1...Ke6 {}
+2.Bxb8 {White is up a bishop in the endgame and should win without much trouble.}
+
+[Event "Exercise 203 - Skewer"]
+[FEN "r1br3k/pp4pp/5q2/8/3pQ3/8/PP3PPP/1RB2RK1 b - - 0 1"]
+1...Bf5 {Skewering the queen and rook.}
+2.Qe2 Bxb1 {Black wins a rook and should go on to win the game.}
+
+[Event "Exercise 204 - Skewer"]
+[FEN "8/1p6/p7/r4k2/5PR1/7K/6PP/8 w - - 0 1"]
+1.Rg5+ {Skewering the king and rook.}
+1...Kxf4 {}
+2.Rxa5 {White wins a rook and should go on to win the game.}
+
+[Event "Exercise 205 - Skewer"]
+[FEN "r5k1/1pp2p2/3p1qp1/p6p/2P3bP/P2BQ3/3R2P1/4K2R b - - 0 1"]
+1...Qa1+ {}
+2.Kf2 {Skewering the king and rook.}
+2.Rd1 {does not help much since}
+2...Qxd1+ {wins both rooks:}
+3.Kf2 Qxh1 {.}
+2...Qxh1 {Black is up three pawns and has a much safer king.}
+
+[Event "Exercise 206 - Skewer"]
+[FEN "8/7p/5Q2/6Pk/4pP2/2P1P3/8/4Kb1q w - - 0 1"]
+1.Qh6+ {Skewering the king and queen.}
+1...Kg4 {}
+2.Qxh1 {White wins the queen and should win the game.}
+
+[Event "Exercise 207 - Skewer"]
+[FEN "7k/2p5/6Qp/2qP4/4K3/6P1/7P/8 b - - 0 1"]
+1...Qc2+ {Skewering the king and queen.}
+2.Kf4 Qxg6 {Black wins the queen and should go on to win this endgame quite easily.}
+
+[Event "Exercise 208 - Skewer"]
+[FEN "2k5/2p1P2p/6p1/1Q2K3/8/2PP3P/5qP1/8 b - - 0 1"]
+1...Qf5+ {Skewering the king and queen.}
+2.Kd4 Qxb5 {Black has won a queen and conveniently stops promotion.}
+
+[Event "Exercise 209 - Skewer"]
+[FEN "6k1/1R3pp1/1pnR3p/8/4PPb1/8/1PPK2PP/r7 b - - 0 1"]
+1...Rd1+ {Skewering the king and rook.}
+2.Ke3 Rxd6 {Black wins the rook and is up 2 minor pieces in the endgame.}
+
+[Event "Exercise 210 - Skewer"]
+[FEN "2R5/5b1k/5B2/6P1/1p6/7r/4K3/8 w - - 0 1"]
+1.Rh8+ {Skewering the king and rook.}
+1...Kg6 {}
+2.Rxh3 {White wins the rook and should go on to win the endgame.}
+
+[Event "Exercise 211 - Skewer"]
+[FEN "8/1B2k3/5p1p/3K1p2/3P1P1P/3b2P1/8/8 b - - 0 1"]
+1...Be4+ {Skewering the king and bishop.}
+2.Kc5 Bxb7 {Black is up a bishop for a pawn and should go on to win.}
+
+[Event "Exercise 212 - Skewer"]
+[FEN "8/3R1pr1/2p1p3/pp2k3/4p3/P1P1B2K/1P6/8 w - - 0 1"]
+1.Bd4+ {Skewering the king and rook.}
+1...Kf5 {}
+2.Bxg7 {White is up a large amount of material and should win.}
+
+[Event "Exercise 213 - Skewer"]
+[FEN "r1b1qrk1/2p2pp1/2np3p/p2Q4/4P3/P4N1P/B1P2PP1/1R1R2K1 b - - 0 1"]
+1...Be6 {Skewering the queen and bishop.}
+2.Qd2 Bxa2 {Black wins a bishop and should go on to win the game.}
+
+[Event "Exercise 214 - Skewer"]
+[FEN "6k1/pp3pp1/2bR3p/6r1/5K2/1BN2P1P/PP4P1/6b1 b - - 0 1"]
+1...Bh2+ {Skewering the king and rook.}
+2.Ke3 {}
+2.g3 {doesn’t change much and gives away an additional pawn:}
+2...Bxg3+ {}
+3.Ke3 Bxd6 {.}
+2...Bxd6 {Black is up a rook and should go on to win the game.}
+
+[Event "Exercise 215 - Skewer"]
+[FEN "5k2/N3pp1p/b5p1/2Pp4/8/3PP3/PbP2PPP/1rBK3R b - - 0 1"]
+1...Rxc1+ {Skewering the king and rook.}
+2.Kd2 Rxh1 {Black is up quite a bit of material and should go on to win.}
+
+[Event "Exercise 216 - Skewer"]
+[FEN "1r6/p3k3/2KRP3/1P6/8/8/8/8 b - - 0 1"]
+1...Rb6+ {Skewering the king and rook.}
+2.Kc7 Rxd6 {Black has won a rook and along with it should win the game.}
+
+[Event "Exercise 217 - Skewer"]
+[FEN "4Q3/5pkp/6p1/p3K3/PpB2P1q/8/1PP5/8 b - - 0 1"]
+1...Qe1+ {Skewering the king and queen.}
+2.Kd6 Qxe8 {Black is up a queen for a bishop and should win the endgame without too much trouble.}
+
+[Event "Exercise 218 - Skewer"]
+[FEN "8/1p6/p1b2q2/3p2p1/3k4/1Q1B4/P4PP1/6K1 w - - 0 1"]
+1.Qb2+ {Skewering the king and queen.}
+1...Kxd3 {}
+2.Qxf6 {White is up a queen for a bishop and pawn and should win the game without many issues.}
+

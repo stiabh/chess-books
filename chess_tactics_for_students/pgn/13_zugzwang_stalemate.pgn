@@ -1,0 +1,376 @@
+[Event "Diagram 374 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1R1bk3/8/4K3/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd6 Kf7 2. Rxd8 *
+
+[Event "Diagram 375 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/8/8/8/1k4q1/8/2KR4 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd3+ Qxd3 *
+
+[Event "Diagram 376 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/5p2/4p1k1/3pP2p/3P3K/5NPP/8/2b5 b - - 0 1"]
+[SetUp "1"]
+
+1... Be3 2. g4 Bf2# *
+
+[Event "Diagram 377 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/p7/K2B4/PP1n4/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Nc7+ 2. Bxc7 *
+
+[Event "Diagram 378 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3k4/8/1K6/8/2Q5/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qf7 Kc8 2. Qc7# *
+
+[Event "Diagram 379 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/1p3pk1/pP3r1p/P7/7P/2B3K1/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. h5 Kh8 2. Bxf6+ *
+
+[Event "Diagram 380 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/kpK3P1/1p6/1P6/8/1P6/8/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. b4 Ka8 2. g8=Q+ Ka7 *
+
+[Event "Diagram 381 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/6p1/8/8/3b1kNK/7P/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... g6 2. Ne3 Bf6# *
+
+[Event "Diagram 382 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/8/8/8/2k5/4r3/3K4 b - - 0 1"]
+[SetUp "1"]
+
+1... Re3 2. Kc1 Re1# *
+
+[Event "Diagram 383 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/8/8/8/5k2/8/3rBK2 b - - 0 1"]
+[SetUp "1"]
+
+1... Ra1 2. Kg1 Rxe1+ *
+
+[Event "Diagram 384 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "R7/P3k3/4p3/8/8/8/r3PK2/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rh8 Rxa7 2. Rh7+ Kf8 3. Rxa7 *
+
+[Event "Diagram 385 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/P3k3/4p3/8/8/7R/r3PK2/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rh8 Rxa7 2. Rh7+ Kf8 3. Rxa7 *
+
+[Event "Diagram 386 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5Kbk/6pp/6P1/8/8/8/8/7R w - - 0 1"]
+[SetUp "1"]
+
+1. Rh6 gxh6 2. g7# *
+
+[Event "Diagram 387 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/5R1p/3p3q/1p1Pp3/pP2P2P/P5RK/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rg5 Qxg5 2. hxg5 *
+
+[Event "Diagram 388 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5k1K/8/7P/8/4n3/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ng5 2. h7 Nf7# *
+
+[Event "Diagram 389 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5K2/6pk/7p/4NP1P/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf7 g6 2. fxg6# *
+
+[Event "Diagram 390 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/2k5/K7/7R/8/8/2q5 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Rc4+ Qxc4 *
+
+[Event "Diagram 391 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4rk2/8/1Q4K1/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Re6+ 2. Qxe6 *
+
+[Event "Diagram 392 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/8/6r1/5K1k/5Q2/8/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rf5+ 2. Kxf5 *
+
+[Event "Diagram 393 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1rk5/8/2KQ4/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rb6+ 2. Kxb6 *
+
+[Event "Diagram 394 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/R7/6NK/5r2/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rh5+ 2. Kxh5 *
+
+[Event "Diagram 395 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4k3/8/2K2QP1/7p/7P/8/3r4/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rd6+ 2. Kxd6 *
+
+[Event "Diagram 396 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/6k1/8/5p2/p5p1/6Pp/1b3B1P/7K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Bd4+ Bxd4 *
+
+[Event "Diagram 397 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "K7/3n4/k4p2/5P1p/7P/8/4b3/1B6 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Bd3+ Bxd3 *
+
+[Event "Diagram 398 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/kp3q2/p7/P3p3/7Q/8/8/7K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qf2+ Qxf2 *
+
+[Event "Diagram 399 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/3Q4/8/8/8/7P/5PPK/2q5 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qc7+ 2. Qxc7 *
+
+[Event "Diagram 400 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/3p1K2/3P3k/5P2/2P5/3Q4/5q2 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qxf4+ 2. Qxf4 *
+
+[Event "Diagram 401 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/6p1/7p/8/1p6/pQqp4/P7/3K4 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qg8+ Kxg8 *
+
+[Event "Diagram 402 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/p1p3p1/PpPqB1Q1/1P6/8/8/6P1/6NK b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qh2+ 2. Kxh2 *
+
+[Event "Diagram 403 - Zugzwang/Stalemate"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/8/5NQ1/3P2B1/4PP1P/8/1p4P1/7K b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... b1=Q+ 2. Kh2 Qh1+ 3. Kxh1 *
+

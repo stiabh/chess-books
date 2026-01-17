@@ -1,0 +1,360 @@
+[Event "Diagram 33 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8+ Rxd8 2. Rxd8# *
+
+[Event "Diagram 34 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/5ppp/5b2/4r3/8/2R3P1/2B2PKP/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rc8+ Bd8 2. Rxd8+ Re8 3. Rxe8# *
+
+[Event "Diagram 35 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1q1r2k1/1r4pp/p1p5/npB5/2P5/3P1Q1P/1P3RP1/5R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qf8+ Rxf8 2. Rxf8+ Qxf8 3. Rxf8# *
+
+[Event "Diagram 36 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r1k1/3Qrppp/3R4/8/8/6P1/5PKP/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxe7 Rxe7 $4 2. Rd8+ Re8 3. Rxe8# *
+
+[Event "Diagram 37 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rr1k1/5ppp/8/P7/8/1Q6/P4PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Re1# *
+
+[Event "Diagram 38 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p4ppp/1pQ2b2/8/8/1PN5/P2q1PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe8# *
+
+[Event "Diagram 39 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/1p3p1p/6p1/8/2qB3Q/2P3PP/3b1P1K/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8# *
+
+[Event "Diagram 40 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2r2k1/p2Q1ppp/8/1p6/8/1P6/Pq3PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxd8+ Rxd8 2. Rxd8# *
+
+[Event "Diagram 41 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2r2k1/5ppp/8/pp2Q1b1/2p5/Pq5P/1P2RPP1/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe8+ Rxe8 2. Rxe8+ Rxe8 3. Rxe8# *
+
+[Event "Diagram 42 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2qr1r1k/6pp/p7/Pp1p4/1QpPp2P/4P1P1/1PP2R2/5R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Rxf8+ Rxf8 2. Rxf8+ Qxf8 3. Qxf8# *
+
+[Event "Diagram 43 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "q3rk2/5pp1/1b1N3p/r7/8/4R1P1/6P1/4R2K w - - 0 1"]
+[SetUp "1"]
+
+1. Rxe8+ Qxe8 2. Rxe8# *
+
+[Event "Diagram 44 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r5k/6p1/1r6/1ppP4/3b1R2/3B4/6PP/5R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Rf8+ Rxf8 2. Rxf8# *
+
+[Event "Diagram 45 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/q3rpp1/p6p/6N1/3p1Q2/2p5/2P3PP/1R4K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rb8+ Qxb8 2. Qxb8+ Re8 3. Qxe8# *
+
+[Event "Diagram 46 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/1pp2pp1/5q1p/1b6/8/2P5/1PB2PPP/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ra8+ Qd8 2. Raxd8+ Be8 3. Rxe8# *
+
+[Event "Diagram 47 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r4k/2r2pp1/1n2p3/pp2P3/8/PPpR4/2B2PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Rxd8 2. Rxd8# *
+
+[Event "Diagram 48 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p5p1/1n1r2Pp/1p6/8/8/2R3P1/2R4K w - - 0 1"]
+[SetUp "1"]
+
+1. Rc8+ Nxc8 2. Rxc8+ Rd8 3. Rxd8# *
+
+[Event "Diagram 49 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rkn5/2n4p/1pp1p3/2N1P1p1/2P5/1Q2BpP1/5P1P/R5K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxa1+ 2. Bc1 Rxc1+ 3. Qd1 Rxd1# *
+
+[Event "Diagram 50 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/2rP1ppp/8/8/8/8/6PP/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8+ Rxe8 2. dxe8=Q# *
+
+[Event "Diagram 51 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r6k/1p4RP/4NN2/4q3/p7/P7/1P4PP/1B3b1K w - - 0 1"]
+[SetUp "1"]
+
+1. Rg8+ Rxg8 2. hxg8=Q# *
+
+[Event "Diagram 52 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/pp6/1b3Q2/8/2p5/P1N3p1/1PP2n2/2KB3r w - - 0 1"]
+[SetUp "1"]
+
+1. Qf8+ Bd8 2. Qxd8# *
+
+[Event "Diagram 53 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p4ppp/1p6/1b1n4/8/1P4P1/Pr1r1PBP/2R1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rc8+ Be8 2. Rcxe8# *
+
+[Event "Diagram 54 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r5k1/5ppp/5n2/6r1/p5q1/8/P3RP2/1B2RK1Q w - - 0 1"]
+[SetUp "1"]
+
+1. Qxa8+ Qc8 2. Qxc8+ Ne8 3. Qxe8# *
+
+[Event "Diagram 55 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/pRR3pp/5b2/8/2P5/8/PP4PP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bd4+ 2. Kh1 Rf1# *
+
+[Event "Diagram 56 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p4ppp/1p3n2/2b1R3/8/BP4P1/P2r1rBP/1N2R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8+ Nxe8 2. Rxe8+ Bf8 3. Rxf8# *
+
+[Event "Diagram 57 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4k3/RQ3p2/1R2p3/8/5r2/2r5/6PP/4q1BK b - - 0 1"]
+[SetUp "1"]
+
+1... Qxg1+ 2. Kxg1 Rc1# *
+
+[Event "Diagram 58 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r2rk1/1q4pp/2pB4/2P2Q2/8/6PP/8/5R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qxf8+ Rxf8 2. Rxf8# *
+
+[Event "Diagram 59 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/QR3rbp/1p4p1/8/N1pBP3/1P6/P5PP/2R3K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bxd4+ 2. Kh1 Rf1+ 3. Rxf1 Rxf1# *
+
+[Event "Diagram 60 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/QR3rbp/1p4p1/4q3/N1p1P3/1P6/P5PP/B1R3K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qd4+ 2. Bxd4 Bxd4+ 3. Kh1 Rf1+ 4. Rxf1 Rxf1# *
+
+[Event "Diagram 61 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/pp3ppp/2n3q1/2pQ4/2P5/1P6/P5PP/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxd8+ Nxd8 2. Re8# *
+
+[Event "Diagram 62 - Back Rank Combinations"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r1r2k1/1p3ppb/p1p4p/2P5/P7/1q6/4QPPP/B2RR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxd8+ Rxd8 2. Qe8+ Rxe8 3. Rxe8# *
+

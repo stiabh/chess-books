@@ -1,0 +1,109 @@
+[Event "Chapter 1: Capturing Free Pieces"]
+[FEN "r3r1k1/ppp2pp1/5n2/1q6/1b6/3P4/PPQBNPPP/R4RK1 b - - 0 1"]
+
+{
+[%cal Bb5d3,Be8e2,Bb4d2][%csl Be2]
+
+***CHAPTER 1***
+
+**Capturing Free Pieces**
+
+In this chapter we look at one of the most fundamental areas of improving board vision: taking unprotected pieces. Visualizing the chess board as a whole can be tough if you are just starting. Be sure to look at all of your pieces, near and far, and identify what they are attacking. A piece which is unprotected and can be captured for free may also referred to as ‘en prise’ (än prēz).
+
+Black is attacking a few pieces in this position:
+
+1. The black bishop is attacking the bishop on d2.
+2. The black queen is attacking the pawn on d3.
+3. The black rook is attacking the knight on e2.
+
+The only piece that is ‘en prise’, or free of protection, is the knight on e2. The others are defended by other pieces and would not count as ‘free’ pieces.
+
+The best move for Black is 1...Rxe2.
+}
+1... Re2
+{
+Visualizing the chess board as a whole can be tough if you are just starting, so I have compiled 20 puzzles to help you identify inadequately defended pieces.
+}
+
+[Event "Exercise 1 - Capture Free Pieces"]
+[FEN "8/r7/4kp2/7P/4p3/3bB3/2p5/2R1K3 w - - 0 1"]
+1.Bxa7 {White wins the rook (5 points) for free.}
+
+[Event "Exercise 2 - Capture Free Pieces"]
+[FEN "r1b2rk1/pp3ppp/2q5/1Q6/1b2pB2/5pP1/PPP2P1P/2KR1B1R w - - 0 1"]
+1.Qxb4 {White wins the bishop (3 points) for free.}
+(1.Qxc6 {is not effective since the queen can simply be captured back:}
+1...bxc6 {.})
+
+[Event "Exercise 3 - Capture Free Pieces"]
+[FEN "r2q1rk1/pb1n1p1p/1p2p1pb/3pP3/6Q1/PP1B4/1BPN1PPP/R3R1K1 b - - 0 1"]
+1...Bxd2 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 4 - Capture Free Pieces"]
+[FEN "2kr1b1r/ppp3pp/4b3/2Nnpp2/8/2NP4/PPP2PPP/R1B2RK1 b - - 0 1"]
+1...Bxc5 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 5 - Capture Free Pieces"]
+[FEN "2k3r1/pppq4/3p2n1/2bP2Br/3N1p2/6pP/PPP1Q1P1/2KR3R w - - 0 1"]
+1.Qxh5 {White wins the rook (5 points) for free.}
+
+[Event "Exercise 6 - Capture Free Pieces"]
+[FEN "r2k3r/p2pp2p/1pb3p1/q1p5/Pn1bP3/1BNP1P2/2P3PP/R1BQ1R1K b - - 0 1"]
+1...Bxc3 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 7 - Capture Free Pieces"]
+[FEN "rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PP1B2/6P1/PP1QPPBP/RN2K1NR w - - 0 1"]
+1.Bxa8 {White wins the rook (5 points) for free.}
+
+[Event "Exercise 8 - Capture Free Pieces"]
+[FEN "2kr3r/1ppq2pp/p2bpp2/1Q1p4/P2P1P2/1nP1BN2/RP4PP/5RK1 w - - 0 1"]
+1.Qxb3 {White wins the knight (3 points) for free.}
+
+[Event "Exercise 9 - Capture Free Pieces"]
+[FEN "r3k2r/2p5/p1pqb1pb/4pp1p/7P/2NP1QP1/PPPB1P2/R4RK1 b - - 0 1"]
+1...Bxd2 {Black wins the bishop (3 points) for free.}
+
+[Event "Exercise 10 - Capture Free Pieces"]
+[FEN "r2q1rk1/p4p1p/1pn3p1/2p2bN1/2B5/3PP3/PP4PP/1R1Q1RK1 b - - 0 1"]
+1...Qxg5 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 11 - Capture Free Pieces"]
+[FEN "r2q1rk1/pp2ppbp/2n3p1/1BPN4/3Pn1b1/4BN2/PP3PPP/2RQR1K1 b - - 0 1"]
+1...Qxd5 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 12 - Capture Free Pieces"]
+[FEN "4r1k1/6p1/6Rp/2Ppn3/p2B1P1P/P1P5/1r4P1/R5K1 b - - 0 1"]
+1...Nxg6 {Black wins the rook (5 points) for free.}
+
+[Event "Exercise 13 - Capture Free Pieces"]
+[FEN "r2q1rk1/ppp2ppp/2np1b2/3Q3b/2B1P3/2N2N1P/PP3PP1/R4RK1 w - - 0 1"]
+1.Qxh5 {White wins the bishop (3 points) for free.}
+
+[Event "Exercise 14 - Capture Free Pieces"]
+[FEN "2rNq1k1/7p/5pp1/pn6/6Q1/4P2P/5PP1/3R2K1 w - - 0 1"]
+1.Qxc8 {White wins the rook (5 points) for free.}
+
+[Event "Exercise 15 - Capture Free Pieces"]
+[FEN "r1bqkbnr/pp1n1ppp/4p3/2pp2N1/8/6P1/PPPPPPBP/RNBQ1RK1 b - - 0 1"]
+1...Qxg5 {Black wins the knight (3 points) for free.}
+
+[Event "Exercise 16 - Capture Free Pieces"]
+[FEN "rnb2rk1/pp2ppbp/3p1np1/q5B1/2PN4/2NBP2P/PP3PP1/R2QK2R b - - 0 1"]
+1...Qxg5 {Black wins the bishop (3 points) for free.}
+
+[Event "Exercise 17 - Capture Free Pieces"]
+[FEN "2rr2k1/1p2b1pp/p2ppn2/8/1P2PP2/P5PP/1B2q1BK/2RQ1R2 b - - 0 1"]
+1...Qxb2 {Black wins the bishop (3 points) for free.}
+
+[Event "Exercise 18 - Capture Free Pieces"]
+[FEN "r5k1/3p1pbp/2p3p1/r1Pq4/PQ2p3/4P2P/R2B1PP1/2R3K1 b - - 0 1"]
+1...Qxa2 {Black wins the rook (5 points) for free.}
+
+[Event "Exercise 19 - Capture Free Pieces"]
+[FEN "rnbq1rk1/1pp2ppp/p7/3pp3/B5Q1/P1BP4/2P2PPP/R3K1NR b - - 0 1"]
+1...Bxg4 {Black wins the queen (9 points) for free.}
+
+[Event "Exercise 20 - Capture Free Pieces"]
+[FEN "r2qk2r/ppp3pp/4bp2/2bnp3/2BnN3/3P1N2/PPPB1PPP/R2QK2R w - - 0 1"]
+1.Nxc5 {White wins the bishop (3 points) for free.}
+

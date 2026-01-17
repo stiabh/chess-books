@@ -1,0 +1,13 @@
+[Event "Part 1: General Board Visualization"]
+
+***PART I***
+**General Board Visualization**
+
+In this section of the workbook, we are going to focus on the following concepts:
+
+- Capturing free pieces
+- Counting attackers and defenders
+- Piece defense
+- Checkmates in one
+
+Before you can move on to more advanced topics, such as tactics, it is important that you are able to visualize existing opportunities on the board. While this section may be a bit easier for players who already have some experience playing, consider it a warm-up for the rest of the problems and concepts to be learned in the workbook. The concepts learned in this section are the fundamental building blocks for what is to come.

@@ -1,0 +1,360 @@
+[Event "Diagram 219 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r3/1p6/p7/8/4k3/P7/KP6/1R6 w - - 0 1"]
+[SetUp "1"]
+
+1. Re1+ Kf5 2. Rxe8 *
+
+[Event "Diagram 220 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6n1/2p4p/1p2k1p1/p7/3P4/2P3P1/1P3K1P/5B2 w - - 0 1"]
+[SetUp "1"]
+
+1. Bc4+ Ke7 2. Bxg8 *
+
+[Event "Diagram 221 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/pnb2p1p/1p4p1/3r4/3P3P/P3P1P1/KP3P2/1Q6 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe4 Rd8 2. Qxb7 *
+
+[Event "Diagram 222 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k1r3r/1pp3p1/p3R3/7p/1b6/8/PP3PPP/R1Bq1QK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qxf1+ 2. Kxf1 Rd1+ 3. Ke2 Re1+ 4. Kf3 Rxe6 *
+
+[Event "Diagram 223 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "q6r/1k4n1/1p6/2p2p1p/6p1/6P1/PPP2P1P/R1Q2BK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bg2+ Kc8 2. Bxa8 *
+
+[Event "Diagram 224 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6r1/pp2bbp1/5p2/3k3p/B2P1B2/2P3P1/P2N1P1P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bb3+ Kc6 2. Bxf7 *
+
+[Event "Diagram 225 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k5/2p5/pp3bp1/7p/6b1/P1N5/1PPK1PP1/2R5 b - - 0 1"]
+[SetUp "1"]
+
+1... Bg5+ 2. Kd3 Bxc1 *
+
+[Event "Diagram 226 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k5/2pr4/pp3bp1/7p/6b1/P1N5/1PPB1PP1/2R1K3 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxd2 2. Kxd2 Bg5+ 3. Kd3 Bxc1 *
+
+[Event "Diagram 227 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2b5/p1k3p1/1p3p2/4p3/7P/1P1K2P1/P4P2/1N6 b - - 0 1"]
+[SetUp "1"]
+
+1... Bf5+ 2. Kc4 Bxb1 *
+
+[Event "Diagram 228 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6r1/2pb3R/1p1p4/p2Pp3/2P1Pp2/kP3Br1/P4K2/3R4 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxf3+ 2. Kxf3 Bg4+ 3. Kg2 Bxd1+ *
+
+[Event "Diagram 229 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1rb1r1k1/1pqn1pbp/p1p2np1/4p3/2P1P3/BPN2NP1/P1Q2PBP/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd6 Qd8 2. Bxb8 *
+
+[Event "Diagram 230 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1rb1r1k1/1pqn1pbp/p1pp1np1/4p3/2PPP3/BPN2NP1/P1Q2PBP/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. dxe5 dxe5 2. Bd6 Qd8 3. Bxb8 *
+
+[Event "Diagram 231 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/1pp2ppp/pb1p4/8/PPQ1P3/2P5/R4PPP/1NB1R1K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Be6 2. Qe2 Bxa2 *
+
+[Event "Diagram 232 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/1pp2ppp/pb1p4/4n3/PPB1P3/2P5/R3QPPP/1NB1R1K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nxc4 2. Qxc4 Be6 3. Qe2 Bxa2 *
+
+[Event "Diagram 233 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rq2r/2pb2k1/1p3p2/p1b1p1pp/P1N1P3/1PPB2P1/4QPP1/3R1RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bg4 2. Qc2 Bxd1 *
+
+[Event "Diagram 234 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3b4/1np2pkp/1pr3p1/p7/3P4/1BP2N2/PP4PP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd5 Rf6 2. Bxb7 *
+
+[Event "Diagram 235 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5r1k/6p1/p2rppnp/1p6/8/2B3P1/PPP2PKP/R4R2 w - - 0 1"]
+[SetUp "1"]
+
+1. Bb4 Rdd8 2. Bxf8 *
+
+[Event "Diagram 236 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/pp4pp/5pr1/3k3r/B7/2P3P1/PP3P1P/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Be8 Rgh6 2. Bxh5 *
+
+[Event "Diagram 237 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/p1r1nppp/p3p3/2P5/P2P1PP1/2B5/2R4P/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ba5 Rcd7 2. Bxd8 *
+
+[Event "Diagram 238 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/ppr1nppp/q3p3/2P5/P2P1PP1/2B5/2R1Q2P/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxa6 bxa6 2. Ba5 Rcd7 3. Bxd8 *
+
+[Event "Diagram 239 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4r2/pq3k2/1pp3p1/3p1p2/8/3P4/PPPQ1PPR/1K5R w - - 0 1"]
+[SetUp "1"]
+
+1. Rh7+ Kg8 2. Rxb7 *
+
+[Event "Diagram 240 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4r2/pq3k2/1pp2np1/3p1p2/8/2NP4/PPPQ1PPR/1K5R w - - 0 1"]
+[SetUp "1"]
+
+1. Rh7+ Nxh7 2. Rxh7+ Kg8 3. Rxb7 *
+
+[Event "Diagram 241 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/ppp2ppp/8/b2q4/8/2PP1N2/PP4PP/R2QR2K w - - 0 1"]
+[SetUp "1"]
+
+1. Re5 Qd8 2. Rxa5 *
+
+[Event "Diagram 242 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2r1bk1/p1p2ppp/4p3/n5q1/8/1BNP2P1/PPP1Q1P1/1K2R2R w - - 0 1"]
+[SetUp "1"]
+
+1. Rh5 Qe7 2. Rxa5 *
+
+[Event "Diagram 243 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2q1r2/1ppk1p1p/p2pb3/1P2n3/P7/2P5/2Q1RPPP/1NB1R2K w - - 0 1"]
+[SetUp "1"]
+
+1. Rxe5 dxe5 2. Rd1+ Ke8 3. Rxd8+ *
+
+[Event "Diagram 244 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1Q1nb3/p3k1pp/3p1p2/1B1p4/PK1B4/4P3/5PPP/2r5 b - - 0 1"]
+[SetUp "1"]
+
+1... Nc6+ 2. Bxc6 Rb1+ 3. Ka5 Rxb8 *
+
+[Event "Diagram 245 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3Q4/6np/1nN1k1p1/2p5/5P2/1q6/1P4PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qg8+ Kd6 2. Qxb3 *
+
+[Event "Diagram 246 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3Q4/5knp/1nN3p1/2p5/5P2/1q6/1P4PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ne5+ Ke6 2. Qg8+ Ke7 3. Qxb3 *
+
+[Event "Diagram 247 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "q7/p3r3/6b1/Np6/4k1pP/8/PQ6/K7 w - - 0 1"]
+[SetUp "1"]
+
+1. Qg2+ Kf5 2. Qxa8 *
+
+[Event "Diagram 248 - Skewers"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r2b2/pppk2pp/3p2q1/8/7B/1B1P2Q1/PPP3PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qh3+ Ke8 2. Qxc8# *
+

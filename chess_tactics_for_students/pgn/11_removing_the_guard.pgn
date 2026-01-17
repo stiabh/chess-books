@@ -1,0 +1,360 @@
+[Event "Diagram 312 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4k1/4pp1p/6p1/3PQn2/8/7P/1q2NPP1/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rc8+ Rxc8 2. Qxb2 *
+
+[Event "Diagram 313 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r1k1/p1pq1p1p/8/3p4/5Q2/1P3PP1/P1P3KP/4R3 w - - 0 1"]
+[SetUp "1"]
+
+1. Qg4+ Qxg4 2. Rxe8+ Kg7 3. fxg4 *
+
+[Event "Diagram 314 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/5pp1/2pp4/p1b4q/Pp2P1rP/1B2B3/1PP1QP2/1R3K2 b - - 0 1"]
+[SetUp "1"]
+
+1... Rg1+ 2. Kxg1 Qxe2 *
+
+[Event "Diagram 315 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r5k1/5qnp/p5pB/1ppr4/3p1PP1/3P3P/PP4Q1/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re7 Qxe7 2. Qxd5+ Kh8 3. Qxa8+ *
+
+[Event "Diagram 316 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r3/pp3pkp/2p2np1/5b2/2P5/1P4PP/P2N1PB1/4RK2 b - - 0 1"]
+[SetUp "1"]
+
+1... Bd3+ 2. Kg1 Rxe1+ *
+
+[Event "Diagram 317 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r3/pp3pkp/2p2np1/5b2/2P1r3/1P4PP/P2N1PB1/R3RK2 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxe1+ 2. Rxe1 Bd3+ 3. Kg1 Rxe1+ *
+
+[Event "Diagram 318 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k1nr/1pp2qpp/pbP5/8/8/BQ6/P4PpP/RN1R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Kxd8 2. Qxf7 *
+
+[Event "Diagram 319 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k1nr/1pp2ppp/pbP2q2/8/2B5/BQ6/P4PpP/RN1R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxf7+ Qxf7 2. Rd8+ Kxd8 3. Qxf7 *
+
+[Event "Diagram 320 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r7/pp4kp/3p1np1/2pP4/8/8/PPP3PP/4Q1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe7+ Kh8 2. Qxf6+ *
+
+[Event "Diagram 321 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r5k1/pp5p/3p1np1/2pP4/8/8/PPP3PP/4Q1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe6+ Kg7 2. Qe7+ Kh8 3. Qxf6+ *
+
+[Event "Diagram 322 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/6pp/p1R1P3/P2p4/3P4/1B3Pq1/1P3QPr/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rh1+ 2. Kxh1 Qxf2 *
+
+[Event "Diagram 323 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4r1k/7p/1p1p1Pq1/2pP4/bPP1Qp1P/p2K4/P3BP2/4R2R b - - 0 1"]
+[SetUp "1"]
+
+1... Bc2+ 2. Kxc2 Qxe4+ *
+
+[Event "Diagram 324 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/1R5n/3p1rpk/3B3p/3Q4/2P4P/6PK/4q3 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxh7+ Kxh7 2. Qxf6 *
+
+[Event "Diagram 325 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1R6/6kn/3p1rp1/3B3p/3Q4/2P4P/6PK/4q3 w - - 0 1"]
+[SetUp "1"]
+
+1. Rb7+ Kf8 2. Rxh7 *
+
+[Event "Diagram 326 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k2r/ppp1bppp/2nq4/8/2B3n1/2p2N1P/PP2QPP1/RNB2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nd4 2. Nxd4 $4 Qh2# *
+
+[Event "Diagram 327 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r1k1/1pp2bbp/p1n3p1/5p2/5N2/2N2P2/PPP1B1PP/1K1R4 b - - 0 1"]
+[SetUp "1"]
+
+1... Bxc3 2. bxc3 g5 $1 3. Ng6 Rxe2 *
+
+[Event "Diagram 328 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rbn1k/p1p2n1p/1p2pNp1/6q1/2BP4/1N3Q1P/PP4P1/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe8 Rxe8 2. Qxf7 *
+
+[Event "Diagram 329 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r3rk1/1pp2ppp/3b4/1P2p3/Pn6/4PNP1/4NPKP/1R2R3 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 Bxe5 2. Rxb4 *
+
+[Event "Diagram 330 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/2r2pbp/1p4p1/p7/2P4P/5BP1/Pq2QPK1/3R4 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Bf8 2. Qxb2 *
+
+[Event "Diagram 331 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k6/p7/1p1prrB1/7P/4R3/2P3K1/PP3P2/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxg6+ 2. hxg6 Rxe4 *
+
+[Event "Diagram 332 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/5p1p/6p1/3q4/7P/3QR1P1/5P2/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8+ Rxe8 2. Qxd5 *
+
+[Event "Diagram 333 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r2k/6p1/p1Q1q2p/1p1p4/3Pb1P1/2P4P/5R2/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rf8+ Rxf8 2. Qxe6 *
+
+[Event "Diagram 334 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r3k1/pp3p1p/6p1/8/2q3Q1/7P/PP3PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Kg7 2. Qxc8 *
+
+[Event "Diagram 335 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1r3k1/pp3ppp/8/8/2q3Q1/7P/PP3PP1/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Rxd8 2. Qxc4 *
+
+[Event "Diagram 336 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "br4k1/5pp1/4p2p/2N5/8/Q1qP1P2/6PP/R5K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rb1+ 2. Rxb1 Qxa3 *
+
+[Event "Diagram 337 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r4/p1r2bk1/5p2/2p1q1pp/8/1PR1P2P/P4QP1/2RB2K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxd1+ 2. Rxd1 Qxc3 *
+
+[Event "Diagram 338 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2qk1/pnp4p/3p1BpQ/2p5/5P2/8/PPP3PP/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8 Qxe8 2. Qg7# *
+
+[Event "Diagram 339 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "b3r1k1/p4ppp/1pq5/8/8/1P1P2P1/P1P2QNP/3B2K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Re1+ 2. Nxe1 Qh1# *
+
+[Event "Diagram 340 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3kbnr/2p2ppp/p1q5/1p2p3/4P3/1P1Q4/1PP2PPP/RNBR2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxa6 Rxa6 2. Qd8# *
+
+[Event "Diagram 341 - Removing the Guard"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6rk/q4p1p/r3pPpQ/pR1pN3/3P4/4P3/P4P1P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rb8 Qxb8 2. Nxf7# *
+

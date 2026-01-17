@@ -1,0 +1,112 @@
+[Event "Exercise 219 - Discovered Attack"]
+[FEN "8/2B4p/4kp2/8/5Pp1/4K1b1/6P1/8 w - - 0 1"]
+1.f5+ {Putting the king in check and unleashing the bishop on c7.}
+1...Kxf5 {}
+2.Bxg3 {White wins a bishop and should win this endgame, although he has to be careful not to trade off the last pawn.}
+
+[Event "Exercise 220 - Discovered Attack"]
+[FEN "rn2kb1r/pp2pppp/8/3Q4/4n3/8/PPPPN1qP/RNBK2R1 b - - 0 1"]
+1...Nf2+ {Checking the king and uncovering an attack on the queen.}
+2.Ke1 Qxd5 {Black is up a significant amount of material and should go on to win.}
+
+[Event "Exercise 221 - Discovered Attack"]
+[FEN "r1b2rk1/1pq1bppp/p2p1n2/2nNp3/4P2N/1B6/PPP2PPP/R1BQR1K1 b - - 0 1"]
+1...Nxd5 {Trading knights but also attacking the knight by a discovery on h4.}
+2.Bxd5 {}
+2.Nf3 Nf6 {and Black has still won a minor piece.}
+2...Bxh4 {Black has won a minor piece and should go on to win the game.}
+
+[Event "Exercise 222 - Discovered Attack"]
+[FEN "4r1k1/4r1bp/p5p1/P2P4/1NP5/1P2nRP1/2B2K1P/4R3 b - - 0 1"]
+1...Ng4+ {Checking the king and unleashing the rook battery.}
+2.Kg2 Rxe1 {White wins a rook and should win the game.}
+
+[Event "Exercise 223 - Discovered Attack"]
+[FEN "r1b2r1k/p4ppp/2pqp3/3p4/5N2/1B4Q1/PbP2PPP/4RRK1 w - - 0 1"]
+1.Ng6+ {Sacrificing the knight to win the queen.}
+1...hxg6 {}
+2.Qxd6 {White is up a queen for a bishop and should go on to win the game.}
+
+[Event "Exercise 224 - Discovered Attack"]
+[FEN "5rk1/1p3pp1/5n1p/1qb1Q3/p3P3/5B1P/P4PP1/2R2RK1 b - - 0 1"]
+1...Bxf2+ {Sacrificing the bishop to win the queen by discovery.}
+2.Rxf2 Qxe5 {Black has a queen and pawn for a rook and should win the game.}
+
+[Event "Exercise 225 - Discovered Attack"]
+[FEN "r3r1k1/pppq1ppp/2nb4/3Q4/3P4/P4N2/1P3PPP/R1B2RK1 b - - 0 1"]
+1...Bxh2+ {Sacrificing the bishop with check to open up a discovered attack on the queen.}
+2.Kxh2 Qxd5 {}
+
+[Event "Exercise 226 - Discovered Attack"]
+[FEN "4k2r/1b3ppp/p3p3/1p1pn3/8/2qBQ2P/P4PP1/3R1R1K w - - 0 1"]
+1.Bxb5+ {Sacrificing the bishop to win the queen by discovery.}
+1...axb5 {}
+2.Qxc3 {White is up a lot of material and should go on to win.}
+
+[Event "Exercise 227 - Discovered Attack"]
+[FEN "2krr3/p1p1b1pp/2p4n/q4pN1/5Bb1/2P3P1/PP3PBP/R3QRK1 b - - 0 1"]
+1...Bxg5 {Capturing the knight and unleashing a discovered attack on the queen.}
+
+[Event "Exercise 228 - Discovered Attack"]
+[FEN "r1bq1k2/ppp2p1p/3p3p/3P2r1/7Q/2N4P/PP2BPP1/R4RK1 b - - 0 1"]
+1...Rxg2+ {Sacrificing the rook to open a discovered attack on the queen.}
+2.Kxg2 Qxh4 {Black is up material and should win the game.}
+
+[Event "Exercise 229 - Discovered Attack"]
+[FEN "8/3n3k/3Bp1pp/r1p5/4P3/5P1P/6P1/3R2K1 w - - 0 1"]
+1.Bc7 {Attacking the rook on a5 and unleashing a discovered attack on the c7- knight.}
+1...Ra7 {}
+2.Rxd7+ {Winning the knight and conveniently protecting the bishop.}
+
+[Event "Exercise 230 - Discovered Attack"]
+[FEN "3r2k1/5pp1/2p3rp/4p1q1/6Q1/P4P1P/1PR3P1/R5K1 b - - 0 1"]
+1...Qe3+ {Checking the king and revealing a discovered attack on the queen.}
+2.Kh1 Rxg4 {Black is up material and should go on to win.}
+
+[Event "Exercise 231 - Discovered Attack"]
+[FEN "r2q1rk1/1b4p1/7p/p7/P1pQp3/5pPB/1P3P1P/3RR1K1 w - - 0 1"]
+1.Qxc4+ {Checking the king while unleashing a discovered attack on the queen.}
+1...Kh8 {}
+2.Rxd8 {White is up material and should go on to win.}
+
+[Event "Exercise 232 - Discovered Attack"]
+[FEN "r2q1r2/pp2ppkp/6p1/1B6/4P1b1/8/PPPQ2PP/2KR3R w - - 0 1"]
+1.Qc3+ {Checking the king while discovering the queen.}
+1...Kg8 {}
+2.Rxd8 {}
+
+[Event "Exercise 233 - Discovered Attack"]
+[FEN "r6r/pp3kpp/3p1n2/2p1q3/8/4Q3/PPP3PP/3RR1K1 w - - 0 1"]
+1.Qb3+ {Checking the king and discovering the queen.}
+1...Kg6 {}
+2.Rxe5 {White is up material with a much safer king and should go on to win.}
+
+[Event "Exercise 234 - Discovered Attack"]
+[FEN "3b4/4k1p1/2R1p3/1R6/1P2p2K/4P3/5P2/6r1 b - - 0 1"]
+1...Kd7+ {Attacking the rook and revealing a discovered attack on the king.}
+2.Kh3 Kxc6 {After winning the rook, Black is up a bishop and should win the game.}
+
+[Event "Exercise 235 - Discovered Attack"]
+[FEN "4r1k1/ppp2p1p/5p1B/3qn3/6bN/1P2Q3/P1P2PPK/R7 b - - 0 1"]
+1...Nf3+ {Checking the king and unleashing a discovered attack on the queen.}
+2.gxf3 {}
+2.Qxf3 Bxf3 {doesn’t change much.}
+2...Rxe3 {Black is up material and should go on to win the game.}
+
+[Event "Exercise 236 - Discovered Attack"]
+[FEN "r2q1rk1/2p2pp1/p2b3p/B1PR4/4p3/8/PP3PPP/4QRK1 b - - 0 1"]
+1...Bxh2+ {Sacrificing the bishop for a pawn to win the rook on d5 by discovery.}
+2.Kxh2 Qxd5 {Black has won the exchange and should win the game.}
+
+[Event "Exercise 237 - Discovered Attack"]
+[FEN "1k6/pp2qpp1/2p1p2p/2N4n/PQ6/8/1PP5/1K6 w - - 0 1"]
+1.Na6+ {Checking the king and revealing a discovered attack on the queen.}
+1...Kc8 {}
+2.Qxe7 {White will be up a large amount of material and should win.}
+
+[Event "Exercise 238 - Discovered Attack"]
+[FEN "1r4k1/1p3rpp/2p2p2/p1P3q1/P3PRP1/3P2Q1/7P/1R4K1 w - - 0 1"]
+1.Rf5 {Attacking the queen and unleashing a discovered attack on the b8- rook.}
+1...Qg6 {}
+2.Qxb8+ {White wins a rook and should go on to win the game.}
+

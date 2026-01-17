@@ -1,0 +1,390 @@
+[Event "Diagram 343 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6nk/6p1/5pQp/3q1B2/6P1/8/8/1KR5 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qb3+ 2. Ka1 Qa3+ 3. Kb1 Qb3+ *
+
+[Event "Diagram 344 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/6p1/6Q1/2p5/7P/q1b5/2P5/1K6 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qh5+ Kg8 2. Qe8+ Kh7 3. Qh5+ *
+
+[Event "Diagram 345 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/5p2/6p1/4p3/4Q3/q1b4P/2P5/1K4R1 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Rxg6+ fxg6 2. Qxg6+ Kh8 3. Qh6+ Kg8 4. Qg6+ *
+
+[Event "Diagram 346 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4k1/1r4p1/8/2p4Q/1q6/8/6PP/4R2K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Re8+ Rxe8 2. Qxe8+ Kh7 3. Qh5+ Kg8 4. Qe8+ *
+
+[Event "Diagram 347 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/8/8/8/8/7P/6P1/5nBK b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Ng3+ 2. Kh2 Nf1+ 3. Kh1 Ng3+ *
+
+[Event "Diagram 348 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5N1k/6p1/4B2p/8/8/5n2/5q2/7K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Ng6+ Kh7 2. Nf8+ Kh8 3. Ng6+ *
+
+[Event "Diagram 349 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/1N3p1p/3R1P1Q/6P1/8/2n5/4r3/2K5 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Na2+ 2. Kd1 Nc3+ 3. Kc1 Na2+ *
+
+[Event "Diagram 350 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1r1k3/7R/8/qppR4/6N1/8/2b3PP/5B1K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Nf6+ Kf8 2. Nd7+ Ke8 3. Nf6+ Kf8 4. Nd7+ *
+
+[Event "Diagram 351 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k3r2/ppp3P1/1b3n2/1P4p1/P7/1QN3P1/6PK/R7 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Ng4+ 2. Kh1 Nf2+ 3. Kh2 Ng4+ 4. Kh1 Nf2+ *
+
+[Event "Diagram 352 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r3r2/p5kp/3p1pP1/q1p1p3/4P2N/2pP4/PPP2P1P/1K1R2R1 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Nf5+ Kg8 2. Ne7+ Kg7 3. Nf5+ Kg8 4. Ne7+ Kg7 *
+
+[Event "Diagram 353 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5r1k/4nppB/p2q4/1p6/8/1P1N3R/2P2PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Bg6+ Kg8 2. Bh7+ Kh8 3. Bg6+ *
+
+[Event "Diagram 354 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5bk1/8/2b4p/4BB2/8/8/rr1q4/6K1 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Be6+ Kh7 2. Bf5+ Kg8 3. Be6+ *
+
+[Event "Diagram 355 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1kr5/R7/PP6/8/8/1p4P1/r6P/7K w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Rb7+ Ka8 2. Ra7+ Kb8 3. Rb7+ *
+
+[Event "Diagram 356 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/6r1/BP6/7p/7R/P7/5k1K/8 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rg2+ 2. Kh3 Rg3+ 3. Kh2 Rg2+ 4. Kh1 Rg1+ *
+
+[Event "Diagram 357 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r5k/5RR1/8/4p3/4Pp2/4qP2/8/K7 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Rh7+ Kg8 2. Rhg7+ Kh8 3. Rh7+ *
+
+[Event "Diagram 358 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/4R3/p1K5/8/6r1/7q/8/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Re8+ Ka7 2. Re7+ Ka8 3. Re8+ *
+
+[Event "Diagram 359 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/4N3/pp2N3/1p5p/1P4p1/P2rq3/1KR4P/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Rc8+ Ka7 2. Rc7+ Ka8 3. Rc8+ *
+
+[Event "Diagram 360 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k1r4/pp3QRR/8/2n5/8/8/PP1q1r1p/1K6 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qxb7+ Nxb7 2. Rxb7+ Ka8 3. Rxa7+ Kb8 4. Rab7+ *
+
+[Event "Diagram 361 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k4r1/ppp5/1b3p2/4p3/5n2/1NN3P1/PPPQ1P2/3R1RK1 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rxg3+ 2. Kh1 Rh3+ 3. Kg1 Rg3+ *
+
+[Event "Diagram 362 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k4r1/ppp3q1/1b3p2/4p3/5n2/1NN3P1/PPPQ1P1P/3R1RK1 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qxg3+ 2. hxg3 Rxg3+ 3. Kh1 Rh3+ 4. Kg1 Rg3+ *
+
+[Event "Diagram 363 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/8/6pp/8/7q/Q7/1K5p/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qf8+ Kh7 2. Qf7+ Kh8 3. Qf8+ *
+
+[Event "Diagram 364 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1kr5/2p3pp/QpP5/1P3q2/8/8/5P1P/5RK1 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Qg4+ 2. Kh1 Qf3+ 3. Kg1 Qg4+ *
+
+[Event "Diagram 365 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/6p1/8/6KQ/1r6/q1b5/8/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qe8+ Kh7 2. Qh5+ Kg8 3. Qe8+ *
+
+[Event "Diagram 366 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4k1/6p1/8/6KQ/1r6/q1b5/8/4R3 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Re8+ Rxe8 2. Qxe8+ Kh7 3. Qh5+ Kg8 4. Qe8+ *
+
+[Event "Diagram 367 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/p7/k1p5/1p6/1P6/1KP4Q/3q1r2 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qc7+ Kb5 2. Qb7+ Ka5 3. Qc7+ *
+
+[Event "Diagram 368 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4rk2/pppb1p2/3b2p1/7p/4r3/1PQ5/PBP2PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qg7+ Ke7 2. Qf6+ Kf8 3. Qg7+ Ke7 4. Qf6+ *
+
+[Event "Diagram 369 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/8/8/8/4Q3/q7/2P5/1K6 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qg6+ Kh8 2. Qh6+ Kg8 3. Qg6+ *
+
+[Event "Diagram 370 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/5p2/6pp/8/3p4/qBbQ4/2P5/1K6 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. Qxg6+ Kh8 2. Qxh6+ Kg8 3. Qg6+ *
+
+[Event "Diagram 371 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k4r1/p1p4p/Q1B5/3P4/3B4/4PqP1/7P/5RK1 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rxg3+ 2. hxg3 Qxg3+ 3. Kh1 Qh3+ 4. Kg1 Qg3+ *
+
+[Event "Diagram 372 - Perpetual Check"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4nk/1r4p1/5pQp/5B2/6R1/1Pq5/P1P5/1KR5 b - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1... Rxb3+ 2. axb3 Rxb3+ 3. cxb3 Qxb3+ 4. Ka1 Qa3+ *
+

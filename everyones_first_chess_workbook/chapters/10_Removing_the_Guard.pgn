@@ -1,0 +1,112 @@
+[Event "Exercise 264 - Removing the Guard"]
+[FEN "8/R4p2/4b1kp/3p4/8/7r/P3R1K1/8 w - - 0 1"]
+1.Rxe6+ {Removing the guard of the rook.}
+1...fxe6 {}
+2.Kxh3 {White is up a rook and should win the endgame.}
+
+[Event "Exercise 265 - Removing the Guard"]
+[FEN "r1bqkb1r/ppp2ppp/2np3n/4p2Q/2B1P3/3P4/PPP2PPP/RNB1K1NR w - - 0 1"]
+1.Bxh6 {Removing the guard of the checkmate on f7. Black can stop checkmate, but has lost a minor piece.}
+
+[Event "Exercise 266 - Removing the Guard"]
+[FEN "r3k1nr/ppp1q1pp/2npp3/2b1p1N1/4P3/2NPB2P/PPP2PP1/R2QK2R b - - 0 1"]
+1...Bxe3 {Removing the guard of the knight on g5.}
+2.fxe3 Qxg5 {Black wins a knight and should go on to win the game.}
+
+[Event "Exercise 267 - Removing the Guard"]
+[FEN "r1b2k1r/pp2nppp/1q2p3/1BbpP3/1P1N4/2P5/P4PPP/RN1QK2R b - - 0 1"]
+1...Bxd4 {Removing the guard of the bishop on b5.}
+2.Qxd4 Qxb5 {Black has won a minor piece and should win the game.}
+
+[Event "Exercise 268 - Removing the Guard"]
+[FEN "rn2k2r/1p3ppp/p2b1n2/2p1q2b/2P5/2NP1N1P/PP2BPP1/R1BQ1RK1 b - - 0 1"]
+1...Bxf3 {Removing the guard of the checkmate on h2. White may stop the checkmate with}
+2.g3 {but Black has won a piece.}
+
+[Event "Exercise 269 - Removing the Guard"]
+[FEN "7k/1pp2r1p/p7/4b3/8/2P3qP/PP4P1/3QRN1K b - - 0 1"]
+1...Rxf1+ {Removing the guard of the checkmate on h2.}
+2.Rxf1 Qh2# {}
+
+[Event "Exercise 270 - Removing the Guard"]
+[FEN "2k5/ppN4p/8/8/2P1b1p1/6B1/Pr2nPPP/3R3K b - - 0 1"]
+1...Nxg3+ {Removing the guard of the knight on c7.}
+2.hxg3 Kxc7 {Black is up a minor piece and should win the game.}
+
+[Event "Exercise 271 - Removing the Guard"]
+[FEN "r2qr1k1/ppp1bppp/5n2/8/3BP1b1/3P1NP1/PP3PBP/R2Q1RK1 b - - 0 1"]
+1...Bxf3 {Removing the guard of the bishop on d4.}
+2.Qxf3 Qxd4 {Black has won a minor piece and should win the game from here.}
+
+[Event "Exercise 272 - Removing the Guard"]
+[FEN "8/p1p3b1/2p5/1pPk4/1P2R1pP/P5P1/3r1NK1/8 b - - 0 1"]
+1...Rxf2+ {Removing the guard of the rook on e4.}
+2.Kxf2 Kxe4 {Black is up a bishop and should win the endgame.}
+
+[Event "Exercise 273 - Removing the Guard"]
+[FEN "r1b1kbnr/ppB1pppp/2n5/8/8/8/P1P3BP/qN1QK1NR w - - 0 1"]
+1.Bxc6+ {Removing the guard of the checkmate on d8.}
+1...bxc6 {}
+1...Bd7 {does not change much since}
+2.Qxd7# {ends the game too.}
+2.Qd8# {}
+
+[Event "Exercise 274 - Removing the Guard"]
+[FEN "5rk1/pp1rbpp1/2p2n1p/8/2B1N3/4R3/PPP2P1P/3RK3 w - - 0 1"]
+1.Nxf6+ {Removing the guard of the rook on d7.}
+1...Bxf6 {}
+2.Rxd7 {White is now up a rook and should win without much trouble.}
+
+[Event "Exercise 275 - Removing the Guard"]
+[FEN "rn3rk1/pp2ppbp/2pp1np1/q5B1/2PPP1b1/2N2N1P/PP2BPP1/R2Q1RK1 b - - 0 1"]
+1...Bxf3 {Removing the guard of the bishop on g5.}
+2.Bxf3 {}
+2.Bxf6 {doesn’t help much since Black can play .}
+2...Qxg5 {Black has won a minor piece and should go on to win the game.}
+
+[Event "Exercise 276 - Removing the Guard"]
+[FEN "r2q1rk1/ppp1bppp/2np1n2/4p1B1/2B1P1b1/2PP2Q1/PP3PPP/RN2K1NR w - - 0 1"]
+1.Bxf6 {Removing the guard of the bishop on g4.}
+1...Bxf6 {}
+2.Qxg4 {White has won a bishop and should go on to win the game.}
+
+[Event "Exercise 277 - Removing the Guard"]
+[FEN "4r3/p1p1r1pk/3b3p/1p3p2/1nN2Pq1/1PQ1P1P1/P1P4P/R1B2RK1 w - - 0 1"]
+1.Nxd6 {Removing the guard of the knight on b4.}
+1...cxd6 {}
+1.Qxb4 {White is up a bishop and should go on to win.}
+
+[Event "Exercise 278 - Removing the Guard"]
+[FEN "8/2P5/3nRrk1/7p/6p1/8/7P/6K1 w - - 0 1"]
+1.Rxd6 {Removing the guard of the pawn promotion.}
+1...Rxd6 {}
+2.c8 {Q White queens the pawn and should go on to win.}
+
+[Event "Exercise 279 - Removing the Guard"]
+[FEN "r6r/pp4pp/3bkn2/4p2q/8/3P4/PPP1Q1PP/R4R1K w - - 0 1"]
+1.Rxf6+ {Removing the guard of the queen with check.}
+1...gxf6 {}
+2.Qxh5 {White is up material with a much safer king and should go on to win the game.}
+
+[Event "Exercise 280 - Removing the Guard"]
+[FEN "rn1qkb1r/ppp1pppp/5n2/8/4N1b1/5Q2/PPPP1PPP/R1B1KBNR w - - 0 1"]
+1.Nxf6+ {Removing the guard of the bishop on g4 with a check.}
+1...exf6 {}
+2.Qxg4 {White wins a minor piece and should go on to win.}
+
+[Event "Exercise 281 - Removing the Guard"]
+[FEN "r3k1nr/ppp1ppbp/2n3p1/4P3/3q4/5B2/PPP3PP/RNBQK2R w - - 0 1"]
+1.Bxc6+ {Removing the guard of the queen with check.}
+1...bxc6 {}
+2.Qxd4 {White wins the queen for nothing and should go on to win without many problems.}
+
+[Event "Exercise 282 - Removing the Guard"]
+[FEN "r2qkb1r/n2b1ppp/4p3/p2pPnN1/Pp1P4/1P2B3/3NBPPP/2RQ1RK1 b - - 0 1"]
+1...Nxe3 {Removing the guard of the knight on g5.}
+2.fxe3 Qxg5 {Black wins a minor piece and should win the game.}
+
+[Event "Exercise 283 - Removing the Guard"]
+[FEN "r3kb1r/p2n2pp/2p5/1p2B3/1q2Q3/1P2PP1P/P3N1P1/R4K1R b - - 0 1"]
+1...Qxe4 {Trading queens and removing the guard of the bishop on e5.}
+2.fxe4 Nxe5 {Black wins a minor piece and should go on to win the game.}
+

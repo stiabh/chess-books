@@ -1,0 +1,360 @@
+[Event "Diagram 188 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1kbnr/pp3ppp/4p3/3pP3/3q4/3B4/PP3PPP/RNBQK2R w - - 0 1"]
+[SetUp "1"]
+
+1. Bb5+ Ke7 2. Qxd4 *
+
+[Event "Diagram 189 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r3k1/p1p3bp/1p2q1p1/5p2/8/P1P4P/1P2BPP1/3QR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ba6 Qe8 2. Bxc8 *
+
+[Event "Diagram 190 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1kr2b1r/ppp3pp/3p4/3Pn3/8/2Q1B2q/PPP2P1P/1K1RR3 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxa7+ Kxa7 2. Qxh3 *
+
+[Event "Diagram 191 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r1qb1r/kbp2ppp/pp3n2/3pn3/8/1PN1PN2/PBPPB1PP/R2QK2R w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 Qxe5 $4 2. Nb5+ axb5 3. Bxe5 *
+
+[Event "Diagram 192 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/pp3ppp/2p2q2/3b4/8/1PP4P/PBQ2PP1/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. c4 Qd8 2. cxd5 *
+
+[Event "Diagram 193 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/1p3pbp/1n1pq3/p5P1/3P4/1PN1BQ1R/1P5P/R6K w - - 0 1"]
+[SetUp "1"]
+
+1. d5 Qe8 2. Bxb6 *
+
+[Event "Diagram 194 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r3k1/pp2ppbp/3pbnp1/q7/3QPP2/2N2B1P/PPP3PK/R3R3 b - - 0 1"]
+[SetUp "1"]
+
+1... Ng4+ 2. Bxg4 Bxd4 *
+
+[Event "Diagram 195 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r3k1/pp2ppbp/3pbnp1/q7/2rBPP2/2N2B1P/PPP3PK/R2QR3 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxd4 2. Qxd4 $4 Ng4+ 3. Bxg4 Bxd4 *
+
+[Event "Diagram 196 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2b1rk1/2pq1ppp/p1n3b1/1p2pN2/3pP1Q1/2PP4/PPB2PPP/R1B1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nh6+ gxh6 2. Qxd7 *
+
+[Event "Diagram 197 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2rk1/pp3p1p/6p1/6q1/3Npn2/6P1/PPPQBP1P/R3R1K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nh3+ 2. Kg2 Qxd2 *
+
+[Event "Diagram 198 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/2p3pp/p3r3/1p2b3/3pR3/N7/PPP2PPP/R5K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bxh2+ 2. Kxh2 Rxe4 *
+
+[Event "Diagram 199 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2q1rk1/p3bpnp/1pnp2p1/8/4P3/P1B2N1P/BP2QPP1/2RR2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxg7 Kxg7 2. Rxc6 *
+
+[Event "Diagram 200 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/3b1p2/prpB1Pp1/7p/4P3/1PPR4/1K5P/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Bc7 Rb8 2. Rxd7 *
+
+[Event "Diagram 201 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r1q2k1/pp2bpp1/2p4p/8/2P5/1P3Q1P/P2B1PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bf4 Qf8 2. Bxb8 *
+
+[Event "Diagram 202 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2n1p3/4P3/6n1/2NB1N2/PP2QPPP/R1BR2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxh7+ Kxh7 2. Rxd8 *
+
+[Event "Diagram 203 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r2n1k1/r1p1q1pp/B7/R3pb2/1P6/2Q1PP2/1B4PP/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bc4+ Kh8 2. Rxa7 *
+
+[Event "Diagram 204 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb1r1k1/ppp1Bppp/1b6/q2P4/4R3/2N2N1P/PP3PP1/R2Q2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bb4 Rxe4 2. Bxa5 *
+
+[Event "Diagram 205 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppp2ppp/1b6/q2P2B1/4R3/2N2N1P/PP3PP1/R2Q2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Be7 Re8 $2 2. Bb4 Rxe4 3. Bxa5 *
+
+[Event "Diagram 206 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/pp2bpp1/2p1bn1p/8/3q1B2/P1NB4/1P3PPP/R2Q1RQ1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bh7+ Kxh7 2. Qxd4 *
+
+[Event "Diagram 207 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4k1/3n1pbp/p2q2p1/3Bp3/1RP5/4B1P1/P2Q1P1P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxf7+ Kxf7 2. Qxd6 *
+
+[Event "Diagram 208 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppq3pp/1n2p3/4Pp2/2BP4/5N2/PP3PPP/R1Q1K2R w - - 0 1"]
+[SetUp "1"]
+
+1. Bxe6+ Bxe6 2. Qxc7 *
+
+[Event "Diagram 209 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppp2qpp/1n2p3/1N2Pp2/2BP4/8/PP3PPP/R1Q1K2R w - - 0 1"]
+[SetUp "1"]
+
+1. Nxc7 Qxc7 $4 2. Bxe6+ Bxe6 3. Qxc7 *
+
+[Event "Diagram 210 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k5/pp5p/8/2q2p2/2Br2n1/2QP2N1/P4PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Be6+ Kd8 2. Qxc5 *
+
+[Event "Diagram 211 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2b1R3/ppk4p/8/2q2p2/2Br2n1/2QP2N1/P4PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxc8+ Kxc8 2. Be6+ Kd8 3. Qxc5 *
+
+[Event "Diagram 212 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rr1k1/p1p2ppp/Q2b1q2/8/3Np3/4P3/PP3PPP/R1B2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bxh2+ 2. Kxh2 Qxa6 *
+
+[Event "Diagram 213 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2brr1k1/p1p2ppp/3b1q2/8/2QN4/4P3/PP3PPP/R1B2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ba6 2. Qxa6 $2 Bxh2+ 3. Kxh2 Qxa6 *
+
+[Event "Diagram 214 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r2k2r/pbppnpp1/1bn4p/4P3/Q1B3q1/2P2NN1/P4PPP/R1B1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxf7+ Kxf7 2. Qxg4 *
+
+[Event "Diagram 215 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/pppbb1pp/2npp3/7q/2PPQ3/BP3NP1/P4PBP/R4RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... d5 2. Qf4 Bxa3 *
+
+[Event "Diagram 216 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1r3k1/1p3pp1/p6p/3q1n2/4R3/4BQ1P/1P3PP1/R5K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8+ Rxe8 2. Qxd5 *
+
+[Event "Diagram 217 - Discovered Attacks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3n4/6k1/8/8/8/3K1n2/P7/3R4 w - - 0 1"]
+[SetUp "1"]
+
+1. Ke3 Ng5 2. Rxd8 *
+

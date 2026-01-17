@@ -1,0 +1,360 @@
+[Event "Diagram 157 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqkbnr/pp3ppp/2p5/3p4/4N3/5p2/PPPPQPPP/R1B1KB1R w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6# *
+
+[Event "Diagram 158 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2qkb1r/1pp2ppp/8/3p1b2/1n1P4/2N5/PPP1BPPP/R1BQR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bb5# *
+
+[Event "Diagram 159 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbk1bnr/pp3ppp/2p5/4q3/4p3/8/PPPB1PPP/2KR1BNR w - - 0 1"]
+[SetUp "1"]
+
+1. Bg5+ Ke8 2. Rd8# *
+
+[Event "Diagram 160 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb1kbnr/pp3ppp/2p5/4q3/4p3/3Q4/PPPB1PPP/2KR1BNR w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8+ Kxd8 2. Bg5+ Ke8 3. Rd8# *
+
+[Event "Diagram 161 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k2r/ppp1qppp/5B2/3Pn3/8/8/PPP2PPP/RN1QKB1R b - - 0 1"]
+[SetUp "1"]
+
+1... Nf3# *
+
+[Event "Diagram 162 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rkr2/ppb3pp/2p5/5p1q/2B1N1b1/3P4/PPP1QPPP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6# *
+
+[Event "Diagram 163 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rqkn1/6pp/8/p1b5/P1n2N2/3b3P/4rRP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ng6# *
+
+[Event "Diagram 164 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/pb3pp1/8/5B1p/8/P4r2/7P/1R3N1K b - - 0 1"]
+[SetUp "1"]
+
+1... Rxf1# *
+
+[Event "Diagram 165 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r2b1r/pkp2p1p/1p2b1p1/4q3/4N3/6P1/PPP2PBP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nc5+ Kb8 2. Na6# *
+
+[Event "Diagram 166 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k3r2r/p2q2b1/2p5/4N2p/4Q1p1/1R4B1/PP3PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rb8+ Kxb8 2. Nxd7+ *
+
+[Event "Diagram 167 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/1bpn1p1p/1p1b1Qp1/p7/3N2r1/1P3Pq1/PBP5/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Qg7+ Kxg7 2. Nf5+ Kg8 3. Nh6# *
+
+[Event "Diagram 168 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/pppnpppp/8/7B/2NPn3/1Q6/PPP2PPP/RNB2RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxf7+ Kxf7 2. Ne5+ Ke8 3. Qf7# *
+
+[Event "Diagram 169 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rr5k/p4ppp/8/6N1/8/1Q6/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Nxf7+ Kg8 2. Nh6+ Kh8 3. Qg8+ $1 Rxg8 4. Nf7# *
+
+[Event "Diagram 170 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1q1rk1/p2pb1pp/bp2p3/2pnN2Q/3PN3/3B4/PPPB1PPP/R3K2R w - - 0 1"]
+[SetUp "1"]
+
+1. Qxh7+ Kxh7 2. Nf6+ Kh8 3. Ng6# *
+
+[Event "Diagram 171 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r1k2/6p1/8/p1b5/Pp3B2/4P2P/5RP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd6+ Kg8 2. Bxc5 *
+
+[Event "Diagram 172 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn3rk1/p5pp/2p5/3Ppb2/8/1Q6/PPPB2PP/R4KNR b - - 0 1"]
+[SetUp "1"]
+
+1... Bd3+ 2. Ke1 Rf1# *
+
+[Event "Diagram 173 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbk2r1/ppp2p1p/4p3/8/1b6/8/PPPB1nPP/2KR1BNR w - - 0 1"]
+[SetUp "1"]
+
+1. Bg5+ Ke8 2. Rd8# *
+
+[Event "Diagram 174 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb1k1r1/ppp2p1p/4p3/8/1b2q2Q/8/PPPB1nPP/2KR1BN1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8+ Kxd8 2. Bg5+ Ke8 3. Rd8# *
+
+[Event "Diagram 175 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3r1k1/ppp1bppp/5n2/6B1/3P4/P7/1PP2PPP/4KB1R b - - 0 1"]
+[SetUp "1"]
+
+1... Bb4+ 2. Kd1 Re1# *
+
+[Event "Diagram 176 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2qr1k1/ppp1bppp/5n2/6B1/2PR4/P3P3/1PQ2PPP/4KB1R b - - 0 1"]
+[SetUp "1"]
+
+1... Qxd4 2. Bd3 $1 Qg4 *
+
+[Event "Diagram 177 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1k1b1r/pp2pp1p/2p2p2/8/8/5N2/1PPB1PPP/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+1. Ba5+ Kc8 2. Rd8# *
+
+[Event "Diagram 178 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pp1p/2p2p2/8/8/3Q1N2/qPPB1PPP/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8+ Kxd8 2. Ba5+ Kc8 3. Rd8# *
+
+[Event "Diagram 179 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bk3r/ppp2ppp/2p5/8/4n3/8/PPPB2PP/2KR1B1R w - - 0 1"]
+[SetUp "1"]
+
+1. Bg5+ Ke8 2. Rd8# *
+
+[Event "Diagram 180 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k2r/ppp2ppp/2p5/8/3Qn1q1/8/PPPB2PP/2KR1B1R w - - 0 1"]
+[SetUp "1"]
+
+1. Qd8+ Kxd8 2. Bg5+ Ke8 3. Rd8# *
+
+[Event "Diagram 181 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r3Q/pb1qkpp1/1p2pb1p/8/3N4/P3B3/1P3PPP/1Br1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf5+ exf5 2. Bc5# *
+
+[Event "Diagram 182 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1knr1/pp2bp1p/1q6/5p2/4N3/8/PPPQBPPP/2KRR3 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6+ Bxf6 $2 2. Bb5# *
+
+[Event "Diagram 183 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "q3kb1r/3n1ppp/4B3/1p6/3N4/8/2PBQP1P/5bK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxf7+ Kd8 2. Qe8+ Kc7 3. Qxa8 *
+
+[Event "Diagram 184 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/1bpp2p1/3bp3/p7/2P5/P3BrPq/1PQ2P1P/4RRK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qg2+ 2. Kxg2 Rxg3# *
+
+[Event "Diagram 185 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4r1k/ppp2pRp/1P1p4/8/1P2P3/3n4/PB3P1P/R6K w - - 0 1"]
+[SetUp "1"]
+
+1. Rg8+ Kxg8 2. Rg1# *
+
+[Event "Diagram 186 - Double Checks"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3qr1k/ppp2pRp/2np4/4B3/8/3P4/PPP1KP1P/R7 w - - 0 1"]
+[SetUp "1"]
+
+1. Rg8+ Kxg8 2. Rg1# *
+

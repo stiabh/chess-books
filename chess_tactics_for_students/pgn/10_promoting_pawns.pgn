@@ -1,0 +1,361 @@
+[Event "Diagram 281 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/p7/Pp2k2b/1P6/3B4/5K2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxb6 axb6 2. a7 Kf7 3. a8=Q *
+
+[Event "Diagram 282 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "n7/2k3p1/5pP1/5P2/4N3/3K4/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxf6 gxf6 2. g7 Kd8 3. g8=Q+ *
+
+[Event "Diagram 283 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p4ppp/Pr6/2Qp1q2/5P2/2P1P3/6PP/R5K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxb6 axb6 2. a7 Kh8 3. a8=Q+ *
+
+[Event "Diagram 284 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/5P1k/5K2/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[result "1/2-1/2"]
+
+1. f8=R Kh6 2. Rh8# *
+
+[Event "Diagram 285 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/k1P1q3/p7/7R/8/P7/K7/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c8=N+ Kb8 2. Nxe7 *
+
+[Event "Diagram 286 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/1k1P4/4q3/8/8/1p6/1P6/1K6 w - - 0 1"]
+[SetUp "1"]
+
+1. d8=N+ Kc8 2. Nf7 *
+
+[Event "Diagram 287 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "k7/2b5/8/8/6p1/6Pp/1K5P/1N6 b - - 0 1"]
+[SetUp "1"]
+
+1... Bxg3 2. hxg3 h2 3. Kc3 h1=Q *
+
+[Event "Diagram 288 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4bk2/8/8/2p5/1pP3K1/pP5B/P7/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ba4 2. bxa4 b3 3. axb3 a2 4. Kh5 a1=Q *
+
+[Event "Diagram 289 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/k4P2/8/2b5/8/8/1B4K1/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd4 Bxd4 2. f8=Q *
+
+[Event "Diagram 290 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/pp3p2/5p2/5p1P/1P1bk3/P5B1/2K5/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Bf4 Kxf4 2. h6 Kg5 3. h7 Kh6 4. h8=Q+ *
+
+[Event "Diagram 291 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4n3/6p1/1k1pNp2/5P1P/1K4P1/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxg7 Nxg7 2. h6 Ne8 3. h7 Ng7 4. h8=Q *
+
+[Event "Diagram 292 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k1r3/1pp5/p2p4/3P1p2/3N2p1/5PPp/PPPK2n1/6R1 b - - 0 1"]
+[SetUp "1"]
+
+1... Re1 2. Rxe1 Nxe1 3. Kxe1 h2 4. Ne6 h1=Q+ *
+
+[Event "Diagram 293 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r1k3/ppP1r1pp/3R4/5R2/8/6P1/P4PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd8+ Rxd8 2. Rf8+ Kxf8 3. cxd8=Q+ *
+
+[Event "Diagram 294 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/1P1R4/1r4kp/p5p1/3p2P1/4PK2/1P3P1P/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd6+ Rxd6 2. b8=Q *
+
+[Event "Diagram 295 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4r1k/4N2p/4n1p1/4Pp2/1p1P1PP1/1q5P/p5R1/3R1QK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qxd1 2. Qxd1 a1=Q *
+
+[Event "Diagram 296 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/p1pp4/1p2p1p1/2P1r1N1/7P/3Q4/PP3pq1/1K3R2 b - - 0 1"]
+[SetUp "1"]
+
+1... Qxf1+ 2. Qxf1 Re1+ 3. Qxe1 fxe1=Q+ *
+
+[Event "Diagram 297 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5k2/6b1/2p4p/P1pr4/2Q5/1P4P1/2P4P/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Qxd5 cxd5 2. a6 Kg8 3. a7 Kh8 4. a8=Q+ *
+
+[Event "Diagram 298 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5k2/p1q2p1p/2Pr2p1/4Q3/P7/6P1/5P1P/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxd6+ Qxd6 2. c7 Kg8 3. c8=Q+ *
+
+[Event "Diagram 299 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2Q5/1p3p1k/p2prPq1/8/7p/8/PP3RP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxe6 fxe6 2. f7 Qg7 3. f8=Q *
+
+[Event "Diagram 300 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/1p3p2/p2prPq1/8/7p/2Q5/PP3RP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qc8+ Kh7 2. Qxe6 fxe6 3. f7 Qg7 4. f8=Q *
+
+[Event "Diagram 301 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3q3k/r2P3p/1p4p1/p1pQ1p2/8/7P/PP3PP1/3R4 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe5+ Kg8 2. Qe8+ Qxe8 3. dxe8=Q+ *
+
+[Event "Diagram 302 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2q3k1/pp2P2p/3p1Q1p/2pP2r1/4P3/6N1/P5PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Qe6+ Qxe6 2. dxe6 Kh8 3. e8=Q+ *
+
+[Event "Diagram 303 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k5/5P1p/3pn3/1pp5/3B4/8/1PP4P/2K5 w - - 0 1"]
+[SetUp "1"]
+
+1. Bg7 Kd7 2. f8=Q Nxf8 3. Bxf8 *
+
+[Event "Diagram 304 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/4P1pp/1p1n4/p7/8/1P3PP1/4B1KP/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Bc4+ Kh8 2. Bb5 g6 3. e8=Q+ Nxe8 4. Bxe8 *
+
+[Event "Diagram 305 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1k1r4/ppp4p/4P3/6p1/2P2bP1/3q4/PB2Q3/K4R2 w - - 0 1"]
+[SetUp "1"]
+
+1. e7 Qd7 2. exd8=Q+ *
+
+[Event "Diagram 306 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/p1k2p2/5n2/4pP2/1P6/2pB1K2/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... e4+ 2. Bxe4 Nxe4 3. Kg4 c2 4. Kh5 c1=Q *
+
+[Event "Diagram 307 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/5Q1p/5pp1/8/8/7P/4npPK/7N b - - 0 1"]
+[SetUp "1"]
+
+1... f1=N# *
+
+[Event "Diagram 308 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "kn6/1p1pP3/pPb5/2pr4/8/2P3r1/KP5p/8 w - - 0 1"]
+[SetUp "1"]
+
+1. e8=N Bb5 2. Nc7# *
+
+[Event "Diagram 309 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/k1Pp4/3P4/2K5/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c8=R *
+
+[Event "Diagram 310 - Promoting Pawns"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/5P1k/8/q7/6R1/4B1P1/8/7K w - - 0 1"]
+[SetUp "1"]
+
+1. f8=N+ Kh8 2. Bd4+ Qe5 3. Bxe5# *
+

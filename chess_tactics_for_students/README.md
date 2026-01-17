@@ -1,0 +1,1 @@
+https://www.chessforstudents.com/sitemap-1.xml

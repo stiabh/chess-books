@@ -1,0 +1,137 @@
+[Event "Exercise 404 - Defense/Recognizing Threats"]
+[FEN "r4rk1/1p3ppp/1B1p4/NQ1Rp1b1/4P3/pPq2P2/P1P3PP/1K5R w - - 0 1"]
+1.Nc4 {Guarding against the checkmate on b2. White is up a piece and should go on to win.}
+
+[Event "Exercise 405 - Defense/Recognizing Threats"]
+[FEN "r4r2/pp1bR2k/2p3pP/3p2n1/P7/1PB5/2P3P1/2K4R b - - 0 1"]
+1...Rf7 {Defending against the fork and the attack on the king.}
+
+[Event "Exercise 406 - Defense/Recognizing Threats"]
+[FEN "rnb2rk1/pp2n2p/2p3p1/2Pp1p2/3b4/1P3Q2/P4PPP/RNN1KB1R w - - 0 1"]
+1.Nc3 {Blocking the attack on the rook.}
+
+[Event "Exercise 407 - Defense/Recognizing Threats"]
+[FEN "2r1kb1r/pp1q1ppp/3p1n2/3p4/B2pP3/2PP1PR1/PP3P1P/R2Q3K b - - 0 1"]
+1...b5 {Blocking the pin.}
+
+[Event "Exercise 408 - Defense/Recognizing Threats"]
+[FEN "r3k2r/pp3ppp/2b1p3/q1BpPn2/8/5N2/PPP2PPP/RN1QK2R w - - 0 1"]
+1.b4 {Defending against the fork.}
+
+[Event "Exercise 409 - Defense/Recognizing Threats"]
+[FEN "Q7/2q2k2/5p2/8/2n5/Q6P/6PK/8 w - - 0 1"]
+1.Qg3 {Saving the queen on a3 and escaping check.}
+
+[Event "Exercise 410 - Defense/Recognizing Threats"]
+[FEN "rnbq1b1r/pppp1kpp/8/8/4n3/5Q2/PPPP1PPP/RNB1KB1R b - - 0 1"]
+1...Nf6 {Blocking the check and saving the knight.}
+
+[Event "Exercise 411 - Defense/Recognizing Threats"]
+[FEN "r2qk2r/1p4pp/p3p3/3b4/Q2b4/7P/PP1B1PP1/R4RK1 b - - 0 1"]
+1...Bc6 {}
+
+[Event "Exercise 412 - Defense/Recognizing Threats"]
+[FEN "5r1k/1p2Q1pp/p1rN4/2qpn2P/P7/2P5/2B2PP1/R4R1K b - - 0 1"]
+1...Qxd6 {}
+
+[Event "Exercise 413 - Defense/Recognizing Threats"]
+[FEN "5r1k/6pp/8/2Q5/p7/P3P1q1/5R2/2R3K1 w - - 0 1"]
+1.Rg2 {}
+
+[Event "Exercise 414 - Defense/Recognizing Threats"]
+[FEN "2r2r1k/8/p3q1pp/2b3p1/8/4RP1P/PQ4P1/5R1K b - - 0 1"]
+1...Qf6 {}
+
+[Event "Exercise 415 - Defense/Recognizing Threats"]
+[FEN "r3k2r/1pp2pp1/p1p2nbp/8/Nq2P1P1/3P1N1P/PPP2B2/R1Q1K2R w - - 0 1"]
+1.Nc3 {Blocking the check and saving the knight.}
+
+[Event "Exercise 416 - Defense/Recognizing Threats"]
+[FEN "rnb2rk1/pppp2pp/8/4pp2/2PPP3/3QP3/Pq4PP/RN1K1BNR w - - 0 1"]
+1.Qc3 {X-ray protecting the rook on a1 and preventing it’s capture.}
+
+[Event "Exercise 417 - Defense/Recognizing Threats"]
+[FEN "r2r3k/4R2p/6p1/2p2p2/5P2/3qPK1P/1Q4Pb/8 b - - 0 1"]
+1...Rd4 {Using the pin on e3 to block the check.}
+1...Kg8 {is not good since White would then have checkmate with}
+2.Qg7# {.}
+
+[Event "Exercise 418 - Defense/Recognizing Threats"]
+[FEN "r2q1rk1/pp4pp/2p5/4Bpb1/6P1/3P1B1P/PPPQ4/2KR3R w - - 0 1"]
+1.Bf4 {Blocking the pin and saving the queen.}
+
+[Event "Exercise 419 - Defense/Recognizing Threats"]
+[FEN "5rk1/2p2ppp/8/4P3/5P2/bn1R2B1/5P1P/6K1 b - - 0 1"]
+1...Rb8 {Guarding the knight on b3. It’s not good to move the knight since the knight and bishop are being skewered.}
+1...Nc5 {}
+2.Rxa3 {loses a bishop.}
+
+[Event "Exercise 420 - Defense/Recognizing Threats"]
+[FEN "r1b3k1/pp1p1ppp/8/2r5/8/2P5/PP1NnPPP/R3R2K b - - 0 1"]
+1...Re5 {Protecting the knight and preventing the rook from delivering back rank checkmate.}
+1...Nf4 {would be a bad move since it would allow a back rank checkmate.}
+2.Re8# {.}
+
+[Event "Exercise 421 - Defense/Recognizing Threats"]
+[FEN "r2qr2k/1pp1nQ2/p2b1p1B/5p2/3Pp3/P6P/1P2RPP1/R5K1 b - - 0 1"]
+1...Rg8 {Stopping the checkmate on g7. This is the only move that keeps Black in the game.}
+
+[Event "Exercise 422 - Defense/Recognizing Threats"]
+[FEN "r1bqkbnr/p4ppp/1p1pP3/2pQ4/2n1P3/2N2N2/PPP2PPP/R1B1K2R b - - 0 1"]
+1...Bxe6 {X-ray protecting the knight on c4 and allowing the queen to protect the rook on a8 by discovered defense.}
+
+[Event "Exercise 423 - Defense/Recognizing Threats"]
+[FEN "r5k1/8/2p2Q2/1p4pR/8/p1P5/2b2PPK/2q5 b - - 0 1"]
+1...Qf4+ {Forcing the queens off the board which stops White’s checkmate.}
+
+[Event "Exercise 424 - Defense/Recognizing Threats"]
+[FEN "rn2kb1r/3ppp1p/b2P1np1/1p1N4/1qp5/4PN2/P2B1PPP/R2QKB1R b - - 0 1"]
+1...Qxd6 {}
+
+[Event "Exercise 425 - Defense/Recognizing Threats"]
+[FEN "r1b1k2r/pp2bppp/n1p5/q2Np3/B7/P2P1N1P/1PP2PP1/R1BQK2R w - - 0 1"]
+1.Nc3 {Blocking the check, saving the knight, and protecting the bishop.}
+
+[Event "Exercise 426 - Defense/Recognizing Threats"]
+[FEN "2k4r/pp4pp/2n5/2pP1p2/Q3p1nP/3P2P1/PB2q3/3RNR1K w - - 0 1"]
+1.Ng2 {Preventing checkmate on h2 – the only move that avoids losing the game.}
+
+[Event "Exercise 427 - Defense/Recognizing Threats"]
+[FEN "8/1Q3p1k/7p/1P2b3/8/6qP/8/5RK1 w - - 0 1"]
+1.Qg2 {}
+
+[Event "Exercise 428 - Defense/Recognizing Threats"]
+[FEN "r2q2k1/pp3pp1/2nNr2p/4p3/8/2PQ4/PP3PPP/R1B1R1K1 w - - 0 1"]
+1.Rd1 {Guarding the knight once more.}
+1.Ne4 Qxd3 {.}
+
+[Event "Exercise 429 - Defense/Recognizing Threats"]
+[FEN "r4rk1/p4p1p/4pQ2/3p3N/8/6P1/P5PK/1q6 b - - 0 1"]
+1...Qg6 {Stopping the helper checkmate on g7. Black remains a lot of material up and should go on to win.}
+
+[Event "Exercise 430 - Defense/Recognizing Threats"]
+[FEN "1r3rk1/2p2pp1/1pB5/pP1pPb2/Q2P1qnp/P7/3N1PPP/R1B1R1K1 w - - 0 1"]
+1.Nf3 {Blocking the attack on the f2- pawn, and defending against the attack on the h2 pawn.}
+
+[Event "Exercise 431 - Defense/Recognizing Threats"]
+[FEN "8/1P3P2/2k5/7p/4K3/8/3r4/8 b - - 0 1"]
+1...Rd8 {Stopping both pawns from promoting.}
+
+[Event "Exercise 432 - Defense/Recognizing Threats"]
+[FEN "3r2k1/1p3p1p/pqp3pQ/4p3/1PP1P3/P6P/4RPPB/1R1r2K1 w - - 0 1"]
+1.Re1 {Using an X-ray defense to prevent the back rank checkmate.}
+1.Rxd1 Rxd1+ {}
+2.Re1 Rxe1# {.}
+
+[Event "Exercise 433 - Defense/Recognizing Threats"]
+[FEN "r1b2rk1/ppq2pp1/4p2B/2p5/2B1N1Q1/2PP4/Pb3PP1/4R2K b - - 0 1"]
+1...f5 {Defending against the helper checkmate on g7, and forking the knight and queen!}
+
+[Event "Exercise 434 - Defense/Recognizing Threats"]
+[FEN "1r4k1/4bppp/1Bnppn2/3P4/4P3/1P3N1P/2B2PP1/r1KQ3R w - - 0 1"]
+1.Bb1 {Blocking the skewer and avoiding the loss of the queen.}
+
+[Event "Exercise 435 - Defense/Recognizing Threats"]
+[FEN "r1q2rk1/1pp2pp1/p1n3N1/8/2B1P1P1/4b2Q/P6P/R6K b - - 0 1"]
+1...Bh6 {Preventing checkmate on h8. Notice that the knight on g6 cannot be captures because of the pin.}
+

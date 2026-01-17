@@ -1,0 +1,35 @@
+[Event "Exercise 152 - Pawn Forks"]
+[FEN "4k3/8/8/8/3r1r2/2N5/2BPP3/4K3 w - - 0 1"]
+1.e3 {Forking the rooks.}
+1...Rb4 {}
+2.exf4 {After black recaptures the pawn on f4, White has two minor pieces and a pawn for a rook and should go on to win the game from here.}
+
+[Event "Exercise 153 - Pawn Forks"]
+[FEN "3q1r1k/6pp/6n1/5p2/8/4Q1NP/5PP1/5RK1 b - - 0 1"]
+1...f4 {Forking the queen and knight.}
+2.Qe2 fxg3 {Black is a knight up and should win the game from here.}
+
+[Event "Exercise 154 - Pawn Forks"]
+[FEN "r3k2r/pbp2ppp/1pnqpn2/3p4/3PPP2/3B1N2/PPPN2PP/R2Q1RK1 w - - 0 1"]
+1.e5 {Forking the queen and knight.}
+1...Qe7 {}
+1...Nxe5 {is worse since it still allows the fork.}
+2.fxe5 {}
+2.exf6 {White is up a minor piece and should win the game from here.}
+
+[Event "Exercise 155 - Pawn Forks"]
+[FEN "r4rk1/ppp2ppp/3bpn2/3p4/3PP3/2N2N2/PPP2PPP/2KRR3 w - - 0 1"]
+1.e5 {Forking the bishop and knight.}
+1...Nd7 {}
+1...Be7 {}
+2.exf6 Bxf6 {should Black prefer to keep the bishop, but in either case White is up a minor piece.}
+2.exd6 {White is a knight up and should win the game.}
+
+[Event "Exercise 156 - Pawn Forks"]
+[FEN "4k3/8/8/4n1n1/8/3P4/2K1PP2/8 w - - 0 1"]
+1.f4 {Forking the knights.}
+1...Nef7 {}
+1...Ngf7 {is also possible:}
+2.fxe5 Nxe5 {and the position is similar to the main variation.}
+2.fxg5 {Once Black recovers the pawn, White will have two pawns against the knight.}
+

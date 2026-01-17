@@ -1,0 +1,93 @@
+[Event "Exercise 364 - Interference"]
+[FEN "8/R7/8/7P/1k3PK1/1r4P1/p7/8 b - - 0 1"]
+1...Ra3 {Blocking White’s defense of the pawn’s promotion.}
+
+[Event "Exercise 365 - Interference"]
+[FEN "r3kb1r/pq3pp1/npN1pn1p/P2p4/Q2P3B/4P3/1PP2PPP/RN2K2R b - - 0 1"]
+1...b5 {Attacking and blocking the queen’s protection of the knight on c6.}
+2.Qb3 Qxc6 {Black wins the knight and should go on to win the game.}
+
+[Event "Exercise 366 - Interference"]
+[FEN "8/5pkp/1Q4p1/p1p5/8/P1bP3P/1p3PP1/5K2 b - - 0 1"]
+1...Bb4 {Blocking the queen from stopping the promotion of the pawn.}
+2.axb4 b1 {Q+ Black promotes and has a material advantage in the endgame.}
+
+[Event "Exercise 367 - Interference"]
+[FEN "1r6/3PN3/K7/2k5/6P1/8/7P/6n1 w - - 0 1"]
+1.Nc8 {Blocking the rook from stopping the pawn from promoting.}
+
+[Event "Exercise 368 - Interference"]
+[FEN "rnb2rk1/pppp2pp/3bq3/3Np3/8/2P2B2/PP1P1PPP/R1BQK2R b - - 0 1"]
+1...e4 {Attacking the bishop and blocking its protecting of the knight on d5.}
+2.Be2 Qxd5 {Black wins the knight and should go on to win the game.}
+
+[Event "Exercise 369 - Interference"]
+[FEN "1r6/7P/5k2/8/8/1p6/5P1K/6R1 w - - 0 1"]
+1.Rg8 {Using the pawn on h7 as support and blocking the rook from stopping the pawn from promoting.}
+
+[Event "Exercise 370 - Interference"]
+[FEN "4r1k1/P4p2/1p1B1Pp1/4P3/1p6/5KP1/8/8 w - - 0 1"]
+1.Bb8 {Blocking the rook from stopping the pawn promotion.}
+
+[Event "Exercise 371 - Interference"]
+[FEN "2R5/8/1p6/p2n4/3k4/P3p3/P1p1K3/5B2 b - - 0 1"]
+1...Nc3+ {Blocking the rook from stopping promotion.}
+
+[Event "Exercise 372 - Interference"]
+[FEN "7R/8/6k1/6p1/2pNK1b1/8/7p/8 b - - 0 1"]
+1...Bh5 {Blocking the rook and allowing the pawn to promote on the next turn.}
+
+[Event "Exercise 373 - Interference"]
+[FEN "5nk1/1b4bp/p5p1/4Np2/1r6/2N3BP/1P1R1PP1/5K2 b - - 0 1"]
+1...f4 {}
+
+[Event "Exercise 374 - Interference"]
+[FEN "8/5k2/pp1q1pp1/2r1p2p/2R4Q/2P2P1P/PP3P1K/8 b - - 0 1"]
+1...e4+ {Using a discovered check, while blocking the queen’s protection of the rook on c4.}
+2.Kg2 Rxc4 {Black wins a rook and should go on to win the game without much difficulty.}
+
+[Event "Exercise 375 - Interference"]
+[FEN "5rk1/3p1pp1/rNpbq2p/p7/3QP3/P7/1PP2PPP/R4RK1 b - - 0 1"]
+1...c5 {Attacking and blocking the queen from protecting the knight.}
+
+[Event "Exercise 376 - Interference"]
+[FEN "rnbqk2r/pp2bp2/2p1p1nB/3pP3/3P2P1/2N2P2/PPP5/R2QKBNR b - - 0 1"]
+1...Bh4+ {Blocking the rook’s protection of the bishop.}
+2.Ke2 Rxh6 {Black wins a minor piece and should win the game.}
+
+[Event "Exercise 377 - Interference"]
+[FEN "4r1k1/2p2pp1/3q3n/7p/5b2/2BB1Q1P/PP4P1/5RK1 b - - 0 1"]
+1...Be3+ {Blocking the queen from protecting the bishop on d3.}
+2.Kh1 Qxd3 {Black wins a piece and should win the game.}
+
+[Event "Exercise 378 - Interference"]
+[FEN "r1b2r1k/ppp2ppB/8/4P1p1/3P1n2/6P1/PP3K2/RN5R b - - 0 1"]
+1...Nh3+ {}
+
+[Event "Exercise 379 - Interference"]
+[FEN "r4rk1/1p4pn/p1pp3p/2b1pb2/2P5/P2P1NqP/1PB2PP1/R1BQ1RK1 w - - 0 1"]
+1.d4 {Blocking the bishop’s pin against the f2-pawn.}
+1...Bxd4 Nxd4 {Black should save the queen but White has won a minor piece.}
+
+[Event "Exercise 380 - Interference"]
+[FEN "r2q1rk1/p4ppp/2p1p3/8/1bPBn3/1P3B2/P4PPP/R2Q1K1R b - - 0 1"]
+1...Nd2+ {Checking the king and blocking the queen’s protection of the bishop on d4.}
+2.Ke2 Qxd4 {Black wins a minor piece and should win the game.}
+
+[Event "Exercise 381 - Interference"]
+[FEN "3r3k/1p1rq1pp/p1b3n1/4npN1/1P1N4/2P1Q3/P4PPP/R1B1R1K1 b - - 0 1"]
+1...f4 {}
+
+[Event "Exercise 382 - Interference"]
+[FEN "2r5/6pp/1p1Bk3/p7/2b5/P7/1P1R2PP/2K5 b - - 0 1"]
+1...Bd5+ {Using the discovered check from the rook on c8 while blocking the rook on d2 from protecting the bishop on d6.}
+2.Kd1 Kxd6 {Black wins a bishop and should go on to win the game.}
+
+[Event "Exercise 383 - Interference"]
+[FEN "2k4r/1p4p1/p1b1p1Q1/3qPp2/3P1P1r/7P/PP3NP1/R2R2K1 b - - 0 1"]
+1...Rg4 {Blocking the queen’s protection of the checkmate on g2.}
+2.hxg4 {}
+2.Qxg4 {may be White’s best, but also loses:}
+2...fxg4 {and White will be down a queen.}
+2...Qxg2# {}
+

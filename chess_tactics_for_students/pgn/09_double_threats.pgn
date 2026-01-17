@@ -1,0 +1,360 @@
+[Event "Diagram 250 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4k3/8/4K3/5R2/8/2b5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rc5 Ba1 $4 2. Rc8# *
+
+[Event "Diagram 251 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6nk/R7/8/8/8/1p3B2/6PK/1r6 w - - 0 1"]
+[SetUp "1"]
+
+1. Be4 Rb2 2. Rh7# *
+
+[Event "Diagram 252 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r2rk1/n2b1p2/p2Pp2p/3n2p1/1P6/8/P4PPP/B2QR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qd4 Nb5 $4 2. Qg7# *
+
+[Event "Diagram 253 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/3q1ppp/3p4/1pp5/p3R2Q/2P4P/1PB3P1/1K6 w - - 0 1"]
+[SetUp "1"]
+
+1. Re7 Qxe7 $4 2. Qxh7# *
+
+[Event "Diagram 254 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/1B6/8/8/5r2/4k3/8/4K3 b - - 0 1"]
+[SetUp "1"]
+
+1... Rb4 2. Ba8 $4 Rb1# *
+
+[Event "Diagram 255 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/6pp/1qp5/p7/1pPP1B2/7P/4r1P1/5R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Bc7 Qxc7 $4 2. Rf8# *
+
+[Event "Diagram 256 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/pp5p/2p1pr2/4b3/PP2P1P1/4R2P/2P1Q3/4q1NK b - - 0 1"]
+[SetUp "1"]
+
+1... Rf2 2. Qxe1 $4 Rh2# *
+
+[Event "Diagram 257 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2r1k/pp3Rpp/2p5/2q2p2/8/1B6/P3QPPP/1R4K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe5 Qxe5 $4 2. Rxf8# *
+
+[Event "Diagram 258 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r3k/1pp3pp/p2q1b2/3B4/3R4/P4P2/1PQ3PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Bg8 Qxd4 $4 2. Qxh7# *
+
+[Event "Diagram 259 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3rk2/2p1qp2/1p1n2p1/p6p/3N1P2/1P2P3/P5PP/Q2R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf5 Nxf5 $4 2. Qh8# *
+
+[Event "Diagram 260 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/2R2pp1/5b1p/2P5/RP6/8/1r5P/6NK b - - 0 1"]
+[SetUp "1"]
+
+1... Be5 2. Rd7 $4 Rxh2# *
+
+[Event "Diagram 261 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5k2/pb1q1p1p/1p6/8/3p3R/8/PP4PP/R2N3K b - - 0 1"]
+[SetUp "1"]
+
+1... Qe7 2. Rxd4 $4 Qe1# *
+
+[Event "Diagram 262 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r4k/4bppp/1q6/1p1Pp3/nP1p4/3B1Q1P/5PP1/R4NK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qf5 Rg8 2. Qxh7# *
+
+[Event "Diagram 263 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/5ppp/bn6/ppp2N2/3Pq3/P1P5/1B1Q2PP/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qg5 g6 $4 2. Qxd8+ Qe8 3. Qxe8# *
+
+[Event "Diagram 264 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5nk1/2q2pp1/2b4p/1p1p3Q/2pP4/R1P2PPP/1RB4K/4r3 b - - 0 1"]
+[SetUp "1"]
+
+1... Qe7 2. Ra6 $4 Qe2# *
+
+[Event "Diagram 265 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5nk1/5pp1/1qb4p/1p1p3Q/2pP4/R1P2P1P/1RB3PK/4r3 b - - 0 1"]
+[SetUp "1"]
+
+1... Qc7+ 2. g3 Qe7 3. Ra6 $4 Qe2# *
+
+[Event "Diagram 266 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "7k/3R4/7b/4pB2/2pnN3/6PK/7P/1r6 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6 Nxf5 $4 2. Rh7# *
+
+[Event "Diagram 267 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "5rk1/p1p2ppp/2r1b2n/4P1Nq/3Q4/1P3N1P/P5P1/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe4 Rc3 $4 2. Qxh7# *
+
+[Event "Diagram 268 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4rnk1/pp3ppp/q1prp3/8/2P1Q2P/2B2N2/PP3PP1/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe5 Red8 $4 2. Qxg7# *
+
+[Event "Diagram 269 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rrnk1/pp3ppp/q1pbp3/8/2P1Q2P/2B2N2/PP3PP1/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxd6 Rxd6 $2 2. Qe5 Red8 $4 3. Qxg7# *
+
+[Event "Diagram 270 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b3k1/ppb1qppp/1np2n2/8/P2RP3/2N4P/1PQ2PP1/R1B2BK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qe5 2. Rd3 $4 Qh2# *
+
+[Event "Diagram 271 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1br2k1/ppb1qppp/1np2n2/8/P2NP3/2N4P/1PQ2PP1/R1BR1BK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxd4 2. Rxd4 $2 Qe5 3. Rd3 $4 Qh2# *
+
+[Event "Diagram 272 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp2ppp/p3p3/8/3b4/3B1N2/PPP1QPPP/R4R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qe4 c5 $4 2. Qxh7# *
+
+[Event "Diagram 273 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2rk1/ppppbppp/8/2q5/8/2PB1Q1P/PPP2PP1/R1B1R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe4 Re8 $4 2. Qxh7+ Kf8 3. Qh8# *
+
+[Event "Diagram 274 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3r2k1/5pp1/pb2p2p/1p2P3/1P2bPP1/P1B5/6P1/R4R1K b - - 0 1"]
+[SetUp "1"]
+
+1... Rd3 2. Rac1 $4 Rh3# *
+
+[Event "Diagram 275 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2r2rnk/2q1bppp/p2pp3/1b4P1/4PP1P/2B1n1N1/1P2N1B1/2RQ1R1K w - - 0 1"]
+[SetUp "1"]
+
+1. Qd4 Nxf1 $4 2. Qxg7# *
+
+[Event "Diagram 276 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4r1k1/1pp3p1/p3q2p/4p1b1/1P5N/6Q1/1PP3PP/5R1K b - - 0 1"]
+[SetUp "1"]
+
+1... Qc4 2. Nf3 $4 Qxf1+ *
+
+[Event "Diagram 277 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/6pp/p7/1pqP1rN1/2p3Q1/3b4/PP4PP/4R2K b - - 0 1"]
+[SetUp "1"]
+
+1... Qe3 2. Rxe3 $4 Rf1# *
+
+[Event "Diagram 278 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "Qn3rk1/p1pq1ppp/6b1/4p1n1/2P5/P3P1P1/1P3P1P/RNB2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Be4 2. Qxa7 $4 Nh3# *
+
+[Event "Diagram 279 - Double Threats"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rr3/pb1qnp1k/1pn1pBp1/2p4p/2P5/PP1BPN2/5PPP/R2Q1RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ne5 Nxe5 $4 2. Qxh5+ Kg8 3. Qh8# *
+

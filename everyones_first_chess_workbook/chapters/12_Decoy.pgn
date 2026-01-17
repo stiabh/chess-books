@@ -1,0 +1,115 @@
+[Event "Exercise 304 - Decoy"]
+[FEN "3R4/5r1k/4p1pq/8/1P2P2Q/6Kp/5P2/8 w - - 0 1"]
+1.Rh8+ {Distracting the king away from the queen.}
+1...Kxh8 {}
+2.Qxh6+ {White is up a queen for a rook and should go on to win the game.}
+
+[Event "Exercise 305 - Decoy"]
+[FEN "7k/6p1/7p/8/5PKP/5QP1/6q1/8 b - - 0 1"]
+1...h5+ {Distracting the king away from the defense of the king.}
+2.Kxh5 Qxf3+ {Black is up a queen and should go on to win the game.}
+
+[Event "Exercise 306 - Decoy"]
+[FEN "rnQqkbnr/pp2p1pp/2p5/4p3/2BpP3/8/PPPP1PPP/R1B1K2R w - - 0 1"]
+1.Bf7+ {Distracting the king away from the queen.}
+1...Kxf7 {}
+2.Qxd8 {White has won a queen for a bishop and should go on to win.}
+
+[Event "Exercise 307 - Decoy"]
+[FEN "4r3/1pqn1kp1/2p2p2/p2b4/3P3p/BP1BQP2/P5PP/5RK1 w - - 0 1"]
+1.Bg6+ {A skewer-distraction tactic.}
+1...Kxg6 {}
+2.Qxe8+ {White wins the exchange and should go on to win the game.}
+
+[Event "Exercise 308 - Decoy"]
+[FEN "r1r3k1/4pp1p/6p1/p1q5/P2R3P/2Q5/5PP1/4R1K1 w - - 0 1"]
+1.Rd8+ {Forcing the rook to capture, distracting it from its defense of the queen.}
+1...Rxd8 {}
+2.Qxc5 {White has a queen for a rook and should go on to win.}
+
+[Event "Exercise 309 - Decoy"]
+[FEN "5rk1/1pp1n1p1/p2q3p/3p4/8/3B1Q1P/PP3PP1/4R1K1 w - - 0 1"]
+1.Bh7+ {Distracting the king away from the rook on f8.}
+1...Kxh7 {}
+2.Qxf8 {White wins the exchange and should go on to win the game.}
+
+[Event "Exercise 310 - Decoy"]
+[FEN "1r1qnrk1/1pbb1ppp/p3p3/3pP3/1Q1P4/P1NB4/1P1N1PPP/R4RK1 w - - 0 1"]
+1.Bxh7+ {Distracting the king away from the rook on f8.}
+1...Kxh7 {}
+2.Qxf8 {White wins the exchange and should go on to win the game.}
+
+[Event "Exercise 311 - Decoy"]
+[FEN "r4k2/7p/5p1p/1B6/4b3/1PP3P1/1Q3q1P/2KR4 b - - 0 1"]
+1...Ra1+ {White is forced to capture the rook which allows Black a checkmate on c2.}
+2.Qxa1 Qc2# {Black used the rook as a distraction for checkmate.}
+
+[Event "Exercise 312 - Decoy"]
+[FEN "6k1/5p1p/2q5/7p/p1P5/5QP1/P1R2PK1/3r4 b - - 0 1"]
+1...Rg1+ {Distracting the king away from the defense of the queen.}
+2.Kxg1 Qxf3 {Black has a queen for a rook and should go on to win.}
+
+[Event "Exercise 313 - Decoy"]
+[FEN "6k1/1pn2qpp/p1b5/3p4/1B3Q2/1P1B1P1P/P5P1/6K1 w - - 0 1"]
+1.Bxh7+ {Distracting the king away from the defense of the queen.}
+1...Kxh7 {}
+2.Qxf7 {White is up a queen for a knight and should go on to win the game.}
+
+[Event "Exercise 314 - Decoy"]
+[FEN "3Qqk2/ppp5/5r2/8/8/1P2Pr2/P1PP4/2K3R1 w - - 0 1"]
+1.Rg8+ {Another skewer-distraction tactic.}
+1...Kxg8 {}
+2.Qxe8+ {White has a queen and two pawns for two rooks.}
+
+[Event "Exercise 315 - Decoy"]
+[FEN "2b3k1/1pp5/7p/3Rp3/2PpP3/1PbPqQP1/6K1/1R6 b - - 0 1"]
+1...Bh3+ {Distracting the king away from the defense of the queen.}
+2.Kxh3 Qxf3 {Black has a queen and bishop for two rooks and should go on to win.}
+
+[Event "Exercise 316 - Decoy"]
+[FEN "1k3r1r/pp3q2/2p1NpQ1/4p1Pp/1P5P/1PP5/5n2/2KR3R w - - 0 1"]
+1.Rd8+ {Forcing the rook to capture which leaves the queen on f7 unprotected.}
+1...Rxd8 {}
+2.Qxf7 {White is up a queen for a rook and should go on to win.}
+
+[Event "Exercise 317 - Decoy"]
+[FEN "4rk2/1p3p2/p2p1Bp1/3P1bP1/8/6KP/1P6/4R3 w - - 0 1"]
+1.Bg7+ {Distracting the king away from the protection of the rook.}
+1...Kxg7 {}
+2.Rxe8 {White has won the exchange and should go on to win the game.}
+
+[Event "Exercise 318 - Decoy"]
+[FEN "8/5k2/p7/r7/2R2K2/8/2p5/8 b - - 0 1"]
+1...Ra4 {Offering the rook to promote the pawn on c2. It’s also a pin, so White does not have many options here.}
+2.Rxa4 c1 {Q+ Black promotes and has a queen and pawn for a rook.}
+
+[Event "Exercise 319 - Decoy"]
+[FEN "6k1/5pp1/7p/3b4/1p1P4/pP4PP/P4P2/2NqQK2 b - - 0 1"]
+1...Bg2+ {Distracting the king away from the defense of the queen.}
+2.Kxg2 Qxe1 {Black wins a queen for a minor piece and should win the game.}
+
+[Event "Exercise 320 - Decoy"]
+[FEN "4r1k1/6pp/p1pQ2b1/3pq3/7P/6N1/PP4P1/5R1K w - - 0 1"]
+1.Rf8+ {Forcing the rook to capture, removing it from the defense of the queen.}
+1...Rxf8 {}
+2.Qxe5 {White has a queen for a rook and should go on to win.}
+
+[Event "Exercise 321 - Decoy"]
+[FEN "5rk1/7p/1p1N1p2/2p1p2P/2P1P1b1/P2P1P2/4K3/R1BQ2q1 b - - 0 1"]
+1...Bxf3+ {Another skewer-distraction tactic.}
+2.Kxf3 Qxd1+ {Black has a large material advantage and should go on to win.}
+
+[Event "Exercise 322 - Decoy"]
+[FEN "r1bqkb1r/ppp1nppp/8/3B4/4n3/2p2N2/PPP2PPP/R1BQR1K1 w - - 0 1"]
+1.Bxf7+ {Distracting the king away from the queen.}
+1...Kxf7 {}
+2.Qxd8 {White has a big material advantage and should go on to win.}
+
+[Event "Exercise 323 - Decoy"]
+[FEN "7k/1p4p1/1P5p/8/pBPR2b1/P2P2Pn/3N1r1P/7K b - - 0 1"]
+1...Rf1+ {Distracting the knight from the defense of the f3-square.}
+2.Nxf1 {}
+2.Kg2 {was also possible but ends in checkmate as well:}
+2...Rg1# {.}
+2...Bf3# {Always nice to end with checkmate!}
+

@@ -1,0 +1,116 @@
+[Event "Exercise 324 - Overloaded"]
+[FEN "3r2k1/2q2pbp/p1r1p1p1/1p6/1P6/2PR1Q1P/2R2PP1/5BK1 w - - 0 1"]
+1.Rxd8+ {The queen cannot capture the rook and keep the guard of the rook on c6. The queen was overloaded.}
+1...Qxd8 {}
+2.Qxc6 {White is up a rook and should win from here.}
+
+[Event "Exercise 325 - Overloaded"]
+[FEN "rnb1k1nr/pppp1ppp/2q5/4p3/2PbN3/1P6/PBQPPPPP/R3KBNR b - - 0 1"]
+1...Bxb2 {Taking advantage of the overloaded queen.}
+2.Qxb2 Qxe4 {Black wins a minor piece and should go on to win the game.}
+
+[Event "Exercise 326 - Overloaded"]
+[FEN "r1b2rk1/ppp2ppp/2nq4/2b3B1/3p1n2/1N1P1N1P/PPP1BPP1/R2QR1K1 w - - 0 1"]
+1.Bxf4 {The queen cannot both guard the bishop on c5 and recapture on f4. The queen is overloaded.}
+1...Qxf4 {}
+2.Nxc5 {White wins a minor piece and should win the game.}
+
+[Event "Exercise 327 - Overloaded"]
+[FEN "R2r2k1/5nbp/1p1n1pp1/2p1p3/2N1PPB1/2P1B1PP/1P6/6K1 w - - 0 1"]
+1.Rxd8+ {Taking advantage of the overloaded knight on f7.}
+1...Nxd8 {}
+2.Nxd6 {White is up a bishop and should go on to win the endgame.}
+
+[Event "Exercise 328 - Overloaded"]
+[FEN "8/2q1nkpp/4pp2/R7/3P4/Q3PP2/1Br3PP/6K1 b - - 0 1"]
+1...Rxb2 {Picking on the overloaded queen.}
+2.Qxb2 Qxa5 {Black is up a knight and should go on to win the game.}
+
+[Event "Exercise 329 - Overloaded"]
+[FEN "8/4ppk1/3b1qp1/3P3p/7P/5QP1/2R2PK1/r4B2 b - - 0 1"]
+1...Qxf3+ {Taking advantage of the overloaded king.}
+2.Kxf3 Rxf1 {Black is up a bishop and should go on to win without much trouble.}
+
+[Event "Exercise 330 - Overloaded"]
+[FEN "8/5k2/1p2pn1p/p1b2pp1/2P2P1q/4BBQP/PP3P2/5K2 b - - 0 1"]
+1...Qxg3 {Taking advantage of the overloaded f2-pawn.}
+2.fxg3 Bxe3 {Black wins a minor piece and should go on to win.}
+
+[Event "Exercise 331 - Overloaded"]
+[FEN "1r2r1k1/8/2Q1pq1p/p2P1pp1/P2P4/Rn1PP3/5PPP/3R2K1 w - - 0 1"]
+1.Rxb3 {Picking on the overloaded b8- rook.}
+1...Rxb3 {}
+2.Qxe8+ {White is up three pawns and should go on to win the endgame.}
+
+[Event "Exercise 332 - Overloaded"]
+[FEN "4r1k1/5p1p/5P2/1Q6/2p1qb2/4nR1P/1P2R1P1/7K w - - 0 1"]
+1.Rxf4 {Taking advantage of the overloaded queen.}
+
+[Event "Exercise 333 - Overloaded"]
+[FEN "r4rk1/2p3pp/p2ppn2/1pb1p3/4P3/P1PPB1Nq/1P3P1N/R2Q1RK1 b - - 0 1"]
+1...Bxe3 {Taking advantage of the overloaded f2-pawn.}
+2.fxe3 Qxg3+ {Black is up two pawns and has an attack on White’s king and should go on to win.}
+
+[Event "Exercise 334 - Overloaded"]
+[FEN "r1b2rk1/pp1pppbp/6pn/q1P1n3/2B1N3/5N1P/PPP2PP1/R1BQ1RK1 w - - 0 1"]
+1.Nxe5 {Taking advantage of the overloaded bishop.}
+1.Bxh6 {is not effective since Black could play}
+1...Nxf3+ {}
+2.Qxf3 Bxh6 {, saving the piece.}
+1...Bxe5 {}
+2.Bxh6 {White has won a minor piece and should go on to win.}
+
+[Event "Exercise 335 - Overloaded"]
+[FEN "4n3/4r3/6kp/1P2B3/3R1KP1/4R2r/8/8 b - - 0 1"]
+1...Rxe3 {Taking advantage of the overloaded king.}
+2.Kxe3 Rxe5+ {Black wins a knight and should win the game although Black should avoid trading the last pawn off.}
+
+[Event "Exercise 336 - Overloaded"]
+[FEN "r4k2/1p2ppb1/3p2p1/1Q6/r6p/7P/5PP1/2R3K1 w - - 0 1"]
+1.Qxa4 {Taking advantage of the back rank weakness which wins at least a rook.}
+1...Rxa4 {Black does not have to take but in either case is at a huge disadvantage: after}
+1...Re8 {White is up a queen for a bishop.}
+2.Rc8# {}
+
+[Event "Exercise 337 - Overloaded"]
+[FEN "5k2/pp3p2/4p3/3rPn1R/4K3/P1B5/1P3P2/8 w - - 0 1"]
+1.Rxf5 {Taking advantage of the overloaded e6-pawn.}
+1...exf5+ {}
+2.Kxd5 {White is up a bishop in the endgame and should go on to win.}
+
+[Event "Exercise 338 - Overloaded"]
+[FEN "1n2r2k/R1p4p/5pp1/8/2BP2P1/4rb2/P1PK3P/1R6 w - - 0 1"]
+1.Rxb8 {Picking on the overloaded e8-rook.}
+1...Rxb8 {}
+2.Kxe3 {White is only up a pawn but will win the pawn on c7 shortly.}
+
+[Event "Exercise 339 - Overloaded"]
+[FEN "r1b2r1k/3nb1pp/p1npB3/qp1N2P1/4P3/4BP2/PPPQ3P/R3K2R w - - 0 1"]
+1.Qxa5 {Taking advantage of the overloaded knight on c6.}
+1...Nxa5 {}
+2.Nxe7 {White is up two pawns and has threats.}
+
+[Event "Exercise 340 - Overloaded"]
+[FEN "rn1r2k1/ppb2ppp/2p5/1P2nN2/4PBP1/7P/P1R3B1/3R2K1 w - - 0 1"]
+1.Rxd8+ {Taking advantage of the overloaded bishop.}
+1...Bxd8 {}
+2.Bxe5 {White is up a minor piece and should win the game.}
+
+[Event "Exercise 341 - Overloaded"]
+[FEN "5bk1/p4p2/2p2n2/1p3N2/4rBnR/5K2/P1P2P2/6N1 w - - 0 1"]
+1.Rxg4+ {Taking advantage of the overloaded knight on f6.}
+1...Nxg4 {}
+2.Kxe4 {White is up a minor piece and should go on to win the game.}
+
+[Event "Exercise 342 - Overloaded"]
+[FEN "3rn2k/pp6/3r2pp/2N5/8/P6P/1P4P1/3RR1K1 w - - 0 1"]
+1.Rxe8+ {Taking advantage of the overloaded rook on d8.}
+1...Rxe8 {}
+2.Rxd6 {White wins a knight and with it should win the game.}
+
+[Event "Exercise 343 - Overloaded"]
+[FEN "r1b1k2r/1ppp1ppp/p1nb1q1n/4p3/2B1P3/2PP1Q2/PP3PPP/RNB1K1NR w - - 0 1"]
+1.Qxf6 {Taking advantage of the overloaded g7 pawn.}
+1...gxf6 {}
+2.Bxh6 {White wins a minor piece and should win the game.}
+

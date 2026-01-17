@@ -1,0 +1,328 @@
+[Event "Exercise 436 - Assorted Checkmates in Two"]
+[FEN "5rk1/1p4pp/2b1pr2/3p1p2/1p1q1PP1/3B4/P1PN2P1/R3QR1K b - - 0 1"]
+1...Rh6+ {Attacking the h-file.}
+2.Qh4 Rxh4# {}
+
+[Event "Exercise 437 - Assorted Checkmates in Two"]
+[FEN "r4k2/6pR/1pP2q2/1PbQ4/P3B3/8/5rPP/R5K1 w - - 0 1"]
+1.Rh8+ {Forcing the king to e7 where then the queen will use the c6 pawn as a helper to deliver checkmate.}
+1...Ke7 {}
+2.Qd7# {}
+
+[Event "Exercise 438 - Assorted Checkmates in Two"]
+[FEN "Bn2k1nr/p1p2ppp/3bp3/4q3/2P5/2Np4/PP1P1PPP/R1BQR1K1 b - - 0 1"]
+1...Qxh2+ {Using the queen and bishop battery.}
+2.Kf1 Qh1# {and the pawn on d3 stops the king from escaping.}
+
+[Event "Exercise 439 - Assorted Checkmates in Two"]
+[FEN "r1b4k/p4p1p/1p2p3/2b2p1N/N2Rp3/8/P4PPP/6K1 w - - 0 1"]
+1.Rd8+ {Forcing the bishop to block, leading to checkmate.}
+1...Bf8 {}
+2.Rxf8# {}
+
+[Event "Exercise 440 - Assorted Checkmates in Two"]
+[FEN "1br3k1/6pp/2q1pp2/3p4/3N4/1P2P2P/R2Q1PP1/6K1 b - - 0 1"]
+1...Qc1+ {Notice that the bishop on b8 prevents the king from escaping the back rank.}
+2.Qxc1 Rxc1# {Another form of back rank checkmate.}
+
+[Event "Exercise 441 - Assorted Checkmates in Two"]
+[FEN "r5rk/1pR1R1p1/p2p2Qp/8/3q4/7P/5PPK/8 w - - 0 1"]
+1.Qxh6+ {It’s always nice to sacrifice the queen for checkmate!}
+1...gxh6 {}
+2.Rh7# {}
+
+[Event "Exercise 442 - Assorted Checkmates in Two"]
+[FEN "3B4/Q7/2r1k3/1p1ppqp1/1P2b3/7P/1P4P1/4R2K b - - 0 1"]
+1...Qxh3+ {Picking on the pinned g2 pawn.}
+2.Kg1 Qxg2# {Bishop helper checkmate to finish the game.}
+
+[Event "Exercise 443 - Assorted Checkmates in Two"]
+[FEN "2r3k1/p4ppn/1p2p2p/2r1NP1Q/3qb1P1/8/PP5P/R3RK2 w - - 0 1"]
+1.Qxf7+ {Using the knight on e5 as a helper to capture the pawn safely.}
+1...Kh8 {}
+2.Ng6# {}
+
+[Event "Exercise 444 - Assorted Checkmates in Two"]
+[FEN "r1b3k1/pp4pp/4p3/4P1N1/P1Pb4/3B4/3n2PP/5R1K w - - 0 1"]
+1.Bxh7+ {Pushing the king to the corner and preparing to bring the rook to the back rank.}
+1...Kh8 {}
+2.Rf8# {}
+
+[Event "Exercise 445 - Assorted Checkmates in Two"]
+[FEN "r6k/2Q1R2p/ppb2ppb/3p4/8/8/P1q2PPP/1N4K1 w - - 0 1"]
+1.Rxh7+ {Using the battery on the 7th rank.}
+1...Kg8 {}
+2.Qf7# {Not}
+2.Qg7+ {since the bishop guards that square!}
+2...Bxg7 {.}
+
+[Event "Exercise 446 - Assorted Checkmates in Two"]
+[FEN "r1bR1rk1/1p2nppp/p3p3/2b5/2B2B2/4PN2/PP3PPP/3R2K1 w - - 0 1"]
+1.Rxf8+ {Clearing the back rank and preparing to bring the other rook down.}
+1...Kxf8 {}
+2.Rd8# {and the knight on e7 blocks the king from escaping.}
+
+[Event "Exercise 447 - Assorted Checkmates in Two"]
+[FEN "r1bq1rk1/p1p1bppp/Rp1p1n2/1P4NP/4N3/3QP3/2P2PP1/2B1K2R w - - 0 1"]
+1.Nxf6+ {Removing the guard from h7, and discover attacking with the queen.}
+1...Bxf6 {}
+2.Qxh7# {}
+
+[Event "Exercise 448 - Assorted Checkmates in Two"]
+[FEN "2kr4/p1b2r1p/1pP3p1/3bp3/6P1/3Q3P/PPP2P2/1K3R2 w - - 0 1"]
+1.Qa6+ Kb8 {}
+2.Qb7# {Queen and pawn helper checkmate.}
+
+[Event "Exercise 449 - Assorted Checkmates in Two"]
+[FEN "2r1r1k1/8/1p2ppp1/pp6/3Pq1P1/1P2n2Q/PK3P2/3R3R w - - 0 1"]
+1.Qh8+ {Using the battery to attack the king but also leaving room for the rook to come down next.}
+1.Qh7+ {is not effective since the rook doesn’t have a way in.}
+1...Kf8 {}
+2.Qh8+ Ke7 {.}
+1...Kf7 {}
+2.Rh7# {}
+
+[Event "Exercise 450 - Assorted Checkmates in Two"]
+[FEN "r2qk2r/1p5p/3bp3/1p1pNpp1/1P2nP2/P3P3/2PB2PP/R2Q1RK1 w - - 0 1"]
+1.Qh5+ {Using the exposed diagonal toward the king.}
+1...Ke7 {}
+1...Kf8 {doesn’t change much:}
+2.Qf7# {.}
+2.Qf7# {Knight and queen helper checkmate.}
+
+[Event "Exercise 451 - Assorted Checkmates in Two"]
+[FEN "3r2k1/2Q2ppp/p7/2Rq4/8/4rn1P/1B4P1/1R5K b - - 0 1"]
+1...Qd1+ {A brutal back rank checkmate.}
+2.Rxd1 Rxd1# {}
+
+[Event "Exercise 452 - Assorted Checkmates in Two"]
+[FEN "2k5/pp2rp2/3R4/1qp3n1/4P2r/1PP4P/P7/2KQ3R w - - 0 1"]
+1.Rd8+ {Using the battery to attack the king.}
+1...Kc7 {}
+2.Qd6# {Rook and queen helper checkmate to finish.}
+
+[Event "Exercise 453 - Assorted Checkmates in Two"]
+[FEN "2k5/3N1q2/2pQp2p/4P3/2PP4/p6P/1r3PP1/R5K1 b - - 0 1"]
+1...Qxf2+ {Using the rook on b2 to take over the 2nd rank.}
+2.Kh1 Qxg2# {Rook and queen battery checkmate to finish.}
+
+[Event "Exercise 454 - Assorted Checkmates in Two"]
+[FEN "8/6p1/5p1k/5P2/6P1/5K2/R7/2r5 w - - 0 1"]
+1.Rh2+ {Forcing the king forward into White’s mating net.}
+1...Kg5 {}
+2.Rh5# {Black is trapped by White’s rook and pawns.}
+
+[Event "Exercise 455 - Assorted Checkmates in Two"]
+[FEN "r4rk1/ppp2p2/2p2q1p/6p1/4Ppb1/b1PP1N1P/1P1NQPP1/2KR3R b - - 0 1"]
+1...Qxc3+ {Using the pin on the b2 pawn.}
+2.Kb1 Qxb2# {Helper checkmate finishes once again!}
+
+[Event "Exercise 456 - Assorted Checkmates in Two"]
+[FEN "5k2/pR5R/2r1pp1P/8/5P2/NKp1P3/3r4/8 b - - 0 1"]
+1...Rb2+ {Using the pawn on c3 as a helper.}
+2.Ka4 Ra6# {Finishing with a ‘ladder checkmate’ with the two rooks.}
+
+[Event "Exercise 457 - Assorted Checkmates in Two"]
+[FEN "r3nr1k/ppp1N1bp/8/2pP4/2P5/1K1p4/PP5P/5RR1 w - - 0 1"]
+1.Rxf8+ {Making way for the other rook to come to the 8th rank.}
+1...Bxf8 {}
+2.Rg8# {Knight and rook helper checkmate.}
+
+[Event "Exercise 458 - Assorted Checkmates in Two"]
+[FEN "b5rk/3N2pp/p1p1Q3/4P3/7q/3p4/P5PP/5R1K w - - 0 1"]
+1.Qxg8+ {Setting up a knight and rook helper checkmate on the back rank.}
+1...Kxg8 {}
+2.Rf8# {}
+
+[Event "Exercise 459 - Assorted Checkmates in Two"]
+[FEN "3r1rk1/2p2ppp/1pP5/p3p3/1qQ1P3/5P2/PPK3PP/R4BNR b - - 0 1"]
+1...Rd2+ {Bringing the rook into the attack using the queen’s help.}
+2.Kc1 Qxb2# {A queen and rook helper checkmate finishes the game.}
+
+[Event "Exercise 460 - Assorted Checkmates in Two"]
+[FEN "r2q3r/pp1bkppp/n7/3P4/2B2Q2/4P3/PP3PPP/R3K2R w - - 0 1"]
+1.d6+ {Attacks the king but also frees the bishop on c4 by discovered attack.}
+1...Ke8 {}
+2.Qxf7# {A queen and bishop helper checkmate.}
+
+[Event "Exercise 461 - Assorted Checkmates in Two"]
+[FEN "r5k1/pq2rppp/3p4/6N1/7Q/2N1n3/PPP3bP/R5K1 w - - 0 1"]
+1.Qxh7+ Kf8 {}
+2.Qh8# {Another form of back rank checkmate.}
+
+[Event "Exercise 462 - Assorted Checkmates in Two"]
+[FEN "4rrk1/1bq2ppp/p7/1pb2N1Q/5n2/2PB3P/P1P3P1/3R1R1K w - - 0 1"]
+1.Ne7+ {A very clever move unleashing a discovered attack on the h7 pawn.}
+1...Qxe7 {}
+2.Qxh7# {}
+
+[Event "Exercise 463 - Assorted Checkmates in Two"]
+[FEN "4k1r1/pbR2p2/1p5p/2b1P3/8/2B2B2/PPP4P/5R1K b - - 0 1"]
+1...Bxf3+ {Taking advantage of the overloaded rook on f1 which is trying to defend the bishop and also the back rank!}
+2.Rxf3 Rg1# {A bishop and rook helper checkmate.}
+
+[Event "Exercise 464 - Assorted Checkmates in Two"]
+[FEN "r1bqr2Q/ppb1kp1N/2n1pp2/3pP3/2pP4/1NP5/PP3PPP/R4RK1 w - - 0 1"]
+1.Qxf6+ Kd7 {}
+2.Nc5# {Bringing a new piece into the attack and finishing the game!}
+
+[Event "Exercise 465 - Assorted Checkmates in Two"]
+[FEN "1k1r3r/ppqnbpp1/2p5/2P2Np1/1P1P1n2/5B2/P4BPP/R2Q1RK1 b - - 0 1"]
+1...Ne2+ {Unleashing a queen discovered attack on h2.}
+2.Bxe2 Qxh2# {}
+
+[Event "Exercise 466 - Assorted Checkmates in Two"]
+[FEN "8/1R4R1/1P1p2p1/5p2/6bP/3Pr1k1/8/5K2 b - - 0 1"]
+1...Bh3+ {Pushing the king to g1 and allowing the rook to come to the 1st rank.}
+2.Kg1 Re1# {}
+
+[Event "Exercise 467 - Assorted Checkmates in Two"]
+[FEN "r1b1kb1r/1p1n1pp1/p1n1p2p/3pP1N1/1q1P4/3B1Q2/PP3PPP/R1B2RK1 w - - 0 1"]
+1.Qxf7+ Kd8 {}
+2.Nxe6# {}
+
+[Event "Exercise 468 - Assorted Checkmates in Two"]
+[FEN "2r2r1k/p3qpp1/1p2p2p/7Q/3p4/2PP2RR/PP4PP/6K1 w - - 0 1"]
+1.Qxh6+ {Setting up a ‘ladder checkmate’ with the two rooks.}
+1...gxh6 {}
+2.Rxh6# {}
+
+[Event "Exercise 469 - Assorted Checkmates in Two"]
+[FEN "8/p7/3pQrkp/4p3/4P3/3P3P/PPPq3P/7K w - - 0 1"]
+1.Qg8+ Kh5 {}
+2.Qg4# {Helper checkmate with the queen and pawn.}
+
+[Event "Exercise 470 - Assorted Checkmates in Two"]
+[FEN "3k2r1/p3p1bp/p1p1Pn2/3p1p2/3P4/2q1B3/P1P2PPP/1R3RK1 w - - 0 1"]
+1.Rb8+ Kc7 {}
+2.Bf4# {Using an X-ray for checkmate.}
+
+[Event "Exercise 471 - Assorted Checkmates in Two"]
+[FEN "3rk1r1/ppp2pPp/8/P3p1N1/8/P3Q3/1Bb1NPqP/n1K3R1 b - - 0 1"]
+1...Qxg1+ {Removing the guard of the d1-square.}
+2.Nxg1 Rd1# {}
+
+[Event "Exercise 472 - Assorted Checkmates in Two"]
+[FEN "rn2kbnr/ppp1p1pp/1q2b3/1N6/Q1P5/8/PP1PpPPP/R1B1K2R w - - 0 1"]
+1.Nd6+ {Double Check, forcing the king to move!}
+1...Kd8 {}
+2.Qe8# {Knight and queen helper checkmate finishes the game.}
+
+[Event "Exercise 473 - Assorted Checkmates in Two"]
+[FEN "r1bqr1k1/ppp2ppp/3P4/3Qn3/8/P1N4P/1PP2PP1/R1B1KB1R b - - 0 1"]
+1...Nf3+ {Double Check!}
+2.Kd1 Re1# {Knight and rook helper checkmate to end the game.}
+
+[Event "Exercise 474 - Assorted Checkmates in Two"]
+[FEN "r1b1k2r/pppp1ppp/8/4P3/4P1nq/2N5/PPP1K1PP/R1BQ1B1R b - - 0 1"]
+1...Qf2+ {}
+2.Kd3 Nxe5# {A nice checkmate in the middle of the board.}
+
+[Event "Exercise 475 - Assorted Checkmates in Two"]
+[FEN "rn3rk1/p2p1ppp/1pq5/2pQ4/2B5/5PP1/PPb4P/R3R1K1 w - - 0 1"]
+1.Qxf7+ Rxf7 {}
+1...Kh8 {doesn’t help much:}
+2.Qxf8# {.}
+2.Re8# {Picking on the rook being in a pin.}
+
+[Event "Exercise 476 - Assorted Checkmates in Two"]
+[FEN "r2nk3/ppQ5/4P1r1/1q5p/5P2/4PK2/3R4/8 w - - 0 1"]
+1.Rxd8+ {Removing the guard of the f7-square.}
+1...Rxd8 {}
+2.Qf7# {Pawn and queen helper checkmate.}
+
+[Event "Exercise 477 - Assorted Checkmates in Two"]
+[FEN "rnb2bkr/pp2p1pp/1n1pP1q1/6N1/8/5Q2/PP1P1PPP/RNB1K2R w - - 0 1"]
+1.Qf7+ Qxf7 {}
+2.exf7# {Always nice to checkmate with a pawn!}
+
+[Event "Exercise 478 - Assorted Checkmates in Two"]
+[FEN "1kb5/1p5p/1P6/Q1p1p3/3pPn2/3P4/6r1/1NK5 b - - 0 1"]
+1...Nxd3+ {}
+2.Kd1 Bg4# {Look at all those pieces at work!}
+
+[Event "Exercise 479 - Assorted Checkmates in Two"]
+[FEN "8/4Q2p/6pk/8/5P2/6PK/5q1P/8 w - - 0 1"]
+1.Qf8+ Kh5 {}
+2.g4# {The king is caught by the pawn!}
+
+[Event "Exercise 480 - Assorted Checkmates in Two"]
+[FEN "r5rk/pp4pp/2p1R3/3n2R1/3p4/q2P3Q/P1P2PPP/6K1 w - - 0 1"]
+1.Qxh7+ {To open the h-file.}
+1...Kxh7 {}
+2.Rh5# {}
+
+[Event "Exercise 481 - Assorted Checkmates in Two"]
+[FEN "r2qkbnr/ppp2pp1/3p3p/4N3/1PBnP3/2N5/P1PP1PPP/R1Bb1RK1 w - - 0 1"]
+1.Bxf7+ Ke7 {}
+2.Nd5# {This type of checkmate pattern is called ‘Legal’s checkmate’.}
+
+[Event "Exercise 482 - Assorted Checkmates in Two"]
+[FEN "2bq1rk1/bpp2ppp/2np3r/p4P2/2P1P3/P5N1/1P2B1PP/R1BQ1R1K b - - 0 1"]
+1...Rxh2+ {Opening the h-file}
+2.Kxh2 Qh4# {}
+
+[Event "Exercise 483 - Assorted Checkmates in Two"]
+[FEN "r2qk2r/ppp1np1p/2nb4/3b1P2/4N3/7P/PPPQ4/R1B1KBNR w - - 0 1"]
+1.Nf6+ Kf8 {}
+2.Qh6# {and the king is caught by the knight and queen combination.}
+
+[Event "Exercise 484 - Assorted Checkmates in Two"]
+[FEN "r3q2k/p1p3p1/np6/3Q2p1/3P2RP/8/PPP5/2KN1rNR b - - 0 1"]
+1...Qe3+ {Using the pin against the knight on d1.}
+2.Kb1 Rxd1# {Back rank checkmate.}
+
+[Event "Exercise 485 - Assorted Checkmates in Two"]
+[FEN "8/5p2/3p3p/2bR4/4Pk2/5P2/q3B1PP/5K2 w - - 0 1"]
+1.g3+ Ke3 {}
+2.Rd3# {Black’s king is totally trapped by White’s pieces.}
+
+[Event "Exercise 486 - Assorted Checkmates in Two"]
+[FEN "6k1/3R1pb1/8/5r2/1R6/6QP/6P1/2r2NK1 b - - 0 1"]
+1...Rfxf1+ {Setting up a battery along the 1st rank.}
+2.Kh2 Rh1# {and a battery checkmate finishes the game!}
+
+[Event "Exercise 487 - Assorted Checkmates in Two"]
+[FEN "1rq2k1r/p3pp2/3p1Np1/8/5Q2/4B3/P1P2PPP/b4RK1 w - - 0 1"]
+1.Qh6+ {A nice queen sacrifice which leads to a bishop and knight checkmate.}
+1...Rxh6 {}
+2.Bxh6# {}
+
+[Event "Exercise 488 - Assorted Checkmates in Two"]
+[FEN "6R1/1k3pP1/p1b2B2/4p1P1/1PK5/5q2/1P1Q4/8 b - - 0 1"]
+1...Bb5+ {Forcing the king forward.}
+2.Kc5 Qc6# {}
+
+[Event "Exercise 489 - Assorted Checkmates in Two"]
+[FEN "2k3r1/ppq2p1p/8/3Q4/1P4r1/2P2P2/P6P/RN3R1K b - - 0 1"]
+1...Qxh2+ {Opening the h-file and setting up a ‘ladder checkmate’ on the g- and h-files.}
+2.Kxh2 Rh4# {}
+
+[Event "Exercise 490 - Assorted Checkmates in Two"]
+[FEN "2r2r1k/4Qp1p/2N3p1/4R3/1p3b2/1P5P/2q2PP1/3R2K1 w - - 0 1"]
+1.Qf6+ Kg8 {}
+2.Ne7# {A nice queen and knight checkmate.}
+
+[Event "Exercise 491 - Assorted Checkmates in Two"]
+[FEN "4r2k/pp2r1bp/6q1/8/2R5/1PB2QP1/P4R1P/6K1 w - - 0 1"]
+1.Qf8+ {Using the pin on the g7 bishop.}
+1...Rxf8 {}
+2.Rxf8# {Remember, pinned pieces do not protect!}
+
+[Event "Exercise 492 - Assorted Checkmates in Two"]
+[FEN "5rk1/2R5/1p1r1bBp/p3N3/8/6PK/8/8 w - - 0 1"]
+1.Bh7+ Kh8 {}
+2.Ng6# {}
+
+[Event "Exercise 493 - Assorted Checkmates in Two"]
+[FEN "3rr3/pR5p/2pn2pk/8/4N1P1/7P/P1P5/2K1R3 w - - 0 1"]
+1.g5+ {Forcing the king forward.}
+1...Kh5 {}
+2.Rxh7# {}
+
+[Event "Exercise 494 - Assorted Checkmates in Two"]
+[FEN "r1b2rk1/5ppp/2pQ2q1/p7/1p6/5N2/P4PPP/3RR1K1 w - - 0 1"]
+1.Qxf8+ {Removing the guard of the back rank.}
+1...Kxf8 {}
+2.Rd8# {}
+

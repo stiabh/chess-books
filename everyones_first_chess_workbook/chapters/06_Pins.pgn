@@ -1,0 +1,44 @@
+[Event "Exercise 188 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/3q1p2/6p1/8/8/1B4P1/1B3P2/1Q4K1 w - - 0 1"]
+1.Qxg6# {The pawn on f7 is in a pin by the bishop on b4. It’s checkmate since the bishop on b2 controls the a1-h8 diagonal.}
+
+[Event "Exercise 189 - Pinned Pieces Do Not Protect"]
+[FEN "2k5/1pp5/p3p3/3pP1q1/P2P1r2/2P1QB1p/1P5P/4RK2 b - - 0 1"]
+1...Qg2# {The pawn on h3 supports the checkmate while the rook on f4 pins the bishop on f3 and prevents it from capturing the queen.}
+
+[Event "Exercise 190 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/5pp1/2Q2b2/4p3/3pP2p/3q1P1B/7P/6RK w - - 0 1"]
+1.Qxf6 {Winning a bishop due to the pin on the g-file.}
+
+[Event "Exercise 191 - Pinned Pieces Do Not Protect"]
+[FEN "r2q1rk1/5p2/p1pp1nn1/1p4Q1/4P3/1B6/PPP2PPP/R4RK1 w - - 0 1"]
+1.Qxg6+ {Taking advantage of the pinned f7-pawn.}
+
+[Event "Exercise 192 - Pinned Pieces Do Not Protect"]
+[FEN "1r4k1/p1p2pp1/2p2b1p/8/r7/N1PR3P/PP3PP1/1R4K1 b - - 0 1"]
+1...Rxa3 {Using the pin against the b2-pawn.}
+
+[Event "Exercise 193 - Pinned Pieces Do Not Protect"]
+[FEN "kr6/1p6/r7/Q7/4B3/8/8/1K6 w - - 0 1"]
+1.Qxa6# {Using the pin against the b7-pawn for checkmate.}
+
+[Event "Exercise 194 - Pinned Pieces Do Not Protect"]
+[FEN "6r1/1p3p1k/2bb2p1/6R1/3B4/3B4/8/1K6 w - - 0 1"]
+1.Rh5# {Using the pin against the g6-pawn for checkmate.}
+
+[Event "Exercise 195 - Pinned Pieces Do Not Protect"]
+[FEN "2k5/3n4/2r5/5B2/5B2/8/1R1K4/8 w - - 0 1"]
+1.Rb8# {Using the pin against the knight on d7 for checkmate while the bishop on f4 helps the rook.}
+
+[Event "Exercise 196 - Pinned Pieces Do Not Protect"]
+[FEN "3k4/8/8/4r3/5r2/2R5/1Q1PB1p1/4K1B1 b - - 0 1"]
+1...Rf1# {The rook on e5 pins the bishop on e2, while the pawn on g2 supports the rook checkmate.}
+
+[Event "Exercise 197 - Pinned Pieces Do Not Protect"]
+[FEN "r1b1k2r/p1p3pp/2pq1pn1/4N2Q/1b1Pp3/2N4P/PPPB1PP1/R3K2R w - - 0 1"]
+1.Nxg6 {Winning a knight using the pin against the h7-pawn.}
+
+[Event "Exercise 198 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/6pp/4qp2/4p3/3r4/6P1/3Q1P1P/2R1R1K1 w - - 0 1"]
+1.Qxd4 {Winning a rook using the pin against the e-pawn.}
+

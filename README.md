@@ -1,0 +1,4 @@
+- https://chesstempo.com/pgn-viewer/
+- https://chess.stackexchange.com/questions/18402/pgn-with-arrows-and-circles
+- https://helpman.komtera.lt/chessocr/
+- https://chesstempo.com/manual/en/manual.html#pgnviewercommentannotations

@@ -1,0 +1,99 @@
+[Event "Exercise 344 - X-Ray"]
+[FEN "8/5p2/1p2k3/1Pb1PpK1/7r/2R4P/8/8 b - - 0 1"]
+1...Be7# {The bishop X-rays through the king to defend the rook!}
+
+[Event "Exercise 345 - X-Ray"]
+[FEN "r4rk1/p1p1b1pp/2pq4/3p1p2/3P2b1/Q1P5/PP1N1PPP/R1B1R1K1 w - - 0 1"]
+1.Rxe7 {}
+
+[Event "Exercise 346 - X-Ray"]
+[FEN "6q1/8/1p2kpQ1/1B1p3P/P2Pp1P1/4P1K1/7r/8 b - - 0 1"]
+1...Qb8# {X-ray protecting the rook through the king.}
+
+[Event "Exercise 347 - X-Ray"]
+[FEN "6k1/4rrp1/b6p/3QR3/1q1P4/8/P4PPP/4R1K1 b - - 0 1"]
+1...Qxe1+ {The rook on e7 X-ray protects the queen on e1.}
+2.Rxe1 Rxe1# {Back rank checkmate.}
+
+[Event "Exercise 348 - X-Ray"]
+[FEN "r5k1/1p3np1/p2p2p1/2pP4/4r1B1/2P3QR/PP4q1/2K4R b - - 0 1"]
+1...Rxg4 {The queen and rook X-ray protect each other through White’s queen.}
+2.Qxg2 Rxg2 {Black is up a knight and should go on to win.}
+
+[Event "Exercise 349 - X-Ray"]
+[FEN "4Rr1k/6pp/8/3Q4/6n1/8/PPq2rPP/5RK1 w - - 0 1"]
+1.Rxf8+ {The rook on f1 X-ray protects the rook on f8.}
+1...Rxf8 {}
+2.Rxf8# {Back rank checkmate.}
+
+[Event "Exercise 350 - X-Ray"]
+[FEN "8/2R3p1/3k3p/4bP2/1P2KBP1/1r5P/8/8 w - - 0 1"]
+1.Bxe5# {X-ray defending the rook on c7 and creating a checkmate!}
+
+[Event "Exercise 351 - X-Ray"]
+[FEN "6k1/5pp1/1pq4p/3p4/1P1P1p2/P1Q2P1P/3N1KP1/2R1r3 b - - 0 1"]
+1...Rxc1 {The queen and rook defend each other by X-ray through the white queen.}
+2.Qxc6 Rxc6 {Black is up the exchange and should go on to win the game.}
+
+[Event "Exercise 352 - X-Ray"]
+[FEN "r4rk1/p4pbp/b2p2p1/1q1Pp3/4P3/5P2/1PPNQ1PP/R1B1R2K w - - 0 1"]
+1.Rxa6 {The queen X-ray defends the rook.}
+
+[Event "Exercise 353 - X-Ray"]
+[FEN "rnb2b1Q/pppk2qp/3p1np1/6B1/8/2N2N2/PP3PPP/R4K1R w - - 0 1"]
+1.Bxf6 {The bishop and queen X-ray protect each other through Black’s queen on g7.}
+1...Qxh8 {}
+2.Bxh8 {White wins a rook and should go on to win the game.}
+
+[Event "Exercise 354 - X-Ray"]
+[FEN "1rr3k1/3n1p1p/1P4pB/P7/2R1P3/3q3P/2QN2P1/6K1 b - - 0 1"]
+1...Qxc2 {Using the rook on c8 for an X-ray defense.}
+2.Rxc2 Rxc2 {Black is now up a significant amount of material and should go on to win.}
+
+[Event "Exercise 355 - X-Ray"]
+[FEN "3R4/4k1p1/6P1/4pP2/1p2K3/p3B3/P7/1r6 w - - 0 1"]
+1.Bg5# {X-ray defending the rook and causing checkmate!}
+
+[Event "Exercise 356 - X-Ray"]
+[FEN "5r2/pr4kp/1q1P1np1/3Q4/8/P5P1/1R3P2/3N1BK1 w - - 0 1"]
+1.Qxb7+ {Using the X-ray defense from the rook on b2.}
+1...Qxb7 {}
+2.Rxb7+ {White is up a minor piece and should go on to win the game.}
+
+[Event "Exercise 357 - X-Ray"]
+[FEN "Rr3r1k/5Qpp/1p3b2/2p1qP2/7P/6P1/1n2P1B1/R5BK w - - 0 1"]
+1.Qxf8+ {Using the X-ray protection from the rook on a8.}
+1...Rxf8 {}
+2.Rxf8# {Back rank checkmate!}
+
+[Event "Exercise 358 - X-Ray"]
+[FEN "6k1/1R1b3p/3r2p1/1p2p3/1q6/r4P2/4BQ1P/3R2K1 w - - 0 1"]
+1.Rxd7 {Winning the bishop using the x-ray of the d1-rook.}
+1...Rxd7 {}
+2.Rxd7 {White is up material and should go on to win.}
+
+[Event "Exercise 359 - X-Ray"]
+[FEN "rn2k2r/p3ppb1/b2p2p1/q2P1PPp/1Qp1PN1N/3P4/P6P/1RB1KB1R b - - 0 1"]
+1...Bc3+ {Forking the queen and king, using an X-ray defense.}
+2.Qxc3 Qxc3+ {Black is up material and should win from here.}
+
+[Event "Exercise 360 - X-Ray"]
+[FEN "r4rk1/pp1b2pp/4p1p1/3pP3/1b1N4/6B1/PqPQ1PPP/RR4K1 w - - 0 1"]
+1.Qxb4 {Using the X-ray defense from the rook on b1.}
+1...Qxb4 {}
+1.Rxb4 {White is up a minor piece and should win the game from here.}
+
+[Event "Exercise 361 - X-Ray"]
+[FEN "4Rbr1/pp1k1p2/5p2/Q2n3p/2pq1B1P/P5P1/1P3P1K/8 w - - 0 1"]
+1.Qb5# {Defending the rook on e8 using X-ray and creating a checkmate!}
+
+[Event "Exercise 362 - X-Ray"]
+[FEN "4R3/1q3kb1/p4p1p/2Q5/2p5/7P/1P4P1/6K1 w - - 0 1"]
+1.Qh5# {Using an X-ray to defend the rook and cause checkmate.}
+
+[Event "Exercise 363 - X-Ray"]
+[FEN "4r2k/Bb1n2pp/2q1r3/1R1Qpp2/2P5/5P2/P4KPP/4RB2 w - - 0 1"]
+1.Rxb7 {Using the X-ray defense from the queen on d5.}
+1...Qxd5 {}
+3.cxd5 {White has won a minor piece and should win the game from here.}
+
