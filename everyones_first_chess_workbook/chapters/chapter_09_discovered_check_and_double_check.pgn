@@ -1,0 +1,163 @@
+[Event "Chapter 9: Discovered Check"]
+[FEN "1k2B1R1/p7/1pp5/8/3b4/6P1/2r2PKP/8 w - - 0 1"]
+{
+Discovered check is a tactical theme based on a discovery. A discovered check occurs when the discovery yields a check to the enemy king.
+The rook on g8 is aligned with the enemy king on b8. White could move the bishop anywhere and issue a discovered check; however one of the moves is particularly strong:
+}
+1.Bg6+
+{
+White’s rook issues the discovered check to the king, while the bishop attacks the rook on c2. Black must get out of the check and then loses the rook on c2. Other discovered checks were possible, but remember that the objective of a tactic is to gain the maximum advantage possible!
+}
+1...Kb7 2.Bxc2
+{
+Discovered checks are very powerful. When a discovery creates a check to the king, the piece moving out of the way can move virtually anywhere safely. In order to better solve the problems in this chapter, look for your pieces that are aligned with the enemy king.
+}
+
+[Event "Chapter 9: Double Check"]
+[FEN "3rkn2/3p4/8/8/4B3/8/8/2K1R3 w - - 0 1"]
+{
+Double check is when a player uses a discovery to place the opponent in check by two different pieces. Double checks are extremely powerful moves, since when the king is in check by two different pieces, the king MUST move.
+Notice that White’s rook is aligned with the black king. White now has the ability to place Black into check, twice!
+The best move for White is
+}
+1.Bg6#
+{
+Now both the rook and the bishop attack the king. Notice that the knight on f8 can not both block the rook and capture the bishop. On top of that the king has no safe place to move. Double checks are important to spot in your own games. Later in the book, we will use double checks for checkmates and combinations in two moves or more. To better solve the double check problems, look for both discovered attacks and checks.
+}
+[Event "Exercise 239 - Discovered Check"]
+[FEN "5k2/5p1p/8/Q7/pP2PP2/1b4P1/2r5/3K4 b - - 0 1"]
+1...Rc5+ {The bishop issues a discovered check, while the rook rounds up the queen.}
+2.Ke1 Rxa5 {Black is up a rook and bishop and should win the endgame without trouble.}
+
+[Event "Exercise 240 - Discovered Check"]
+[FEN "8/1R1B1k1p/2P2pp1/4b3/8/5pPP/2r5/5K2 w - - 0 1"]
+1.Bf5+ {By moving the bishop to f5, White checks the king and attacks the rook on c2.}
+1...Kf8 {}
+2.Bxc2 {White wins a rook and should win the game.}
+
+[Event "Exercise 241 - Discovered Check"]
+[FEN "8/6p1/8/PK2R3/2r4P/1k4P1/4bP2/8 b - - 0 1"]
+1...Re4+ {Using the bishop for a discovered check, while the rook blocks the attack on the bishop and counterattacks the rook.}
+2.Kc6 {Black wins the rook and is up a large amount of material.}
+2...Rxe5 {}
+
+[Event "Exercise 242 - Discovered Check"]
+[FEN "1r3k1r/p4pp1/P3p3/2Bp2P1/B7/8/1P4Pb/R4R1K b - - 0 1"]
+1...Bd6+ {Blocking the check, with a check!}
+2.Kg1 Bxc5+ {Black wins the bishop and soon more.}
+
+[Event "Exercise 243 - Discovered Check"]
+[FEN "7r/4N3/3p4/3P2pk/4P3/4q1P1/1P4P1/5Q1K b - - 0 1"]
+1...Kg4# {A rare situation where moving the king causes checkmate!}
+
+[Event "Exercise 244 - Discovered Check"]
+[FEN "2b5/p4p2/2p1rPkp/P1R3PN/1p2p1K1/1P1p4/3R1P2/8 b - - 0 1"]
+1...Re5+ {Using the discovered check from the bishop to the maximum.}
+2.Kf4 Rxc5 {Wins the rook.}
+
+[Event "Exercise 245 - Discovered Check"]
+[FEN "4r3/1k5p/p2p4/2pN4/P1P2P1q/5Q1P/1P5K/8 w - - 0 1"]
+1.Nf6+ {The queen gives a discovered check to the king, while the knight attacks the rook.}
+1...Kc8 {}
+2.Nxe8 {White is up a knight and should go on to win.}
+
+[Event "Exercise 246 - Discovered Check"]
+[FEN "r1b1k1nr/pp2qpbp/4p1p1/2pP2N1/2Bn4/2NP4/PPP2PPP/R1BQK2R b - - 0 1"]
+1...exd5+ {The queen now gives a discovered check, while the bishop on c4 is hanging to the pawn.}
+2.Be3 {Other moves are possible, but all of them lose the bishop.}
+2...dxc4 {Black has won a piece and has a winning position.}
+
+[Event "Exercise 247 - Discovered Check"]
+[FEN "8/5p1k/b1p2q1p/2b3pP/2P1Pp2/6P1/P1Q3K1/5R2 w - - 0 1"]
+1.e5+ {Issuing a check to the king and an attack on the queen.}
+1...Kg8 {}
+(1...Qg6 {doesn’t help since the pawn on h5 can capture the queen:}
+2.hxg6+ {.})
+2.exf6 {White wins the queen for nothing and should go on to win the game without trouble.}
+
+[Event "Exercise 248 - Discovered Check"]
+[FEN "r1bq1rk1/pppp1ppp/1bn5/3Pp3/2B1P3/N1P2N2/PP1Q1nPP/R1B2RK1 b - - 0 1"]
+1...Nxe4+ {The bishop on b6 gives a discovered check to the king while the knight attacks the queen.}
+2.Kh1 Nxd2 {Black wins the queen for a knight and should go on to win from here.}
+
+[Event "Exercise 249 - Discovered Check"]
+[FEN "5rk1/4b1pp/2Ppb3/2p2p1n/4N3/3QP2P/3PN1P1/B4K1R b - - 0 1"]
+1...fxe4+ {Discovered check from the rook and attacking the queen on d3.}
+2.Kg1 exd3 {Black is up material and should go on to win from here.}
+
+[Event "Exercise 250 - Discovered Check"]
+[FEN "3r2k1/p4p2/1pQ3p1/2p2b1p/7P/1P6/P1r3P1/1K3R2 b - - 0 1"]
+1...Rf2+ {Using the discovered check from the bishop to win the rook on f1.}
+2.Kc1 Rxf1+ {Black has two rooks, a bishop, and two pawns for the queen.}
+
+[Event "Exercise 251 - Discovered Check"]
+[FEN "3r3k/p3qp1p/3bpNpP/1p6/4pP1Q/2B1P3/PP5P/7K w - - 0 1"]
+1.Nd5+ {Using the discovered check from the bishop to win the queen.}
+1...Kg8 {}
+2.Nxe7+ {White is up a queen with a big attack on Black’s king.}
+
+[Event "Exercise 252 - Discovered Check"]
+[FEN "8/pp6/1bpR4/4P3/1P2kP1R/P3r3/5K2/8 b - - 0 1"]
+1...Rh3+ {Using the discovered check from the bishop to win the rook on h4.}
+2.Ke2 Rxh4 {Black is up a minor piece for a pawn and should win.}
+
+[Event "Exercise 253 - Discovered Check"]
+[FEN "r3k2r/3bnR1p/2pp1p2/1p3P1B/p2P4/8/PP3P2/2K3R1 w - - 0 1"]
+1.Rxh7+ {Using the discovered check from the bishop to win the rook on h8.}
+1...Kd8 {}
+2.Rxh8+ {White wins a rook and soon more.}
+
+[Event "Exercise 254 - Discovered Check"]
+[FEN "r1bq1rk1/pppp2pp/3b1p2/5p2/2PP3B/PQP1PN2/5PPP/R3K2R w - - 0 1"]
+1.c5+ {Using the discovered check from the queen to win a bishop.}
+1...Kh8 {}
+2.cxd6 {White has won a minor piece and should go on to win the game from here.}
+
+[Event "Exercise 255 - Discovered Check"]
+[FEN "3r2k1/5Rbp/1n4p1/8/2B5/2n5/5PPP/4R1K1 w - - 0 1"]
+1.Rd7+ {Using the discovered check from the bishop to win a rook.}
+1...Nxc4 {The best move, capturing the checking piece.}
+2.Rxd8+ {White has two rooks and a pawn for three pieces.}
+
+[Event "Exercise 256 - Discovered Check"]
+[FEN "1r1q1rk1/p4ppp/b3p3/2N5/2nP3P/P1N1P1b1/2P1K1P1/1RBQ3R b - - 0 1"]
+1...Nb2+ {Using the discovered check from the bishop to win the queen.}
+(1...Nxe3+ {is not effective since the king can capture the knight while getting out of check with}
+2.Kxe3 {.})
+2.Nxa6 Nxd1 {Black us up material and has a much safer king.}
+
+[Event "Exercise 257 - Discovered Check"]
+[FEN "r4b1r/p2knp2/1ppNq2p/4p1p1/8/P4N1P/1PP2PP1/R2QK2R w - - 0 1"]
+1.Nxf7+ {Using the discovered check from the queen to win the rook in the corner.}
+1...Kc7 {}
+2.Nxh8 {White wins a rook and should win the game.}
+
+[Event "Exercise 258 - Discovered Check"]
+[FEN "r1b1kb1N/ppppq1pp/2n5/8/2Bpn3/8/PPP2PPP/RNBQK2R b - - 0 1"]
+1...Nc3+ {Launching a discovered check while attacking the queen.}
+2.Be2 {}
+(2.Qe2 {doesn’t help since the knight covers that square too:}
+2...Nxe2 {.})
+2...Nxd1 {Black is up a significant amount of material and should win.}
+
+
+[Event "Exercise 259 - Double Check"]
+[FEN "1k1N2R1/1pp4n/p2p4/7r/2P1p3/P4p2/1KP5/8 w - - 0 1"]
+1.Nc6# {}
+
+[Event "Exercise 260 - Double Check"]
+[FEN "rnb1qknr/ppp1bppp/8/3N4/2PP4/5N2/PP3PPP/R1BQKB1R b - - 0 1"]
+1...Bb4# {}
+
+[Event "Exercise 261 - Double Check"]
+[FEN "4r1k1/p1q2ppp/5n2/4b3/8/2N5/PPP2PPP/R1BQKB1R b - - 0 1"]
+1...Bxc3# {}
+
+[Event "Exercise 262 - Double Check"]
+[FEN "1r6/3r2pp/p3np1k/1p2p2P/6P1/1P2Nb2/P4P2/2B1R1K1 w - - 0 1"]
+1.Nf5# {Double check and checkmate.}
+
+[Event "Exercise 263 - Double Check"]
+[FEN "2krr3/ppp1bppp/2n5/8/8/PBN2P2/1PP4P/R1B1KR2 b - - 0 1"]
+1...Bh4# {The rooks cover the e- and d-files while the bishop attacks along the diagonal.}
+

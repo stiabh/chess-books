@@ -1,3 +1,22 @@
+[Event "Chapter 13: Overloaded"]
+[FEN "3R1r1k/p5p1/2b1Q2p/2q5/P7/1P6/2P2PPP/6K1 w - - 0 1"]
+{
+An overloaded or overworked piece is a piece which is performing too many defensive tasks. This could be a piece that’s defending other pieces, or defending against threats.
+In this example, the queen on c5 is the overloaded piece. The queen is defending both the rook on f8 and the bishop on c6. White can take advantage of the overloaded queen by first capturing the rook on f8:
+}
+1.Rxf8+
+{
+Black’s queen would likely capture back:
+}
+1...Qxf8
+{
+, which would leave the bishop on c6 unprotected. After
+}
+2.Qxc6
+{
+White wins the bishop as the queen cannot defend the bishop as well.
+To better solve the problems, first try to identify which piece is the one performing too many defensive tasks.
+}
 [Event "Exercise 324 - Overloaded"]
 [FEN "3r2k1/2q2pbp/p1r1p1p1/1p6/1P6/2PR1Q1P/2R2PP1/5BK1 w - - 0 1"]
 1.Rxd8+ {The queen cannot capture the rook and keep the guard of the rook on c6. The queen was overloaded.}
@@ -54,9 +73,9 @@
 [Event "Exercise 334 - Overloaded"]
 [FEN "r1b2rk1/pp1pppbp/6pn/q1P1n3/2B1N3/5N1P/PPP2PP1/R1BQ1RK1 w - - 0 1"]
 1.Nxe5 {Taking advantage of the overloaded bishop.}
-1.Bxh6 {is not effective since Black could play}
+(1.Bxh6 {is not effective since Black could play}
 1...Nxf3+ {}
-2.Qxf3 Bxh6 {, saving the piece.}
+2.Qxf3 Bxh6 {, saving the piece.})
 1...Bxe5 {}
 2.Bxh6 {White has won a minor piece and should go on to win.}
 
@@ -68,8 +87,9 @@
 [Event "Exercise 336 - Overloaded"]
 [FEN "r4k2/1p2ppb1/3p2p1/1Q6/r6p/7P/5PP1/2R3K1 w - - 0 1"]
 1.Qxa4 {Taking advantage of the back rank weakness which wins at least a rook.}
-1...Rxa4 {Black does not have to take but in either case is at a huge disadvantage: after}
-1...Re8 {White is up a queen for a bishop.}
+1...Rxa4 
+({Black does not have to take but in either case is at a huge disadvantage: after}
+1...Re8 {White is up a queen for a bishop.})
 2.Rc8# {}
 
 [Event "Exercise 337 - Overloaded"]

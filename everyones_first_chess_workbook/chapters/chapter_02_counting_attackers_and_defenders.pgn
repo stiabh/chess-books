@@ -1,54 +1,31 @@
 [Event "Chapter 2: Counting Attackers and Defenders"]
 [FEN "4b1k1/3rn1p1/5p2/1B6/8/3R2P1/5P2/6K1 w - - 0 1"]
-
 {
-***CHAPTER 2***
-
-**Counting Attackers and Defenders**
-
-[%cal Bb5d7,Bd3d7,Be8d7]
-
 Once you feel comfortable with capturing free pieces, the next step is counting attackers and defenders. Generally, in order to gain an advantage, there must be more attackers than defenders. Another rule of thumb related to counting attackers and defenders is that you should capture with the weakest piece first. In other words, first capture with the piece of the lowest material value since it may be lost in the trade, then you’ll be left with your more valuable piece in the end.
 
 In the position above, White is attacking the rook on d7 with the bishop on c4 and the rook on d3. Black is only protecting the rook once. Now the question is whether White should capture with the rook (5 points) or the bishop (3 points) first. In this case, it makes the most sense for White to capture with the bishop, since it’s 2 points less in value than the rook.
 
 The best move for White is
 }
-
 1.Bxd7
-
 {
-[%cal Bd3d7,Be8d7][%csl Bd7]
-
 After
 }
-
 1...Bxd7 2.Rxd7
-
-{White has captured a rook (5 points) and bishop (3 points) and only given away a bishop (3 points). White comes out ahead a rook (5 points) and should go on to win the game. There are exceptions when more attackers does not always mean it’s safe to capture.
+{
+White has captured a rook (5 points) and bishop (3 points) and only given away a bishop (3 points). White comes out ahead a rook (5 points) and should go on to win the game. There are exceptions when more attackers does not always mean it’s safe to capture.
 }
 
 [Event "Chapter 2: Counting Attackers and Defenders"]
 [FEN "2b2rk1/3n1np1/5p2/8/8/3Q4/6PP/3R2K1 w - - 0 1"]
-
 {
-[%cal Bd1d7,Bd3d7,Bc8d7][%csl Bd3]
-
 Let’s take a look at the following example as an exception to the rule.
 
 Here, White’s queen and rook are set up in a battery formation. The battery, in this case, adds up to two attackers: the queen and the rook. The only defender of the knight on d7 is the bishop on c8. Even though White has more attackers than Black has defenders, it is unsafe to capture the knight since White would lose material on the exchange of pieces.
 
 After
 }
-
-1.Qxd7 
-
-{
-[%cal Bd1d7,Bc8d7]
-}
-
-1...Bxd7 2.Rxd7
-
+1.Qxd7 Bxd7 2.Rxd7
 {
 White has made two captures, first capturing the knight (3 points) and then the bishop (3 points). Black in return has won the queen (9 points). White comes out at a 3 point disadvantage and hence capturing the knight would have been a bad idea.
 
@@ -56,7 +33,6 @@ I have designated 20 puzzles for you to solve in regard to finding pieces that a
 
 Remember: when possible, it is generally best to capture with the weakest piece first.
 }
-
 [Event "Exercise 21 - Counting Attackers and Defenders"]
 [FEN "6k1/b2n1pp1/5n1p/4N3/8/6P1/P2R1P1P/6K1 w - - 0 1"]
 1.Nxd7 Nxd7 {}
@@ -83,17 +59,17 @@ Remember: when possible, it is generally best to capture with the weakest piece 
 [Event "Exercise 26 - Counting Attackers and Defenders"]
 [FEN "3r4/1b2k3/4p1r1/1qP1Pp2/P7/3NpPPp/1P2Q2P/R4R1K b - - 0 1"]
 1...Qxd3 {Correct!}
-(1...Rxd3 {does not work since Black’s queen is en prise:}
-2.axb5 {.})
+1...Rxd3 {does not work since Black’s queen is en prise:}
+2.axb5 {.}
 2.Qxd3 Rxd3 {Black wins a knight (3 points) and should go on to win the game.}
 
 [Event "Exercise 27 - Counting Attackers and Defenders"]
 [FEN "r1bqr1k1/1pp2ppp/p1n5/3p2B1/1b1Pn3/1PNBPN2/P4PPP/2RQ1RK1 b - - 0 1"]
 1...Nxg5 {Correct!}
-(1...Nxc3 {would not be as effective since White can simply capture the knight:}
-2.Rxc3 {.})
-(1...Bxc3 {would be a blunder since White would take the queen:}
-2.Bxd8 {.})
+1...Nxc3 {would not be as effective since White can simply capture the knight:}
+2.Rxc3 {.}
+1...Bxc3 {would be a blunder since White would take the queen:}
+2.Bxd8 {.}
 2.Nxg5 Qxg5 {Black wins a bishop (3 points) and should go on to win the game.}
 
 [Event "Exercise 28 - Counting Attackers and Defenders"]

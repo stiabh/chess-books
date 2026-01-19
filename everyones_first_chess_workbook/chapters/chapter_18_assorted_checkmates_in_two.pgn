@@ -1,3 +1,20 @@
+[Event "Chapter 18: Assorted Checkmates in Two"]
+[FEN "6k1/8/5QB1/8/1q6/8/8/6K1 w - - 0 1"]
+{
+In this chapter you will learn to give checkmate in two moves. That is, you make a move, your opponent makes a move, and then on your second turn you finish the game with checkmate. Every puzzle in this chapter features two consecutive checks which end the game in checkmate. You will not have to find checkmates which use ‘quiet moves’ or non-checks.
+The following is a helper checkmate that takes two moves to execute. Notice that the bishop guards two very important squares around the black king.
+The best move for White is
+}
+1.Qf7+
+{
+Using the bishop to get the queen close to the king.
+}
+1...Kh8 2.Qh7#
+{
+And finally using the bishop to deliver helper checkmate.
+Good luck with the rest of the checkmate in two puzzles! Remember that you must start by looking for all checks in the position. Don’t forget to look for some of the tactics you learned earlier in the book – pins, decoys, discovered checks, double checks, as they can be extremely helpful in checkmating your opponent!
+Once again, in this chapter, every move of the sequence will be check. Analyze each check until you see how the game will end.
+}
 [Event "Exercise 436 - Assorted Checkmates in Two"]
 [FEN "5rk1/1p4pp/2b1pr2/3p1p2/1p1q1PP1/3B4/P1PN2P1/R3QR1K b - - 0 1"]
 1...Rh6+ {Attacking the h-file.}
@@ -52,9 +69,9 @@
 [FEN "r6k/2Q1R2p/ppb2ppb/3p4/8/8/P1q2PPP/1N4K1 w - - 0 1"]
 1.Rxh7+ {Using the battery on the 7th rank.}
 1...Kg8 {}
-2.Qf7# {Not}
+2.Qf7# ({Not}
 2.Qg7+ {since the bishop guards that square!}
-2...Bxg7 {.}
+2...Bxg7 {.})
 
 [Event "Exercise 446 - Assorted Checkmates in Two"]
 [FEN "r1bR1rk1/1p2nppp/p3p3/2b5/2B2B2/4PN2/PP3PPP/3R2K1 w - - 0 1"]
@@ -76,18 +93,15 @@
 [Event "Exercise 449 - Assorted Checkmates in Two"]
 [FEN "2r1r1k1/8/1p2ppp1/pp6/3Pq1P1/1P2n2Q/PK3P2/3R3R w - - 0 1"]
 1.Qh8+ {Using the battery to attack the king but also leaving room for the rook to come down next.}
-1.Qh7+ {is not effective since the rook doesn’t have a way in.}
-1...Kf8 {}
-2.Qh8+ Ke7 {.}
-1...Kf7 {}
-2.Rh7# {}
+(1.Qh7+ {is not effective since the rook doesn’t have a way in. The king escapes:} 1...Kf8 2.Qh8+ Ke7{.})
+1...Kf7 2.Rh7#
 
 [Event "Exercise 450 - Assorted Checkmates in Two"]
 [FEN "r2qk2r/1p5p/3bp3/1p1pNpp1/1P2nP2/P3P3/2PB2PP/R2Q1RK1 w - - 0 1"]
 1.Qh5+ {Using the exposed diagonal toward the king.}
 1...Ke7 {}
-1...Kf8 {doesn’t change much:}
-2.Qf7# {.}
+(1...Kf8 {doesn’t change much:}
+2.Qf7# {.})
 2.Qf7# {Knight and queen helper checkmate.}
 
 [Event "Exercise 451 - Assorted Checkmates in Two"]
@@ -221,8 +235,8 @@
 [Event "Exercise 475 - Assorted Checkmates in Two"]
 [FEN "rn3rk1/p2p1ppp/1pq5/2pQ4/2B5/5PP1/PPb4P/R3R1K1 w - - 0 1"]
 1.Qxf7+ Rxf7 {}
-1...Kh8 {doesn’t help much:}
-2.Qxf8# {.}
+(1...Kh8 {doesn’t help much:}
+2.Qxf8# {.})
 2.Re8# {Picking on the rook being in a pin.}
 
 [Event "Exercise 476 - Assorted Checkmates in Two"]

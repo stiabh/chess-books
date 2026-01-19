@@ -1,0 +1,325 @@
+[Event "Chapter 5: Forks"]
+{
+A fork is when one piece attacks two or more enemy pieces at the same time. The unique thing about this motif is that every single piece on the board, including the king, can issue a fork. In this chapter, we break down forks according to the piece giving them.
+}
+
+[Event "Chapter 5: Knight Forks"]
+[FEN "2k1q3/8/8/5N2/8/5K2/6Q1/8 w - - 0 1"]
+{
+The knight could move to d6 and fork the king and the queen. That would be an extremely powerful move since White would win a queen for only a knight...
+}
+1.Nd6+ Kd7 2.Nxe8.
+{
+... while White would end up losing a knight. It’s important to remember that the goal of any chess tactic is to gain an advantage, material or otherwise, and Nd6+ certainly does that. White wins a queen (9) and Black only gets the knight (3) in return. Knight forks are the trickiest of them all, and we will begin with those first.
+}
+
+[Event "Chapter 5: Rook Forks"]
+[FEN "3k3n/8/8/8/8/6R1/8/4K3 w - - 0 1"]
+{
+Notice the king and the knight are on the same rank. White can use the rook to fork:
+}
+1.Rg8+ Ke7 2.Rxh8.
+{
+White wins a knight (3 points) for nothing and should go on to win the game.
+}
+
+[Event "Chapter 5: Queen Forks"]
+[FEN "8/r5k1/8/8/8/8/8/3Q2K1 w - - 0 1"]
+{
+Notice that the rook is unprotected on a7. Rooks do not like to be attacked on diagonals. White can fork the king and rook:
+}
+1.Qd4+ Kh7 2.Qxa7+
+{
+White wins a rook (5 points) and should go on the win the game.
+}
+
+[Event "Chapter 5: Bishop Forks"]
+[FEN "1k2N3/8/8/8/8/8/1B5r/2K5 w - - 0 1"]
+{
+Rooks do not like to be attacked on diagonals, since they only move vertically and horizontally. White can win the rook on h2:
+}
+1.Be5+ Kc8 2.Bxh2
+{
+White wins a rook (5 points) for free and should go on to win the game.
+}
+
+[Event "Chapter 5: King Forks"]
+[FEN "1k6/8/8/8/7K/5b2/5n2/RB6 w - - 0 1"]
+{
+Kings can fork pieces too, they just have to be one square away! White can fork the bishop and knight:
+}
+1.Kg3
+{
+White will win one of the minor pieces (3 points) and should go on to win the game.
+}
+
+[Event "Chapter 5: Pawn Forks"]
+[FEN "8/1k6/1p6/5n1n/8/7P/6P1/R5K1 w - - 0 1"]
+{
+Pawns can fork pieces but only pieces that are diagonally apart. White can play...
+}
+1.g4
+{
+... which forks the knights. White will win one of the knights (3 points) for a pawn (1 point) and should go on to win the game.
+All-in-all there are 40 fork puzzles in the chapter. In order to better solve the problems, look for all checks and undefended pieces.
+}
+[Event "Exercise 115 - Knight Forks"]
+[FEN "8/1p2r3/2pN3k/2P4p/p4K1P/P1P3P1/8/8 w - - 0 1"]
+1.Nf5+ Kg6 {}
+2.Nxe7+ {White is up a knight (3 points) and a pawn (1 point) and should go on to win the game.}
+
+[Event "Exercise 116 - Knight Forks"]
+[FEN "5k2/p7/1p3qp1/2p3Np/2PnPP1P/8/P2Q1K2/8 w - - 0 1"]
+1.Nh7+ Kg7 {}
+2.Nxf6 {Even if Black recaptures the knight on the next move, White is up a queen (9 points) for a knight (3 points) and should go on to win the game.}
+
+[Event "Exercise 117 - Knight Forks"]
+[FEN "8/6pk/5b1p/p2p4/1p1n2N1/1P6/P4PPP/2B3K1 b - - 0 1"]
+1...Ne2+ {Black uses a knight fork to win a bishop.}
+2.Kf1 Nxc1 {Black is up a minor piece (3 points) and should go on to win the game.}
+
+[Event "Exercise 118 - Knight Forks"]
+[FEN "2kr1bnr/p1p2ppp/1p6/2n1p3/2P5/8/P2P1PPP/R1Q1K1NR b - - 0 1"]
+1...Nd3+ {Black uses a knight fork to win a queen for a knight.}
+2.Ke2 Nxc1+ {Black will be up a minor piece once White recaptures and should go on to win.}
+
+[Event "Exercise 119 - Knight Forks"]
+[FEN "8/pp2k2p/4P1p1/2p2P2/4n3/8/PPP3PP/1K3R2 b - - 0 1"]
+1...Nd2+ {Forking the king and the rook.}
+2.Kc1 Nxf1 {Black is up a knight and should go on to win the endgame quite easily.}
+
+[Event "Exercise 120 - Knight Forks"]
+[FEN "2b2r2/2k5/3p4/p1p3pp/4P3/1Bb1N3/P4PPP/3R2K1 w - - 0 1"]
+1.Nd5+ {White wins the unprotected bishop on c3 with a knight fork.}
+1...Kb8 {}
+3.Nxc3 {White is a knight up and should win the game comfortably.}
+
+[Event "Exercise 121 - Knight Forks"]
+[FEN "8/3k2p1/p2N3p/Pp1p3q/1P3PnP/1R1Q2P1/8/7K b - - 0 1"]
+1...Nf2+ {Forking the king and queen.}
+2.Kg1 Nxd3 {If White recaptures the knight, Black captures White’s knight.}
+
+[Event "Exercise 122 - Knight Forks"]
+[FEN "r3k2r/p2nbppp/1p2p3/1Np1Pn2/8/1P2BN1P/P1P2PP1/R3K2R w - - 0 1"]
+1.Nc7+ {Forking the king and rook.}
+1...Kd8 {}
+2.Nxa8 {White is currently up a rook, even if Black manages to win the clumsy knight in the corner, White would still be up the exchange and should go on to win regardless.}
+
+[Event "Exercise 123 - Knight Forks"]
+[FEN "2kr3r/1p1qppb1/p1np2p1/3N2np/3P4/4B1Pb/PP2BP1P/R2QR1K1 w - - 0 1"]
+1.Nb6+ {Forking the king and queen.}
+1...Kc7 {}
+2.Nxd7 {White is up a large amount of material and should go on to win the game from here.}
+
+[Event "Exercise 124 - Knight Forks"]
+[FEN "8/pp4b1/3k2B1/3p1n2/4p2P/2P5/PPK5/5R2 b - - 0 1"]
+1...Ne3+ {Forking the king and rook.}
+2.Kd2 Nxf1+ {Black is up a knight and should win the endgame fairly easily.}
+
+[Event "Exercise 125 - Knight Forks"]
+[FEN "rn2kb1r/pp3ppp/2p1pn2/1N3b2/8/3P1N2/PPP2PPP/R1B1KB1R w - - 0 1"]
+1.Nc7+ {Forking the king and rook.}
+1...Kd8 {}
+2.Nxa8 {White is currently up a rook.}
+
+
+[Event "Exercise 126 - Rook Forks"]
+[FEN "6k1/8/8/4N3/1r6/8/8/4K3 b - - 0 1"]
+1...Re4+ {}
+2.Kf2 Rxe5 {Black is up a rook and should win the game using the fundamental rook and king versus king checkmate.}
+
+[Event "Exercise 127 - Rook Forks"]
+[FEN "2k5/b6n/8/8/8/8/6RP/1K6 w - - 0 1"]
+1.Rg7 {Forking the bishop and knight.}
+1...Bc5 {}
+2.Rxh7 {White is the exchange and a pawn up.}
+
+[Event "Exercise 128 - Rook Forks"]
+[FEN "r6r/1p1k2b1/5R2/P1p1p3/1pP1P2p/3P4/4N2P/R5K1 w - - 0 1"]
+1.Rf7+ {Forking the king and bishop.}
+1...Ke6 {}
+2.Rxg7 {White is up a knight and should go on to win the game.}
+
+[Event "Exercise 129 - Rook Forks"]
+[FEN "8/6p1/p4p1p/1q5k/1P1R4/6PP/3R3K/8 w - - 0 1"]
+1.Rd5+ {Forking the king and queen.}
+1...Qxd5 {}
+(1...Kg6 {is also possible but in either case Black loses the queen for a rook.}
+2.Rxb5 axb5 {.})
+2.Rxd5+ {White is up a rook and should clean up from here.}
+
+[Event "Exercise 130 - Rook Forks"]
+[FEN "r5r1/pppb1k1p/6pb/8/2P3PB/3P1P2/7P/3KRB1R w - - 0 1"]
+1.Re7+ {Forking the king and bishop while using the bishop on h4 as a helper.}
+1...Kf8 {}
+2.Rxd7 {White is up a minor piece for only a pawn and should win without much trouble.}
+
+
+[Event "Exercise 131 - Queen Forks"]
+[FEN "2k5/ppp4p/5np1/1Q6/8/4qP1P/PPP3P1/3N3K b - - 0 1"]
+1...Qe1+ {Forking the king and knight.}
+2.Kh2 Qxd1 {Black is up a knight and should go on to win the endgame.}
+
+[Event "Exercise 132 - Queen Forks"]
+[FEN "r7/2p1k1n1/1p1p1pq1/pP1Pp3/P3P1PR/5P2/1P2B3/2KQ4 b - - 0 1"]
+1...Qg5+ {Forking the king and the unprotected rook on h4.}
+2.Kb1 Qxh4 {Black is a rook up and should finish without much trouble.}
+
+[Event "Exercise 133 - Queen Forks"]
+[FEN "6k1/1p2rpp1/pQp3qp/2Pp4/3P4/7P/P4PP1/3R3K w - - 0 1"]
+1.Qd8+ {Forking the king and unprotected rook on e7.}
+1...Kh7 {}
+2.Qxe7 {White is up a rook and should go on to win.}
+
+[Event "Exercise 134 - Queen Forks"]
+[FEN "r1b2rk1/ppp1q1pp/5p2/n2pPn2/3P1B2/PQP2N2/5PPP/R3KB1R w - - 0 1"]
+1.Qxd5+ {Forking the king and unprotected knight on a5.}
+1...Kh8 {}
+2.Qxa5 {White is up a piece and should go on to win, though white should now finish development and get castled quickly.}
+
+[Event "Exercise 135 - Queen Forks"]
+[FEN "r2qk1nr/1pp3pp/p4p2/8/1b2P1b1/3p1N2/P2N1PPP/R1BQR1K1 w - - 0 1"]
+1.Qa4+ {Forking the king and bishop.}
+1...Qd7 {}
+2.Qxb4 {White is up a knight and should go on to win.}
+
+[Event "Exercise 136 - Queen Forks"]
+[FEN "6k1/2r4p/5Qp1/1p1p1p2/2pPr3/2P4P/1P6/5K2 w - - 0 1"]
+1.Qd8+ {Forking the king and rook.}
+1...Kg7 {}
+2.Qxc7+ {White has a queen for a rook and is winning.}
+
+[Event "Exercise 137 - Queen Forks"]
+[FEN "8/1p1q2p1/5pk1/2PN2p1/3n2P1/1Q5P/5KP1/8 w - - 0 1"]
+1.Qd3+ Kf7 {}
+(1...Nf5 {doesn’t help much:}
+2.Qxf5+ Qxf5+ {}
+3.gxf5+ {and White is still up a knight in a more simplified position.})
+2.Qxd4 {White is up a knight and should win the endgame.}
+
+[Event "Exercise 138 - Queen Forks"]
+[FEN "r1b1kbnr/ppp2ppp/3q4/n2Pp3/2B5/2N1P3/PP3PPP/R1BQK1NR w - - 0 1"]
+1.Qa4+ {Forking the king and knight.}
+1...Bd7 {}
+2.Qxa5 {White is up a minor piece and should go on to win.}
+
+[Event "Exercise 139 - Queen Forks"]
+[FEN "3q1rk1/2p3p1/2Pp2Np/5p2/4n2P/1P2B3/1KP2PP1/3R3R b - - 0 1"]
+1...Qf6+ {Forking the king and knight.}
+2.Bd4 {}
+(2.Ne5 {doesn’t help much:}
+2...Qxe5+ {.})
+2...Qxg6 {Black is up a queen for a rook and should go on to win.}
+
+[Event "Exercise 140 - Queen Forks"]
+[FEN "rnb1k2r/pp3ppp/3q1n2/1N1p4/3p1P2/6P1/PP3PBP/R2QK1NR b - - 0 1"]
+1...Qb4+ {Forking the king and knight.}
+2.Kf1 {}
+(2.Nc3 {also loses material after}
+2...dxc3 {.})
+2...Qxb5+ {Black is up a knight and should go on to win.}
+
+[Event "Exercise 141 - Queen Forks"]
+[FEN "8/5ppk/7p/R2pp3/8/5PqP/6Q1/6K1 b - - 0 1"]
+1...Qe1+ {Forking the king and rook.}
+2.Kh2 Qxa5 {Black is up three pawns in the endgame and should win without much trouble.}
+
+
+[Event "Exercise 142 - Bishop Forks"]
+[FEN "8/7R/4kp2/2b1p1p1/P3P1P1/5P2/r3B1P1/4K3 w - - 0 1"]
+1.Bc4+ {Forking the king and rook.}
+1...Kd6 {}
+2.Bxa2 {White is up a rook and should win this endgame fairly easily.}
+
+[Event "Exercise 143 - Bishop Forks"]
+[FEN "8/p4pkp/4p1p1/qb2P3/3P4/2b1Q3/P5PP/1BR3K1 b - - 0 1"]
+1...Bd2 {Using the queen and bishop battery to fork the queen and rook.}
+2.Qf2 Bxc1 {Black is up a bishop and should win the game, though should be careful with the exposed dark squares around the king.}
+
+[Event "Exercise 144 - Bishop Forks"]
+[FEN "8/4b2k/1p1pB2p/7P/1P2r3/2PRp3/8/1K6 w - - 0 1"]
+1.Bf5+ {Forking the king and rook.}
+1...Kg7 {}
+2.Bxe4 {White is up a rook in the endgame and should win without much trouble though rounding up the e-pawn should be a priority.}
+
+[Event "Exercise 145 - Bishop Forks"]
+[FEN "r4rk1/ppp2ppp/2p5/8/4P3/2NP4/PPP2PPP/R1b2K1R b - - 0 1"]
+1...Bxb2 {Forking the rook and knight.}
+2.Rb1 {White saves the more valuable piece.}
+2...Bxc3 {Black is up a bishop and should win the game.}
+
+[Event "Exercise 146 - Bishop Forks"]
+[FEN "2R2b2/4ppkp/6p1/8/p4B2/7P/1r3PP1/6K1 w - - 0 1"]
+1.Be5+ {Forking the king and rook.}
+1...f6 {}
+2.Bxb2 {White is up a rook and should win the endgame comfortably.}
+
+
+[Event "Exercise 147 - King Forks"]
+[FEN "4k3/8/8/8/8/bn6/8/K7 w - - 0 1"]
+1.Ka2 {Forking the knight and bishop.}
+1...Bd6 {}
+(1...Nd4 {still loses a minor piece.}
+2.Kxa3 {.})
+2.Kxb3 {The game ends in a draw.}
+
+[Event "Exercise 148 - King Forks"]
+[FEN "4k3/8/p7/n1K5/8/8/8/8 w - - 0 1"]
+1.Kb6 {Forking the knight and pawn.}
+1...Nc4+ {}
+2.Kxa6 {White eliminates the pawn and secures a draw!}
+
+[Event "Exercise 149 - King Forks"]
+[FEN "3k4/8/3K4/8/4bp2/8/5P2/8 w - - 0 1"]
+1.Ke5 {Forking the pawn and bishop.}
+1...Bd3 {}
+2.Kxf4 {The game should end in a draw as Black can always sacrifice the bishop for the remaining pawn.}
+
+[Event "Exercise 150 - King Forks"]
+[FEN "5k2/5p2/8/R7/5r2/8/5K1n/1R6 w - - 0 1"]
+1.Kg3 {Forking the rook and knight.}
+1...Rf6 {Saving the more valuable piece.}
+2.Kxh2 {White is up a rook for only a pawn and should go on to win the game from here.}
+
+[Event "Exercise 151 - King Forks"]
+[FEN "6k1/1R6/8/8/8/5K2/1P6/6bn w - - 0 1"]
+1.Kg2 {Forking the knight and bishop.}
+1...Bc5 {}
+2.Kxh1 {White is up the exchange and should try to win for a bit, but this is theoretically a drawn position.}
+
+
+[Event "Exercise 152 - Pawn Forks"]
+[FEN "4k3/8/8/8/3r1r2/2N5/2BPP3/4K3 w - - 0 1"]
+1.e3 {Forking the rooks.}
+1...Rb4 {}
+2.exf4 {After black recaptures the pawn on f4, White has two minor pieces and a pawn for a rook and should go on to win the game from here.}
+
+[Event "Exercise 153 - Pawn Forks"]
+[FEN "3q1r1k/6pp/6n1/5p2/8/4Q1NP/5PP1/5RK1 b - - 0 1"]
+1...f4 {Forking the queen and knight.}
+2.Qe2 fxg3 {Black is a knight up and should win the game from here.}
+
+[Event "Exercise 154 - Pawn Forks"]
+[FEN "r3k2r/pbp2ppp/1pnqpn2/3p4/3PPP2/3B1N2/PPPN2PP/R2Q1RK1 w - - 0 1"]
+1.e5 {Forking the queen and knight.}
+1...Qe7 {}
+(1...Nxe5 {is worse since it still allows the fork.}
+2.fxe5 {})
+2.exf6 {White is up a minor piece and should win the game from here.}
+
+[Event "Exercise 155 - Pawn Forks"]
+[FEN "r4rk1/ppp2ppp/3bpn2/3p4/3PP3/2N2N2/PPP2PPP/2KRR3 w - - 0 1"]
+1.e5 {Forking the bishop and knight.}
+1...Nd7 {}
+(1...Be7 {}
+2.exf6 Bxf6 {should Black prefer to keep the bishop, but in either case White is up a minor piece.})
+2.exd6 {White is a knight up and should win the game.}
+
+[Event "Exercise 156 - Pawn Forks"]
+[FEN "4k3/8/8/4n1n1/8/3P4/2K1PP2/8 w - - 0 1"]
+1.f4 {Forking the knights.}
+1...Nef7 {}
+(1...Ngf7 {is also possible:}
+2.fxe5 Nxe5 {and the position is similar to the main variation.})
+2.fxg5 {Once Black recovers the pawn, White will have two pawns against the knight.}
+

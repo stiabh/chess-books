@@ -1,3 +1,14 @@
+[Event "Chapter 16: Trapping Pieces"]
+[FEN "2n3k1/8/8/8/8/8/5Q2/4K3 w - - 0 1"]
+{
+In this chapter we will look at attacking pieces in such a way that there is no escape without losing material. Trapping pieces is not always an easy task and requires you to have full vision of the chess board.
+White has a queen and is looking to take advantage of the knight on the rim. White could play the move 1.Qc5 and attack the knight and take away all of its flight squares. After
+}
+1.Qc5
+{
+the black knight is trapped and will be captured on the next turn.
+To better solve the problems in this chapter, look for pieces that have limited moves, and pieces that are alone in enemy territory.
+}
 [Event "Exercise 384 - Trapping Pieces"]
 [FEN "r6r/1Qpk1pp1/2p2nqp/2P1p3/3p4/2P1PP1P/PP4P1/R1B2RK1 b - - 0 1"]
 1...Rhb8 {and the queen has no escape.}

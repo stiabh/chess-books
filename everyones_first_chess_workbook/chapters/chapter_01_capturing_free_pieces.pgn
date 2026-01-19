@@ -1,13 +1,6 @@
 [Event "Chapter 1: Capturing Free Pieces"]
-[FEN "r3r1k1/ppp2pp1/5n2/1q6/1b6/3P4/PPQBNPPP/R4RK1 b - - 0 1"]
-
+[FEN "r3r1k1/ppp2pp1/5n2/1q6/1b6/3P4/PPQBNPPP/R4RK1 w - - 0 1"]
 {
-[%cal Bb5d3,Be8e2,Bb4d2][%csl Be2]
-
-***CHAPTER 1***
-
-**Capturing Free Pieces**
-
 In this chapter we look at one of the most fundamental areas of improving board vision: taking unprotected pieces. Visualizing the chess board as a whole can be tough if you are just starting. Be sure to look at all of your pieces, near and far, and identify what they are attacking. A piece which is unprotected and can be captured for free may also referred to as ‘en prise’ (än prēz).
 
 Black is attacking a few pieces in this position:
@@ -18,13 +11,12 @@ Black is attacking a few pieces in this position:
 
 The only piece that is ‘en prise’, or free of protection, is the knight on e2. The others are defended by other pieces and would not count as ‘free’ pieces.
 
-The best move for Black is 1...Rxe2.
+The best move for Black is 
 }
-1... Re2
+1...Rxe2 
 {
 Visualizing the chess board as a whole can be tough if you are just starting, so I have compiled 20 puzzles to help you identify inadequately defended pieces.
 }
-
 [Event "Exercise 1 - Capture Free Pieces"]
 [FEN "8/r7/4kp2/7P/4p3/3bB3/2p5/2R1K3 w - - 0 1"]
 1.Bxa7 {White wins the rook (5 points) for free.}
@@ -32,8 +24,8 @@ Visualizing the chess board as a whole can be tough if you are just starting, so
 [Event "Exercise 2 - Capture Free Pieces"]
 [FEN "r1b2rk1/pp3ppp/2q5/1Q6/1b2pB2/5pP1/PPP2P1P/2KR1B1R w - - 0 1"]
 1.Qxb4 {White wins the bishop (3 points) for free.}
-(1.Qxc6 {is not effective since the queen can simply be captured back:}
-1...bxc6 {.})
+1.Qxc6 {is not effective since the queen can simply be captured back:}
+1...bxc6 {.}
 
 [Event "Exercise 3 - Capture Free Pieces"]
 [FEN "r2q1rk1/pb1n1p1p/1p2p1pb/3pP3/6Q1/PP1B4/1BPN1PPP/R3R1K1 b - - 0 1"]

@@ -1,0 +1,267 @@
+[Event "Chapter 6: Pins"]
+{
+A pin occurs when a linear moving piece (rook, queen, bishop) attacks an enemy piece, and if the piece moved, there would be an attack on a piece of greater value beyond it.
+We break down pins into two categories:
+1. Absolute pin
+2. Relative pin
+}
+
+[Event "Chapter 6: Absolute Pin"]
+[FEN "4n3/6k1/8/8/3r4/8/8/1KR1B3 w - - 0 1"]
+{
+An absolute pin occurs when the piece that’s first being attacked cannot move since it would place the king in danger. Moving a piece that’s in such a situation would be illegal, hence the name ‘absolute pin’.
+White could play
+}
+1.Bc3
+{
+‘pinning’ the rook to the king. This would be an example of an absolute pin, since it would be illegal to move the rook.
+White is now attacking the rook, and Black is unable to move away from the attack – an absolute pin. No matter what Black plays here, the black rook is lost:
+}
+{
+1...Kg6 2.Bxd4
+}
+
+[Event "Chapter 6: Relative Pin"]
+[FEN "5k1q/8/8/8/3r4/1PB5/P1P5/1KR5 w - - 0 1"]
+{
+A relative pin is when a piece is attacked, and if it moves, a piece of greater value would be endangered. While in most cases, it’s not a good idea to move the piece which is being pinned, there are times when it’s possible; that is what makes the relative pin different from the ‘absolute pin’.
+In this chapter, you will solve a variety of pin problems. To better solve the problems in this chapter, look for pieces aligned on the same line (diagonal, rank, or file).
+}
+
+[Event "Chapter 6: Attacking the Pinned Piece"]
+[FEN "R4bk1/7p/8/1r4p1/8/6P1/6KP/7R w - - 0 1"]
+{
+An important concept regarding pins is ‘attacking the pinned piece’. Increasing the number of attackers on a pinned piece may allow for you to win the piece outright. Let’s take a look at the following example:
+White’s rook on a8 is pinning the bishop to the king. At the present moment, White has one attacker on the bishop (Ra8), and Black one defender (Kg8). White would not get the better of the immediate trade, so it would be best for White to add another attacker (Rh1) on the bishop, which Black can otherwise not move. White could bring the rook from h1 to f1, and attack the bishop for the second time. Black would be unable to run away from the threat due to the pin, and would be unable to add an additional defender, which would lead to the loss of the bishop. The next puzzles involve ‘attacking the pinned piece’. To better solve these problems, it would be useful to find the pinned piece first, then see how to best attack it.
+}
+
+[Event "Chapter 6: Pin Protection"]
+[FEN "1kb4R/1q6/P7/8/8/1Q6/8/1K6 w - - 0 1"]
+{
+The last important concept involving a pin is regarding the usefulness of a pinned piece in the defence. This section of the pins chapter displays that ‘pinned pieces do not protect’. In the case of an absolute pin, the pinned piece does not protect at all.
+The following is an example of a helper checkmate, which took advantage of the fact that the bishop on c8 was in an absolute pin and could not capture the queen.
+The best move for White is
+}
+1.Qxb7#
+{
+The pawn on a6 defends the queen and thus Black is in checkmate.
+The last problems in the pins Chapter will feature examples of ‘attacking the pinned piece’. To better solve these problems, it would be useful to find the pinned piece first, then see how to best take advantage of it.
+}
+[Event "Exercise 157 - Pins"]
+[FEN "4b3/1kp5/8/8/4R3/8/8/1K6 b - - 0 1"]
+1...Bg6 {Pinning the rook to the king.}
+2.Kc1 Bxe4 {Black wins a rook and should go on to win the game (by promoting the pawn).}
+
+[Event "Exercise 158 - Pins"]
+[FEN "3k4/6p1/8/8/3b4/8/8/2K4R w - - 0 1"]
+1.Rd1 {Pinning the bishop and king on the d-file.}
+1...Ke7 {}
+2.Rxd4 {White is up a rook for a pawn and should go on to win the endgame.}
+
+[Event "Exercise 159 - Pins"]
+[FEN "4k3/7p/8/8/4q3/8/5PPP/3K1R2 w - - 0 1"]
+1.Re1 {Pinning the queen to the king.}
+1...Qxe1+ {}
+2.Kxe1 {White is up two pawns and should go on to win the game.}
+
+[Event "Exercise 160 - Pins"]
+[FEN "4k3/6pp/5p2/1r6/8/6P1/5PKP/3Q4 w - - 0 1"]
+1.Qa4 {Pinning the rook to the king.}
+1...Ke7 {}
+2.Qxb5 {White is up a queen and should go on to win without much trouble.}
+
+[Event "Exercise 161 - Pins"]
+[FEN "1r2k2r/p2qbn2/P1p3Q1/4p1p1/3p4/3P2P1/1P1B1PB1/R5K1 w - - 0 1"]
+1.Bxc6 {Pinning the queen to the king.}
+1...Qxc6 {}
+2.Qxc6+ {White is up material, and has a much safer king.}
+
+[Event "Exercise 162 - Pins"]
+[FEN "2kr3r/pppq1ppp/2nb4/4p3/4B3/1PB2Q2/P1PP1PPP/R3K2R w - - 0 1"]
+1.Bf5 {Pinning the queen to the king.}
+1...Kb8 {}
+(1...Qxf5 {}
+2.Qxf5+ {also loses a queen for a bishop.})
+2.Bxd7 {After Black recaptures, White will be up a queen for a knight and should go on to win.}
+
+[Event "Exercise 163 - Pins"]
+[FEN "r4rk1/2q2ppp/5n2/1Bp5/P2pP3/3P1QPb/3BKP1b/RN2R3 b - - 0 1"]
+1...Bg4 {Pinning the queen to the king.}
+2.Qxg4 Nxg4 {Black is up a queen for a bishop and should go on to win.}
+
+[Event "Exercise 164 - Pins"]
+[FEN "r4rk1/pp1np1b1/3p1n1p/2p5/2q5/2N5/PPB2PPP/R1BQ1RK1 w - - 0 1"]
+1.Bb3 {Pinning the queen and king on the diagonal.}
+1...Qf7 {}
+(1...Qxb3 {}
+2.Qxb3+ {doesn’t change much.})
+2.Bxf7+ {White has won a queen for a bishop and should go on to win the game without much resistance.}
+
+[Event "Exercise 165 - Pins"]
+[FEN "r5k1/1b1p1pq1/pp3Q1p/2p5/2P2P2/1B2R3/P1P3PP/6K1 w - - 0 1"]
+1.Rg3 {Pinning the queen to the king.}
+1...Qxg3 {Black wants to get the most for the lost queen.}
+2.hxg3 {White is up a queen for a rook and has the safer king.}
+
+[Event "Exercise 166 - Pins"]
+[FEN "r3k2r/4qpp1/pp1p3p/2pP3n/8/1P1P1R1P/PP2Q1P1/2R1N1K1 w - - 0 1"]
+1.Re3 {Pinning the queen and king along the e-file.}
+1...Qxe3+ {Getting the maximum for the lost queen.}
+2.Qxe3+ {White is up a queen for a rook and has a much safer king.}
+
+[Event "Exercise 167 - Pins"]
+[FEN "6qk/3R1Qp1/1B3p1p/4p3/n7/4PP2/5KPP/2r5 w - - 0 1"]
+1.Rd8 {Pinning the queen to the king.}
+1...Qxd8 {Getting the most for the lost queen.}
+2.Bxd8 {White is up a queen for a rook and should go on to win.}
+
+[Event "Exercise 168 - Pins"]
+[FEN "r4k1r/1ppb4/2n1pqBp/p2pp1p1/Q2P4/2P1P1PN/PP5P/R3K2R w - - 0 1"]
+1.Rf1 {Pinning the queen to the king.}
+1...Qxf1+ {Getting the most for the lost queen.}
+2.Kxf1 {White is up a queen for a rook and should win the game.}
+
+[Event "Exercise 169 - Pins"]
+[FEN "r2qk2r/1b2npb1/pp1p2pp/2pP4/P1P1PN2/1PN1Q1PB/7P/R4RK1 b - - 0 1"]
+1...Bd4 {Pinning the queen to the king.}
+2.Qxd4 cxd4 {Black has won a queen for only a bishop and should go on to win without too much trouble.}
+
+[Event "Exercise 170 - Pins"]
+[FEN "5qk1/p2R1pp1/1r2p2p/3pP3/2pPn2Q/5N1P/P1P2PPK/8 w - - 0 1"]
+1.Rd8 {Pinning the queen to the king.}
+1...Qxd8 {}
+2.Qxd8+ {White is up a queen for a rook and should go on to win.}
+
+[Event "Exercise 171 - Pins"]
+[FEN "r1b2rk1/pp1pbppp/8/q2pp3/8/2QB1N2/P4PPP/RNB1K2R b - - 0 1"]
+1...Bb4 {Pinning the queen to the king.}
+2.Bd2 Bxc3 {Winning the queen for a minor piece.}
+
+[Event "Exercise 172 - Pins"]
+[FEN "2kr2nr/ppp1bpp1/7p/1B1pq3/8/2N1Q2P/PPP3P1/2KRR3 b - - 0 1"]
+1...Bg5 {Pinning the queen to the king.}
+2.Qxg5 Qxg5+ {A very important recapture since the queen was being attacked by the rook.}
+(2...hxg5 {would not be good!}
+3.Rxe5 {and White recovers the queen and some!})
+
+[Event "Exercise 173 - Pins"]
+[FEN "8/pp4kr/2pp4/8/3PP1bP/2P1KN2/PP6/7R w - - 0 1"]
+1.Rg1 {Pinning the bishop to the king.}
+1...Kf6 {}
+2.Rxg4 {White is up a knight in the endgame and should win without much resistance.}
+
+[Event "Exercise 174 - Pins"]
+[FEN "4k1r1/3qb3/Q2p3p/2pPnp2/4pRp1/4P1P1/1N2B2P/6K1 w - - 0 1"]
+1.Bb5 {Pinning the queen to the king.}
+1...Qxb5 {}
+2.Qxb5+ {White won a queen for a minor piece and should go on to win.}
+
+[Event "Exercise 175 - Pins"]
+[FEN "2r2r2/5kpQ/p3pq2/1pP5/3P4/4P2R/P5PP/6K1 w - - 0 1"]
+1.Rf3 {Pinning the queen to the king.}
+1...Ke7 {}
+2.Rxf6 {After Black recaptures the rook, White will have a queen and two pawns for two rooks.}
+
+[Event "Exercise 176 - Pins"]
+[FEN "rk1r4/pp2b3/8/3p3p/3Qn1q1/5N2/1P4PP/R1B1R1K1 b - - 0 1"]
+1...Bc5 {Pinning the queen to the king.}
+2.Qxc5 Nxc5 {Black is up a queen for a minor piece and should win without too much trouble.}
+
+
+[Event "Exercise 177 - Attacking the Pinned Piece"]
+[FEN "R4bk1/2p2p1p/2Pp1np1/1r2p3/4P3/4BNP1/5PKP/8 w - - 0 1"]
+1.Bh6 {Attacking the pinned bishop on f8.}
+
+[Event "Exercise 178 - Attacking the Pinned Piece"]
+[FEN "2k5/pbp2ppp/1p2p3/1P2P3/8/P5P1/1P3P1P/2rBR1K1 b - - 0 1"]
+1...Bf3 {}
+
+[Event "Exercise 179 - Attacking the Pinned Piece"]
+[FEN "r1bqk1nr/ppp2ppp/3b4/3Pn3/2p5/2N5/PP2QPPP/R1B1KBNR w - - 0 1"]
+1.f4 {Attacking the pinned piece.}
+(1.Bf4 {is not as good since Black can defend the knight and ‘break the pin’ with}
+1...Qe7 {and avoids losing material.})
+(1.Nf3 {is similar to}
+1.Bf4 {in that Black can defend the knight and ‘break the pin’ with})
+1...Qe7 {and avoids losing material.}
+
+[Event "Exercise 180 - Attacking the Pinned Piece"]
+[FEN "2r5/6bp/pk6/3PNpp1/1P6/4R1P1/PK4P1/8 b - - 0 1"]
+1...Re8 {Attacking the pinned knight on e5. Now Black has two attackers and White only has one defender.}
+
+[Event "Exercise 181 - Attacking the Pinned Piece"]
+[FEN "r2qk2r/1bp1bppp/1pnp1n2/pB2p3/3PP3/2N2N2/PPP2PPP/R1BQR1K1 w k - 0 1"]
+1.d5 {Attacking the pinned knight on c6.}
+1...0-0
+2.dxc6 {White wins a knight and should go on to win the game.}
+
+[Event "Exercise 182 - Attacking the Pinned Piece"]
+[FEN "2k1r2r/ppp2p2/2n3p1/2b1p3/Q1P1P1p1/8/PPP3PN/3R1R1K b - - 0 1"]
+1...g3 {Attacking the pinned knight on h2 and is now threatening the unstoppable
+2...Rxh2# .}
+
+[Event "Exercise 183 - Attacking the Pinned Piece"]
+[FEN "r5k1/p5b1/1p4Rp/2p5/7P/P1PP3r/1P6/2KR4 w - - 0 1"]
+1.Rdg1 {Creating a battery and winning the bishop on g7.}
+
+[Event "Exercise 184 - Attacking the Pinned Piece"]
+[FEN "r2q1rk1/1b2ppbp/p7/1p1n4/8/4B1Q1/PPP2PP1/2KR4 w - - 0 1"]
+1.Bh6 {Attacking the pinned bishop on g7, with no way to defend, Qxg7# is coming!}
+
+[Event "Exercise 185 - Attacking the Pinned Piece"]
+[FEN "r1bqk2r/1ppp1ppp/p1n2n2/8/1bP5/1PN1PN2/P2Q1PPP/R1B1KB1R b - - 0 1"]
+1...Ne4 {Attacking the pinned knight and forking the queen and knight!}
+
+[Event "Exercise 186 - Attacking the Pinned Piece"]
+[FEN "5r2/ppp3kp/2n3p1/3p4/3P1B2/2P3PP/PP6/3R1K2 b - - 0 1"]
+1...g5 {Attacking the pinned bishop.}
+
+[Event "Exercise 187 - Attacking the Pinned Piece"]
+[FEN "2q1k2r/1p3pp1/p3p2p/1r6/Q7/1P5P/P1P2PP1/R4RK1 w - - 0 1"]
+1.c4 {Attacking the pinned rook.}
+
+
+[Event "Exercise 188 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/3q1p2/6p1/8/8/1B4P1/1B3P2/1Q4K1 w - - 0 1"]
+1.Qxg6# {The pawn on f7 is in a pin by the bishop on b4. It’s checkmate since the bishop on b2 controls the a1-h8 diagonal.}
+
+[Event "Exercise 189 - Pinned Pieces Do Not Protect"]
+[FEN "2k5/1pp5/p3p3/3pP1q1/P2P1r2/2P1QB1p/1P5P/4RK2 b - - 0 1"]
+1...Qg2# {The pawn on h3 supports the checkmate while the rook on f4 pins the bishop on f3 and prevents it from capturing the queen.}
+
+[Event "Exercise 190 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/5pp1/2Q2b2/4p3/3pP2p/3q1P1B/7P/6RK w - - 0 1"]
+1.Qxf6 {Winning a bishop due to the pin on the g-file.}
+
+[Event "Exercise 191 - Pinned Pieces Do Not Protect"]
+[FEN "r2q1rk1/5p2/p1pp1nn1/1p4Q1/4P3/1B6/PPP2PPP/R4RK1 w - - 0 1"]
+1.Qxg6+ {Taking advantage of the pinned f7-pawn.}
+
+[Event "Exercise 192 - Pinned Pieces Do Not Protect"]
+[FEN "1r4k1/p1p2pp1/2p2b1p/8/r7/N1PR3P/PP3PP1/1R4K1 b - - 0 1"]
+1...Rxa3 {Using the pin against the b2-pawn.}
+
+[Event "Exercise 193 - Pinned Pieces Do Not Protect"]
+[FEN "kr6/1p6/r7/Q7/4B3/8/8/1K6 w - - 0 1"]
+1.Qxa6# {Using the pin against the b7-pawn for checkmate.}
+
+[Event "Exercise 194 - Pinned Pieces Do Not Protect"]
+[FEN "6r1/1p3p1k/2bb2p1/6R1/3B4/3B4/8/1K6 w - - 0 1"]
+1.Rh5# {Using the pin against the g6-pawn for checkmate.}
+
+[Event "Exercise 195 - Pinned Pieces Do Not Protect"]
+[FEN "2k5/3n4/2r5/5B2/5B2/8/1R1K4/8 w - - 0 1"]
+1.Rb8# {Using the pin against the knight on d7 for checkmate while the bishop on f4 helps the rook.}
+
+[Event "Exercise 196 - Pinned Pieces Do Not Protect"]
+[FEN "3k4/8/8/4r3/5r2/2R5/1Q1PB1p1/4K1B1 b - - 0 1"]
+1...Rf1# {The rook on e5 pins the bishop on e2, while the pawn on g2 supports the rook checkmate.}
+
+[Event "Exercise 197 - Pinned Pieces Do Not Protect"]
+[FEN "r1b1k2r/p1p3pp/2pq1pn1/4N2Q/1b1Pp3/2N4P/PPPB1PP1/R3K2R w - - 0 1"]
+1.Nxg6 {Winning a knight using the pin against the h7-pawn.}
+
+[Event "Exercise 198 - Pinned Pieces Do Not Protect"]
+[FEN "5rk1/6pp/4qp2/4p3/3r4/6P1/3Q1P1P/2R1R1K1 w - - 0 1"]
+1.Qxd4 {Winning a rook using the pin against the e-pawn.}
+

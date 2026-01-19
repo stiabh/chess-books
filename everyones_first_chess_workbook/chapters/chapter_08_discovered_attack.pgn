@@ -1,3 +1,14 @@
+[Event "Chapter 8: Discovered Attack"]
+[FEN "1k6/4b2p/8/7r/4B3/7P/6P1/4R2K w - - 0 1"]
+{
+A discovery or discovered attack, is when you move one of your pieces out of the way, revealing an attack from a different one of your pieces.
+White’s rook is aligned with the bishop on e7; only White’s own bishop on e4 separates the rook from capturing the bishop on e7. Any move by the bishop on e4 would issue a discovered attack on the e7-bishop, but one is particularly strong:
+}
+1.Bf3
+{
+White attacks both the bishop on e7, by discovery, and the rook on h5. In this position Black would be forced to lose either a bishop or a rook; in either case, White obtains a big advantage.
+To better solve the puzzles, look for enemy pieces aligned on the same files, ranks, and diagonals, where only your own piece separates them.
+}
 [Event "Exercise 219 - Discovered Attack"]
 [FEN "8/2B4p/4kp2/8/5Pp1/4K1b1/6P1/8 w - - 0 1"]
 1.f5+ {Putting the king in check and unleashing the bishop on c7.}
@@ -13,7 +24,7 @@
 [FEN "r1b2rk1/1pq1bppp/p2p1n2/2nNp3/4P2N/1B6/PPP2PPP/R1BQR1K1 b - - 0 1"]
 1...Nxd5 {Trading knights but also attacking the knight by a discovery on h4.}
 2.Bxd5 {}
-2.Nf3 Nf6 {and Black has still won a minor piece.}
+(2.Nf3 Nf6 {and Black has still won a minor piece.})
 2...Bxh4 {Black has won a minor piece and should go on to win the game.}
 
 [Event "Exercise 222 - Discovered Attack"]
@@ -90,7 +101,7 @@
 [FEN "4r1k1/ppp2p1p/5p1B/3qn3/6bN/1P2Q3/P1P2PPK/R7 b - - 0 1"]
 1...Nf3+ {Checking the king and unleashing a discovered attack on the queen.}
 2.gxf3 {}
-2.Qxf3 Bxf3 {doesn’t change much.}
+(2.Qxf3 Bxf3 {doesn’t change much.})
 2...Rxe3 {Black is up material and should go on to win the game.}
 
 [Event "Exercise 236 - Discovered Attack"]

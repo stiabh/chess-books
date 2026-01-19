@@ -1,3 +1,18 @@
+[Event "Chapter 7: Skewer"]
+[FEN "r2k4/8/8/8/8/8/2K4R/8 w - - 0 1"]
+{
+A skewer occurs when a linear moving piece (queen, rook, or bishop) attacks an enemy piece and if that piece moves away there would be an attack on a less valuable piece beyond it. Sometimes a skewer is referred to as a ‘reverse pin’ since a pin occurs when a piece of less value is attacked, and if it moves, a piece of greater value would be in danger. A skewer is the opposite; the more valuable piece is the one first attacked.
+Notice that the black king and rook are aligned on the 8th rank. White could move the rook to h8, skewering the king and rook.
+The best move for White is
+}
+1.Rh8+
+{
+The king (the most valuable piece) is attacked first. The king has to dodge the attack but then the rook on a8 is lost.
+}
+1...Kc7 2.Rxa8
+{
+In order to solve the problems in this chapter, look for enemy pieces aligned on the same file, rank or diagonal.
+}
 [Event "Exercise 199 - Skewer"]
 [FEN "8/8/2k5/8/8/8/2K4R/r7 b - - 0 1"]
 1...Ra2+ {Skewering the king and rook on the 2nd rank.}
@@ -36,9 +51,9 @@
 [FEN "r5k1/1pp2p2/3p1qp1/p6p/2P3bP/P2BQ3/3R2P1/4K2R b - - 0 1"]
 1...Qa1+ {}
 2.Kf2 {Skewering the king and rook.}
-2.Rd1 {does not help much since}
+(2.Rd1 {does not help much since}
 2...Qxd1+ {wins both rooks:}
-3.Kf2 Qxh1 {.}
+3.Kf2 Qxh1 {.})
 2...Qxh1 {Black is up three pawns and has a much safer king.}
 
 [Event "Exercise 206 - Skewer"]
@@ -88,9 +103,9 @@
 [FEN "6k1/pp3pp1/2bR3p/6r1/5K2/1BN2P1P/PP4P1/6b1 b - - 0 1"]
 1...Bh2+ {Skewering the king and rook.}
 2.Ke3 {}
-2.g3 {doesn’t change much and gives away an additional pawn:}
+(2.g3 {doesn’t change much and gives away an additional pawn:}
 2...Bxg3+ {}
-3.Ke3 Bxd6 {.}
+3.Ke3 Bxd6 {.})
 2...Bxd6 {Black is up a rook and should go on to win the game.}
 
 [Event "Exercise 215 - Skewer"]

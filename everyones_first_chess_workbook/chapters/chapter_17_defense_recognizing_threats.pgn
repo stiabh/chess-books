@@ -1,3 +1,15 @@
+[Event "Chapter 17: Defense/Recognizing Threats"]
+[FEN "6k1/5pp1/2b4p/8/4q3/8/5PPP/Q4RK1 w - - 0 1"]
+{
+Defense is a very important aspect in chess. When you first begin learning chess, you are generally more focused on what you are doing as opposed to your opponent. Of course, in a two player game, recognizing what your opponent’s motives are is very important! In this chapter, we will look at best ways to respond to your opponent’s threats. A ‘threat’ is what your opponent would do if they had the next move.
+In the example above, Black’s bishop and queen are aligned in a battery formation. Together they act as two attackers against the pawn on g2, which is only protecting the white king. Black is threatening a battery checkmate in one. What is the most logical way for White to prevent checkmate, without having to sacrifice material?
+The best move for White is
+}
+1.f3
+{
+This is not only a good move, but the only move in the position which defends against the threat. Identifying threats your opponent has is an extremely important aspect of chess.
+To better solve the problems in this chapter, you must first identify the threat, that is, what your opponent would do if they had the next move.
+}
 [Event "Exercise 404 - Defense/Recognizing Threats"]
 [FEN "r4rk1/1p3ppp/1B1p4/NQ1Rp1b1/4P3/pPq2P2/P1P3PP/1K5R w - - 0 1"]
 1.Nc4 {Guarding against the checkmate on b2. White is up a piece and should go on to win.}
@@ -53,8 +65,8 @@
 [Event "Exercise 417 - Defense/Recognizing Threats"]
 [FEN "r2r3k/4R2p/6p1/2p2p2/5P2/3qPK1P/1Q4Pb/8 b - - 0 1"]
 1...Rd4 {Using the pin on e3 to block the check.}
-1...Kg8 {is not good since White would then have checkmate with}
-2.Qg7# {.}
+(1...Kg8 {is not good since White would then have checkmate with}
+2.Qg7# {.})
 
 [Event "Exercise 418 - Defense/Recognizing Threats"]
 [FEN "r2q1rk1/pp4pp/2p5/4Bpb1/6P1/3P1B1P/PPPQ4/2KR3R w - - 0 1"]
@@ -63,14 +75,14 @@
 [Event "Exercise 419 - Defense/Recognizing Threats"]
 [FEN "5rk1/2p2ppp/8/4P3/5P2/bn1R2B1/5P1P/6K1 b - - 0 1"]
 1...Rb8 {Guarding the knight on b3. It’s not good to move the knight since the knight and bishop are being skewered.}
-1...Nc5 {}
-2.Rxa3 {loses a bishop.}
+(1...Nc5 {}
+2.Rxa3 {loses a bishop.})
 
 [Event "Exercise 420 - Defense/Recognizing Threats"]
 [FEN "r1b3k1/pp1p1ppp/8/2r5/8/2P5/PP1NnPPP/R3R2K b - - 0 1"]
 1...Re5 {Protecting the knight and preventing the rook from delivering back rank checkmate.}
-1...Nf4 {would be a bad move since it would allow a back rank checkmate.}
-2.Re8# {.}
+(1...Nf4 {would be a bad move since it would allow a back rank checkmate.}
+2.Re8# {.})
 
 [Event "Exercise 421 - Defense/Recognizing Threats"]
 [FEN "r2qr2k/1pp1nQ2/p2b1p1B/5p2/3Pp3/P6P/1P2RPP1/R5K1 b - - 0 1"]
@@ -103,7 +115,7 @@
 [Event "Exercise 428 - Defense/Recognizing Threats"]
 [FEN "r2q2k1/pp3pp1/2nNr2p/4p3/8/2PQ4/PP3PPP/R1B1R1K1 w - - 0 1"]
 1.Rd1 {Guarding the knight once more.}
-1.Ne4 Qxd3 {.}
+({Moving that knight was not an option since that hangs the queen:} 1.Ne4 Qxd3 {. The knight was pinned and moving it meant losing the queen.})
 
 [Event "Exercise 429 - Defense/Recognizing Threats"]
 [FEN "r4rk1/p4p1p/4pQ2/3p3N/8/6P1/P5PK/1q6 b - - 0 1"]
@@ -119,9 +131,11 @@
 
 [Event "Exercise 432 - Defense/Recognizing Threats"]
 [FEN "3r2k1/1p3p1p/pqp3pQ/4p3/1PP1P3/P6P/4RPPB/1R1r2K1 w - - 0 1"]
-1.Re1 {Using an X-ray defense to prevent the back rank checkmate.}
-1.Rxd1 Rxd1+ {}
-2.Re1 Rxe1# {.}
+1.Re1
+({Using an X-ray defense to prevent the back rank checkmate.}
+1.Rxd1 Rxd1+
+2.Re1 Rxe1# {.})
+
 
 [Event "Exercise 433 - Defense/Recognizing Threats"]
 [FEN "r1b2rk1/ppq2pp1/4p2B/2p5/2B1N1Q1/2PP4/Pb3PP1/4R2K b - - 0 1"]

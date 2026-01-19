@@ -1,3 +1,39 @@
+[Event "Chapter 12: Decoy"]
+{
+A decoy tactic involves distracting or luring away the defender from its defensive position. There are two types of decoy tactics and for simplicity I have included them both in this chapter. Deflection and attraction are both types of decoy chess tactics designed to distract a piece away from a particular square. To help better understand the differences between them, I will define them here and show an example of each.
+}
+
+[Event "Chapter 12: Deflection"]
+[FEN "3R4/6k1/6q1/8/6Q1/6K1/8/8 w - - 0 1"]
+{
+The first type of decoy tactic is a ‘deflection’. A deflection is a sacrifice designed to lure a piece AWAY from the defense of another piece or against a threat.
+Here, White is attacking the black queen, but it’s protected by the king. White can distract the black king away from the queen by sacrificing the rook with...
+}
+1.Rg8+ (see diagram 2)
+{
+... which skewers the king and queen. Initially this may not be a move on your radar, but once you notice that it distracts the king away from the queen, you will recognize its strength.
+}
+1...Kxg8 2.Qxg6+
+{
+Here White has won a queen for a rook and has a winning advantage.
+}
+
+[Event "Chapter 12: Attraction"]
+[FEN "1k6/pp6/6q1/5N2/8/8/P5PK/2R5 w - - 0 1"]
+{
+Attraction is also a form of decoy tactic but is a little different from a deflection. In attraction, you are trying to lure a piece TO a particular square, so that you can set up a tactic on the piece thereafter.
+Here White recognizes that if the black king were on the c8-square, the white knight would be able to fork the king and queen by using the knight. Therefore White played:
+}
+1.Rc8+
+{
+An alarming move! White wants to ‘attract’ the king to the c8-square where then it will be vulnerable to the fork.
+}
+1...Kxc8 2.Ne7+ Kd7 3.Nxg6
+{
+The attraction tactic won Black’s queen for only a rook. White now has a winning advantage.
+Because the chapters in Part II of this book are tactics in one move, we will not see attraction tactics until Part III. Attraction tactics need to be set up first, and thus must take more than one move. Having said that, I wanted to be sure that you understand the difference between a deflection and an attraction tactic. Both of them are forms of distraction or decoy tactics.
+To better solve the puzzles in this chapter, look for a piece that’s guarding another and try to distract it away from the defense.
+}
 [Event "Exercise 304 - Decoy"]
 [FEN "3R4/5r1k/4p1pq/8/1P2P2Q/6Kp/5P2/8 w - - 0 1"]
 1.Rh8+ {Distracting the king away from the queen.}
@@ -81,7 +117,7 @@
 [Event "Exercise 318 - Decoy"]
 [FEN "8/5k2/p7/r7/2R2K2/8/2p5/8 b - - 0 1"]
 1...Ra4 {Offering the rook to promote the pawn on c2. It’s also a pin, so White does not have many options here.}
-2.Rxa4 c1 {Q+ Black promotes and has a queen and pawn for a rook.}
+2.Rxa4 c1=Q+ {Black promotes and has a queen and pawn for a rook.}
 
 [Event "Exercise 319 - Decoy"]
 [FEN "6k1/5pp1/7p/3b4/1p1P4/pP4PP/P4P2/2NqQK2 b - - 0 1"]
@@ -109,7 +145,7 @@
 [FEN "7k/1p4p1/1P5p/8/pBPR2b1/P2P2Pn/3N1r1P/7K b - - 0 1"]
 1...Rf1+ {Distracting the knight from the defense of the f3-square.}
 2.Nxf1 {}
-2.Kg2 {was also possible but ends in checkmate as well:}
-2...Rg1# {.}
+(2.Kg2 {was also possible but ends in checkmate as well:}
+2...Rg1# {.})
 2...Bf3# {Always nice to end with checkmate!}
 

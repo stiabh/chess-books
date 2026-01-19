@@ -1,0 +1,96 @@
+[Event "Chapter 3: Intro to Defense"]
+[FEN "1k5n/r7/1p6/8/8/8/1PB5/1K5R b - - 0 1"]
+{
+In this chapter we are going to look at basic defense. In the previous chapters we looked at situations where you were able to take advantage of undefended and/or underprotected pieces. In this chapter, we are going to look at the ways that you can protect and save your own pieces from danger.
+
+Ways to protect your pieces:
+1. Run away;
+2. Block (interpose);
+3. Add a defender.
+
+Let’s look at the first example, running away from danger:
+Black’s knight on h8 is being attacked by the rook on h1. There is no way to block the attack, or safely defend the knight, so Black must run away from danger.
+
+The best move for Black is
+}
+1...Nf7
+{
+Black saves the knight and the game remains even. Any other move would have resulted in the loss of the knight or more! Remember that in chess it’s important to keep your pieces safe and protected.
+}
+
+[Event "Chapter 3: Intro to Defense"]
+[FEN "1rk5/8/8/8/3b4/1P6/P1K5/RN6 w - - 0 1"]
+{
+In the next example we look at blocking the attack.
+
+Here, the bishop on d4 is attacking the rook in the corner. There is no move for the rook. However, the knight can block the bishop’s attack.
+
+The best move for White is
+}
+1.Nc3
+{
+In this example, White saved the rook from capture by blocking. Here, Black could take the knight (3) but then White’s king would capture the bishop (3) where the trade would be even. White has saved the rook!
+Remember: trades in chess will happen (like bishop for knight above), you just want to keep them even or better for you!
+}
+
+[Event "Chapter 3: Intro to Defense"]
+[FEN "bb2k3/8/6p1/8/8/6P1/5B2/5K1N w - - 0 1"]
+{
+In the final example problem, we look at defending a piece that is attacked.
+
+Here, White’s knight on h1 is attacked by Black’s bishop on a8. It cannot move, and blocking the attack is not possible. That leaves White with only one choice, to defend:
+}
+1.Kg1
+{
+White uses the king to guard the knight. This is the only move that avoids losing material for White. Yes, Black could use their bishop to capture the knight (3) but then White would capture the bishop (3) back. That would be an even trade – no harm, no foul.
+
+Now it’s your turn! On the next pages there are combinations of all three defensive concepts: running away, blocking (interposing), and defending (protecting).
+}
+[Event "Exercise 41 - Intro to Defense"]
+[FEN "1k6/1B1p4/8/3P4/8/8/8/4K3 w - - 0 1"]
+1.Ba6 {Running away – the only option that saves the bishop from being captured.}
+
+[Event "Exercise 42 - Intro to Defense"]
+[FEN "1k3nr1/3p3p/6p1/8/8/1BB4P/1K4P1/8 b - - 0 1"]
+1...Ne6 {The only move which avoids losing material.}
+
+[Event "Exercise 43 - Intro to Defense"]
+[FEN "n1k5/1p1r4/2pP4/2Pp4/8/6P1/5P2/R5K1 b - - 0 1"]
+1...Kb8 {Black cannot move the knight since White’s pawns stop it from safely moving.}
+
+[Event "Exercise 44 - Intro to Defense"]
+[FEN "1r6/5pk1/4p3/8/8/6PR/5PK1/1N2b3 w - - 0 1"]
+1.Na3 {Good move!}
+
+[Event "Exercise 45 - Intro to Defense"]
+[FEN "8/2kpb3/6R1/8/8/8/1rP5/1B5K w - - 0 1"]
+1.Rg1 {Defending the bishop was the only way to prevent the loss of material.}
+
+[Event "Exercise 46 - Intro to Defense"]
+[FEN "6k1/1p3b2/2p5/8/8/4P3/3P1Bn1/2K4B b - - 0 1"]
+1...Bd5 {Defending the knight was the only way to avoid losing material.}
+
+[Event "Exercise 47 - Intro to Defense"]
+[FEN "2N5/5pk1/5np1/4p3/4P3/7P/2P3P1/6K1 w - - 0 1"]
+1.Nd6 {Defending the important center pawn.}
+
+[Event "Exercise 48 - Intro to Defense"]
+[FEN "6br/1kp3Qp/1p6/5p2/7n/1P6/2P5/2K5 b - - 0 1"]
+1...Ng6 {Defending the rook in the corner.}
+
+[Event "Exercise 49 - Intro to Defense"]
+[FEN "3r2kr/4bp2/1R5Q/6p1/5p2/8/6P1/4BK2 w - - 0 1"]
+1.Qc6 {Running away from danger.}
+
+[Event "Exercise 50 - Intro to Defense"]
+[FEN "5knr/3pp2p/2p5/8/2PQ4/2KP4/8/8 b - - 0 1"]
+1...Nf6 {Blocking the attack on the rook in the corner and avoiding the loss of material.}
+
+[Event "Exercise 51 - Intro to Defense"]
+[FEN "8/1p3pk1/2p1p2b/2P1Pp2/P2n4/3R1P2/5KP1/8 b - - 0 1"]
+1...Nc2 {Running away from the rook’s attack.}
+
+[Event "Exercise 52 - Intro to Defense"]
+[FEN "rkb3n1/p4p1p/1p4p1/8/8/P5P1/1PP2PBP/R5K1 b - - 0 1"]
+1...Bb7 {Avoiding the loss of the exchange.}
+

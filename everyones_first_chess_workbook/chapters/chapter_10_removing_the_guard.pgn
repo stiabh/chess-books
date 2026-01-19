@@ -1,3 +1,19 @@
+[Event "Chapter 10: Removing the Guard"]
+[FEN "8/3k4/R2b4/8/1r6/R1K5/8/8 w - - 0 1"]
+{
+Sometimes referred to as ‘removing the defender’, removing the guard is another very important tactical concept in chess. Fortunately, this concept is relatively self-explanatory. Removing the guard involves capturing an enemy piece that is defending a piece or defending against a threat.
+White would like to capture the black rook on b4 with the king, but that is not possible as Black’s bishop is protecting the rook. Having said that, the white rook on a6 has the ability to capture the bishop on d6, eliminating the guard of the rook. Initially, that may not seem like a good trade, as White is giving away a rook (5 points) for a bishop (3 points). However, in the end White’s king will be able to capture the rook on b4 as well.
+The best move for White is
+}
+1.Rxd6+
+{
+After
+}
+1...Kxd6 2.Kxb4
+{
+the dust has settled and White is up a rook (5 points). This is a prime example of what we mean by ‘removing the guard’.
+In order to better solve the problems, try to find an enemy piece which is guarding a piece or guarding against a threat.
+}
 [Event "Exercise 264 - Removing the Guard"]
 [FEN "8/R4p2/4b1kp/3p4/8/7r/P3R1K1/8 w - - 0 1"]
 1.Rxe6+ {Removing the guard of the rook.}
@@ -47,8 +63,8 @@
 [FEN "r1b1kbnr/ppB1pppp/2n5/8/8/8/P1P3BP/qN1QK1NR w - - 0 1"]
 1.Bxc6+ {Removing the guard of the checkmate on d8.}
 1...bxc6 {}
-1...Bd7 {does not change much since}
-2.Qxd7# {ends the game too.}
+(1...Bd7 {does not change much since}
+2.Qxd7# {ends the game too.})
 2.Qd8# {}
 
 [Event "Exercise 274 - Removing the Guard"]
@@ -61,7 +77,7 @@
 [FEN "rn3rk1/pp2ppbp/2pp1np1/q5B1/2PPP1b1/2N2N1P/PP2BPP1/R2Q1RK1 b - - 0 1"]
 1...Bxf3 {Removing the guard of the bishop on g5.}
 2.Bxf3 {}
-2.Bxf6 {doesn’t help much since Black can play .}
+(2.Bxf6 {doesn’t help much since Black can play 3...Bxe2 and then recapture on f6, maintaining the piece advantage.})
 2...Qxg5 {Black has won a minor piece and should go on to win the game.}
 
 [Event "Exercise 276 - Removing the Guard"]
@@ -80,7 +96,7 @@
 [FEN "8/2P5/3nRrk1/7p/6p1/8/7P/6K1 w - - 0 1"]
 1.Rxd6 {Removing the guard of the pawn promotion.}
 1...Rxd6 {}
-2.c8 {Q White queens the pawn and should go on to win.}
+2.c8=Q {White queens the pawn and should go on to win.}
 
 [Event "Exercise 279 - Removing the Guard"]
 [FEN "r6r/pp4pp/3bkn2/4p2q/8/3P4/PPP1Q1PP/R4R1K w - - 0 1"]

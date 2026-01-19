@@ -1,0 +1,20 @@
+[Event "Chapter 20: Combinations/Setting up Tactics"]
+[FEN "4R1nk/p7/1p6/3P3r/1P6/P1bq4/6BB/4Q2K w - - 0 1"]
+{
+This chapter will test to see how all of the ideas, tactics and patterns you’ve learned come together. In chess, we call the use of multiple themes to gain a winning advantage a ‘combination’. In this chapter, you will have to push yourself to a new limit. The goal of every chess player is to continue to increase the depth of their calculation ability. I look to help you with that in this chapter. To assist you with these problems, I have given you a guided hint for each puzzle. Let’s take a look at a few examples of the types of problems you will be solving in this chapter:
+White noticed that the rook on h5 is unprotected and started with a temporary sacrifice:
+}
+1.Rxg8+
+{
+White wants to lure the king to the g8 to set Black up for a fork.
+}
+2...Kxg8 3.Qe8+
+{
+The whole idea! White gave away a rook (5) for a knight (3), but now gets the whole rook (5) back. When the smoke clears, White will be up a bishop:
+}
+3...Kg7 4.Qxh5
+{
+After a decoy setting up a fork, White obtained a winning advantage.
+Like in the other chapters, your goal is to gain a winning advantage. Sometimes that means checkmate, but other times that could mean winning material.
+This chapter is different than the tactics chapters in Part II of the book. In this chapter, you will have to set the tactic up, it will not be given to you on the first move. Use the guided hints to lead your thinking and remember to be on high alert for your most forcing moves: checks, captures and threats.
+}

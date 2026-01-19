@@ -1,3 +1,18 @@
+[Event "Chapter 14: X-Ray"]
+[FEN "R2b2k1/8/3r4/8/8/8/8/3R2K1 w - - 0 1"]
+{
+An X-ray is when a piece attacks or defends through a piece that moves in the same direction.
+White’s rook on a8 is directly attacking the bishop on d8. The rook on d6 is protecting the bishop on d8; however because the rook on d1 moves in the same direction as the rook on d6, it also serves as an attacker on the bishop. After
+}
+1.Rxd8+ Rxd8
+{
+we can see that as the rook on d6 moves along the d-file, the rook on d1 follows or ‘X-ray’ attacks since both rooks move along the same line:
+}
+2.Rxd8+
+{
+White is able to win a rook due to an X-ray attack!
+In order to better solve the problems, look for pieces on the same line (diagonal, file, or rank) that move in the same direction.
+}
 [Event "Exercise 344 - X-Ray"]
 [FEN "8/5p2/1p2k3/1Pb1PpK1/7r/2R4P/8/8 b - - 0 1"]
 1...Be7# {The bishop X-rays through the king to defend the rook!}

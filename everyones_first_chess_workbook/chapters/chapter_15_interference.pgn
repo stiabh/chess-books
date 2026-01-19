@@ -1,3 +1,14 @@
+[Event "Chapter 15: Interference"]
+[FEN "8/8/P7/1K6/2Pbp3/8/4k3/8 w - - 0 1"]
+{
+Interference or obstruction is a tactic which occurs when a piece is placed or forced in-between the enemy line of defense. In the following position, White would like to promote their passed pawn on a6; after all it’s only two squares away from promotion.
+At the moment, Black’s bishop on d4 is preventing the pawn from safely advancing, so White played:
+}
+1.c5
+{
+Blocking the line of defense and allowing the pawn to promote. This is a relatively simple example to show the objective of an interference tactic.
+To better solve the problems in this chapter, you will need to figure out what the opposing side is trying to defend against. Once you figure that out, see if there is a way you can get in the way of the defense.
+}
 [Event "Exercise 364 - Interference"]
 [FEN "8/R7/8/7P/1k3PK1/1r4P1/p7/8 b - - 0 1"]
 1...Ra3 {Blocking White’s defense of the pawn’s promotion.}
@@ -10,7 +21,7 @@
 [Event "Exercise 366 - Interference"]
 [FEN "8/5pkp/1Q4p1/p1p5/8/P1bP3P/1p3PP1/5K2 b - - 0 1"]
 1...Bb4 {Blocking the queen from stopping the promotion of the pawn.}
-2.axb4 b1 {Q+ Black promotes and has a material advantage in the endgame.}
+2.axb4 b1=Q+ {Black promotes and has a material advantage in the endgame.}
 
 [Event "Exercise 367 - Interference"]
 [FEN "1r6/3PN3/K7/2k5/6P1/8/7P/6n1 w - - 0 1"]
@@ -87,7 +98,7 @@
 [FEN "2k4r/1p4p1/p1b1p1Q1/3qPp2/3P1P1r/7P/PP3NP1/R2R2K1 b - - 0 1"]
 1...Rg4 {Blocking the queen’s protection of the checkmate on g2.}
 2.hxg4 {}
-2.Qxg4 {may be White’s best, but also loses:}
-2...fxg4 {and White will be down a queen.}
+(2.Qxg4 {may be White’s best, but also loses:}
+2...fxg4 {and White will be down a queen.})
 2...Qxg2# {}
 

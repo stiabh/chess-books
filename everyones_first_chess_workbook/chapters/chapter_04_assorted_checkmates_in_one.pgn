@@ -1,0 +1,305 @@
+
+[Event "Chapter 4: Assorted Checkmates in One"]
+{
+Checkmate ends the game. There is no more important skill to master than delivering the final blow. In this chapter, you will practice executing checkmates in one move.
+The checkmates in this chapter are broken down into four categories:
+1. Basic checkmates;
+2. Helper or supporting checkmates;
+3. Checkmates using a battery;
+4. Back rank checkmates.
+}
+
+[Event "Chapter 4: Basic Checkmates"]
+[FEN "6k1/7p/5Kp1/3p1n2/3Pp2r/6r1/1R4P1/8 w - - 0 1"]
+{
+In this section of the chapter, you will give checkmates where the king is checked from a safe distance. In the following example, White’s king is boxing in the black king on the back rank. White’s rook can check the king from b8 and issue a checkmate. Let’s see:
+}
+1.Rb8#
+{The rook checks the black king on the 8th rank from a safe distance; the white king prevents Black’s escape to the 7th rank – checkmate.}
+
+
+[Event "Chapter 4: Helper/Supporting Checkmates"]
+[FEN "1k6/8/QK6/8/8/8/8/8 w - - 0 1"]
+{
+
+A helper or supporting checkmate is one when you check from a very close distance and the checking piece is protected so that it cannot be captured by the king. Let’s take a look at the following example:
+The white king is protecting the squares a7, b7, and c7. The white queen could use any of the squares to attack the black king since they are protected. Let’s see:
+1.Qb7# (see diagram 2)
+Checkmate! The white king is protecting the queen and therefore Black cannot capture. The king is the ‘helper’ or ‘supporting’ piece in this particular case. All pieces can serve as helpers in a checkmate as you will see in this section of the chapter.
+
+}
+
+[Event "Chapter 4: Battery Checkmates"]
+[FEN "6k1/1R1Q2p1/8/8/8/8/8/4K3 w - - 0 1"]
+{
+A battery is when two pieces that move along the same line (rank, file or diagonal) partner up for an attack. A battery checkmate is when the result of the said attack is checkmate. A battery checkmate is a form of helper checkmate.
+Note to student: when your pieces are lined up in a battery, they protect one another and act as two attackers together!
+The rook and queen are aligned on the 7th rank. Because the rook and queen can both move horizontally, they protect one another in the form of a battery. With the correct move, White could end the game by checkmate:
+}
+1.Qxg7#
+{
+Notice that the rook protects (helps) the queen so that the king cannot capture.
+}
+
+[Event "Chapter 4: Back Rank Checkmates"]
+[FEN "6k1/2R2ppp/8/8/8/8/6K1/8 w - - 0 1"]
+{
+A back rank checkmate is a common type of checkmate that occurs when a queen or rook delivers check along the back rank, and the king cannot escape to the next rank forward, due to its own pieces. Generally it is good to have a pawn shield in front of your king. Having said that, a pawn shield that hasn’t moved blocks the king from moving forward which may lead to positions where a back rank checkmate is possible.
+The best move for White is
+}
+1.Rc8#
+{
+White’s rook attacks the 8th rank and Black’s king is trapped by its own pawns, resulting in checkmate. The back rank checkmate is quite a common checkmate and in chess it’s important to keep an eye out for this pattern. We will look at more difficult versions of this checkmate later in the book.
+}
+
+[Event "Exercise 53 - Basic Checkmates in One"]
+[FEN "3k4/6R1/7R/8/8/8/2K5/8 w - - 0 1"]
+1.Rh8# {}
+
+[Event "Exercise 54 - Basic Checkmates in One"]
+[FEN "3k4/R7/8/8/8/8/2K5/1Q6 w - - 0 1"]
+1.Qb8# {}
+
+[Event "Exercise 55 - Basic Checkmates in One"]
+[FEN "6rk/6pp/8/6N1/8/8/2K5/6R1 w - - 0 1"]
+1.Nf7# {}
+
+[Event "Exercise 56 - Basic Checkmates in One"]
+[FEN "5r1k/5p1p/8/8/7B/8/2K5/6R1 w - - 0 1"]
+1.Bf6# {}
+
+[Event "Exercise 57 - Basic Checkmates in One"]
+[FEN "3rkb2/3pp3/5p2/8/4Q3/8/2K5/8 w - - 0 1"]
+1.Qg6# {}
+
+[Event "Exercise 58 - Basic Checkmates in One"]
+[FEN "r4b1r/pppk1p2/4p3/3pP1p1/3n2N1/2P3B1/PP3PP1/RN3RK1 b - - 0 1"]
+1...Ne2# {}
+
+[Event "Exercise 59 - Basic Checkmates in One"]
+[FEN "5B2/p6p/8/3q2pk/5p2/P4p1P/3r2P1/1QR4K w - - 0 1"]
+1.Qxh7# {}
+
+[Event "Exercise 60 - Basic Checkmates in One"]
+[FEN "r3k2r/p1p2ppp/2p5/3pP1B1/4P1nN/2P3bb/PP6/RN1Q2RK b - - 0 1"]
+1...Nf2# {}
+
+[Event "Exercise 61 - Basic Checkmates in One"]
+[FEN "4r1k1/pp3ppp/2p1p2P/1r4P1/2PPN3/3RnP2/P1P5/K6R b - - 0 1"]
+1...Nxc2# {}
+
+[Event "Exercise 62 - Basic Checkmates in One"]
+[FEN "1k1r4/1p6/RQpb1p2/7p/2Pp1p2/3P1q1P/1PKR1r2/8 w - - 0 1"]
+1.Qxd8# {The rook on a6 cuts off the a-file while the queen attacks the king and takes away the c7-square.}
+
+[Event "Exercise 63 - Basic Checkmates in One"]
+[FEN "r5k1/pQp2ppp/8/4r3/4p3/2N2bPK/PP1B1P1P/2R5 b - - 0 1"]
+1...Rh5# {The bishop on f3 prevents the king from moving off of the h-file.}
+
+[Event "Exercise 64 - Basic Checkmates in One"]
+[FEN "2kr4/B1pb1r2/1p1p3p/3P2p1/4P3/2R3P1/P6P/5BK1 w - - 0 1"]
+1.Ba6# {The two bishops finish off the king.}
+
+[Event "Exercise 65 - Basic Checkmates in One"]
+[FEN "5k2/5p2/3p1P2/r2P1rp1/1p4P1/8/4K3/7R w - - 0 1"]
+1.Rh8# {The pawn on f6 stops the king from moving forward while the rook on h8 attacks the 8th rank.}
+
+[Event "Exercise 66 - Basic Checkmates in One"]
+[FEN "r1bqkb1r/1pppnp1p/p1n3p1/1B1Np3/4P3/5N2/PPPP1PPP/R1BQK2R w - - 0 1"]
+1.Nf6# {Notice that Black’s own pieces prevent the king from moving.}
+
+[Event "Exercise 67 - Basic Checkmates in One"]
+[FEN "rn2N1nr/pp5p/4p3/b2p2p1/5kP1/5N2/P3KP1P/3R4 w - - 0 1"]
+1.Rd4# {Black’s king is trapped and surrounded by all of White’s kingside pieces.}
+
+[Event "Exercise 68 - Basic Checkmates in One"]
+[FEN "5k2/2n1qp1Q/pp1p2pb/1P1P4/2P5/3B4/5PPP/6K1 w - - 0 1"]
+1.Qh8# {Notice that Black’s queen is preventing the king from escaping.}
+
+[Event "Exercise 69 - Basic Checkmates in One"]
+[FEN "5r1k/p6p/8/8/PPQ3P1/2P2pqP/8/6RK b - - 0 1"]
+1...Qxh3# {The queen and pawn corner the king.}
+
+[Event "Exercise 70 - Basic Checkmates in One"]
+[FEN "r3k1nr/ppp2pR1/2np3p/4p3/2P1P3/2NKP1N1/PPP4q/R4Q2 b - - 0 1"]
+1...Nb4# {The pawn on e5 prevents the king from moving to d4, while the queen cuts off the 2nd rank.}
+
+[Event "Exercise 71 - Basic Checkmates in One"]
+[FEN "1n3rk1/4qN1p/b3p1n1/3P4/4P3/1PQ5/5RPP/7K w - - 0 1"]
+1.Nh6# {Very nice move!}
+
+[Event "Exercise 72 - Basic Checkmates in One"]
+[FEN "2kr3r/1np1q1p1/Q4npp/8/P3P3/7P/1P3PP1/3RR1K1 w - - 0 1"]
+1.Qa8# {The queen attacks the king while the rook on d1 prevents the king from running.}
+
+[Event "Exercise 73 - Basic Checkmates in One"]
+[FEN "3r1k2/2BP1b1p/p4p2/Pp3q2/1P2p3/7P/2Q3R1/6K1 w - - 0 1"]
+1.Bd6# {The bishop attacks the king while the pawn covers e8 and the rook covers g-file.}
+
+[Event "Exercise 74 - Basic Checkmates in One"]
+[FEN "8/7p/P7/5qpk/Q7/8/7P/7K b - - 0 1"]
+1...Qf1# {The king is trapped in the corner.}
+
+[Event "Exercise 75 - Basic Checkmates in One"]
+[FEN "1k6/p6R/2K5/7p/8/8/Pr6/8 w - - 0 1"]
+1.Rh8# {The rook and king checkmate.}
+
+[Event "Exercise 76 - Basic Checkmates in One"]
+[FEN "3qkb1r/1p1bnppp/1p2pn2/rN1p4/3P4/5N2/P1P2PPP/1RBQKB1R w - - 0 1"]
+1.Nd6# {Another ‘smothered checkmate’.}
+
+[Event "Exercise 77 - Basic Checkmates in One"]
+[FEN "R7/4k3/3p4/1P1Pp3/4P1Pp/5p1K/5P2/5r2 b - - 0 1"]
+1...Rh1# {The rook attacks and protects the h-file, while the pawns prevent the king from moving to the g-file.}
+
+[Event "Exercise 78 - Basic Checkmates in One"]
+[FEN "8/4kppp/2p5/p3P3/r1n2P2/3N2P1/2P4P/2K1R3 b - - 0 1"]
+1...Ra1# {The rook attacks the 1st rank while the knights prevents the king’s escape to the 2nd.}
+
+[Event "Exercise 79 - Basic Checkmates in One"]
+[FEN "2k5/pbp2Q2/4p3/3p4/P7/1q4P1/4P3/6KB w - - 0 1"]
+1.Qe8# {The king is trapped by its own pieces.}
+
+[Event "Exercise 80 - Basic Checkmates in One"]
+[FEN "3k4/6r1/p2p1R2/3Pp3/PPK1P2R/4r3/8/8 b - - 0 1"]
+1...Rc7# {The rook attacks the king on the c-file, while Black’s rook and pawns take away the flight squares.}
+
+[Event "Exercise 81 - Basic Checkmates in One"]
+[FEN "r2q1rk1/pb1n1p1p/1p2p1p1/3p4/6N1/1P2P2P/PQP1NPP1/R3K2R w - - 0 1"]
+1.Nh6# {The knight attacks the king while the queen attacks the diagonal.}
+
+
+[Event "Exercise 82 - Helper Checkmates in One"]
+[FEN "7r/3R4/1R6/4kp2/2P2p2/5P2/7p/7K w - - 0 1"]
+1.Rd5# {}
+
+[Event "Exercise 83 - Helper Checkmates in One"]
+[FEN "k7/3R4/2N5/8/8/8/2K5/8 w - - 0 1"]
+1.Ra7# {This pattern is known as the ‘Arabian Checkmate’ and will be discussed in further detail later in the book.}
+
+[Event "Exercise 84 - Helper Checkmates in One"]
+[FEN "6k1/5p2/5B1R/8/8/8/2K5/8 w - - 0 1"]
+1.Rh8# {}
+
+[Event "Exercise 85 - Helper Checkmates in One"]
+[FEN "2Q5/4p1p1/5k2/8/5K2/8/8/8 w - - 0 1"]
+1.Qf5# {The king protects the queen while Black’s own pawns prevent its escape.}
+
+[Event "Exercise 86 - Helper Checkmates in One"]
+[FEN "2k1r3/3p4/1Q1P4/8/5K2/8/8/8 w - - 0 1"]
+1.Qc7# {}
+
+[Event "Exercise 87 - Helper Checkmates in One"]
+[FEN "r3k1nr/pp3p2/2pp1q2/2b1n2B/2P1P3/2NP2PP/PP3P2/R1BQK2R b - - 0 1"]
+1...Qxf2# {The bishop helps the queen and the king has no escape.}
+
+[Event "Exercise 88 - Helper Checkmates in One"]
+[FEN "r3k2r/pp1b1p1p/2pQ4/4p3/B2NP3/5pPq/PPP4P/R4R1K b - - 0 1"]
+1...Qg2# {The pawn helps the queen.}
+
+[Event "Exercise 89 - Helper Checkmates in One"]
+[FEN "r4rk1/pp3ppp/2p1pn1B/4q3/6Q1/8/5PPP/4RK1R w - - 0 1"]
+1.Qxg7# {The bishop helps the queen.}
+
+[Event "Exercise 90 - Helper Checkmates in One"]
+[FEN "r4knr/2p2ppp/p2b4/1q4N1/2Q1P3/3p4/PP1BbPPP/RN2R1K1 w - - 0 1"]
+1.Qxf7# {The knight helps the queen.}
+
+[Event "Exercise 91 - Helper Checkmates in One"]
+[FEN "8/6pk/1p3rrp/4p3/3bR3/1P1Q4/P6P/7K b - - 0 1"]
+1...Rg1# {The bishop helps the rook.}
+
+[Event "Exercise 92 - Helper Checkmates in One"]
+[FEN "r1b2rk1/2p4p/4p1pP/1q1p1p2/1p1Q4/2P1P3/P4PP1/R3K2R w - - 0 1"]
+1.Qg7# {The pawn helps the queen.}
+
+[Event "Exercise 93 - Helper Checkmates in One"]
+[FEN "rnbqk2r/ppp2ppp/3b1n2/3QN3/8/6P1/PPP1PPBP/RNB1K2R w - - 0 1"]
+1.Qxf7# {The knight helps the queen.}
+
+[Event "Exercise 94 - Helper Checkmates in One"]
+[FEN "r1bq1rk1/pp2b1pp/4p3/2pp1pN1/6n1/1B1P3Q/PPP2PPP/RN2K2R w - - 0 1"]
+1.Qxh7# {The knight helps the queen.}
+
+[Event "Exercise 95 - Helper Checkmates in One"]
+[FEN "2b2r2/2q1bp1k/2rp1n1p/p3pN2/Pp2P3/1P4Q1/NP3PPP/R3R1K1 w - - 0 1"]
+1.Qg7# {The knight helps the queen.}
+
+[Event "Exercise 96 - Helper Checkmates in One"]
+[FEN "r3k2r/p4ppp/1p2p3/2P5/6n1/8/PPPN1P1q/RNBQRK2 b - - 0 1"]
+1...Qxf2# {The knight helps the queen.}
+
+[Event "Exercise 97 - Helper Checkmates in One"]
+[FEN "r1bq1k1r/ppp3pp/2n5/4p1N1/8/1QP5/PP3PPP/RN2K2R w - - 0 1"]
+1.Qf7# {The knight helps the queen.}
+
+[Event "Exercise 98 - Helper Checkmates in One"]
+[FEN "1r4k1/4n1pp/5p2/2Ppq2P/4P1Q1/P4P2/3B2P1/2KR4 b - - 0 1"]
+1...Qb2# {The rook helps the queen.}
+
+
+[Event "Exercise 99 - Battery Checkmates in One"]
+[FEN "r1bqkb1r/1pppnp1p/p1n3p1/1B1Np3/4P3/5N2/PPPP1PPP/R1BQK2R w - - 0 1"]
+1.Qf7# {The bishop helps the queen.}
+
+[Event "Exercise 100 - Battery Checkmates in One"]
+[FEN "2rkn3/3p4/8/3Q4/8/8/3R4/4K3 w - - 0 1"]
+1.Qxd7# {The rook helps the queen.}
+
+[Event "Exercise 101 - Battery Checkmates in One"]
+[FEN "5k2/1bp3bp/2qp4/1p3p2/1P1P4/2P3PB/5P1P/5QK1 b - - 0 1"]
+1...Qh1# {Battery Checkmat The bishop helps the queen.}
+
+[Event "Exercise 102 - Battery Checkmates in One"]
+[FEN "r1b3rk/ppp3b1/7p/3PP3/2P2p1p/3Q4/Pq2n1RP/1B1K4 w - - 0 1"]
+1.Qh7# {The bishop helps the queen.}
+
+[Event "Exercise 103 - Battery Checkmates in One"]
+[FEN "r2qk2r/pp1nbppp/2p1p3/8/3Pn3/3BBQ1P/PPP3P1/R4RK1 w - - 0 1"]
+1.Qxf7# {The rook helps the queen.}
+
+[Event "Exercise 104 - Battery Checkmates in One"]
+[FEN "r3kb1r/1ppq1pp1/2n4p/p2Qp3/2B5/2N2PnP/PPP2P2/2KRR3 w - - 0 1"]
+1.Qxd7# {The rook helps the queen.}
+
+[Event "Exercise 105 - Battery Checkmates in One"]
+[FEN "r3k1nr/bp4pp/pqn1N3/3pp3/8/1P1B3P/PBPP1P2/R2QK2R b - - 0 1"]
+1...Qxf2# {The bishop helps the queen.}
+
+[Event "Exercise 106 - Battery Checkmates in One"]
+[FEN "2kr2r1/ppp2p2/3pb3/2P3qp/1P6/P2BB2P/3P1PP1/R2QR1K1 b - - 0 1"]
+1...Qxg2# {The rook helps the queen.}
+
+[Event "Exercise 107 - Battery Checkmates in One"]
+[FEN "2kr3r/1pp2pp1/p1b1p2p/n1PqP3/1RpP4/2P1B3/P2NQPPP/1R4K1 b - - 0 1"]
+1...Qxg2# {The bishop helps the queen.}
+
+[Event "Exercise 108 - Battery Checkmates in One"]
+[FEN "2kr1q2/3R3p/p2p4/1p1p1r2/1P1P2Q1/P1P5/4R1PP/1N4K1 b - - 0 1"]
+1...Rf1# {The queen helps the rook.}
+
+[Event "Exercise 109 - Battery Checkmates in One"]
+[FEN "2b1k2r/1pb2pBp/3q4/1p6/4p3/2N1Q3/PP3PPP/R4RK1 b - - 0 1"]
+1...Qxh2# {The bishop helps the queen.}
+
+
+[Event "Exercise 110 - Back Rank Checkmates in One"]
+[FEN "6k1/2R2pp1/pr5p/8/4B3/8/5PPP/4b1K1 w - - 0 1"]
+1.Rc8# {}
+
+[Event "Exercise 111 - Back Rank Checkmates in One"]
+[FEN "7k/2RqbQpp/p7/np6/5B2/8/PP3PPP/6K1 b - - 0 1"]
+1...Qd1# {}
+
+[Event "Exercise 112 - Back Rank Checkmates in One"]
+[FEN "1r4k1/5ppp/3Q4/5b2/4p3/Bq6/3P1PPP/3R2K1 b - - 0 1"]
+1...Qxd1# {Black found an unprotected piece and also a back rank checkmate!}
+
+[Event "Exercise 113 - Back Rank Checkmates in One"]
+[FEN "k1r5/p6R/1b2p3/1R3pp1/5P2/8/P5PP/7K b - - 0 1"]
+1...Rc1# {Black attacks the 1st rank and White’s pawn prevents the escape.}
+
+[Event "Exercise 114 - Back Rank Checkmates in One"]
+[FEN "6k1/5ppp/1p6/2p5/3p4/1P3P1P/1Prr1P2/R4RK1 w - - 0 1"]
+1.Ra8# {White attacks the 8th rank and Black’s own pawns prevent escape.}
+

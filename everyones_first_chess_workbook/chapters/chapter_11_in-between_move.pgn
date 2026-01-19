@@ -1,3 +1,19 @@
+[Event "Chapter 11: In-Between Move"]
+[FEN "r1b2rk1/pp3ppp/2N5/8/2P1p3/P1q5/1P2BPPP/R4RK1 w - - 0 1"]
+{
+An in-between move is a tactic that occurs when, instead of the playing the anticipated move, we first play a move which creates an equal or greater danger to the opponent.
+Note to the student: an in-between move may also be known as a zwischenzug (German), intermezzo (Italian) or intermediate move.
+In this position, Black had just captured White’s queen on c3. Naturally, Black thought White would take back immediately and then would be able to recapture the knight on c6. However, by using an in-between move, White was able to save the knight!
+The best move for White is
+}
+1.Ne7+
+{
+White saves the knight by playing this check first. Now once Black’s king moves, White will recapture the queen:
+}
+1...Kh8 2.bxc3
+{
+In-between moves are quite often missed in practice so it’s important to familiarize yourself with them. In order to better solve the problems in this chapter, you should keep a close eye out for all checks possible before recapturing a piece. In addition, look for your opponent’s threats.
+}
 [Event "Exercise 284 - In-Between Move"]
 [FEN "2r1r1k1/pb3p1p/1p4p1/N1p1pP2/P3P1P1/2P4P/1P4B1/R1bR2K1 b - - 0 1"]
 1...Be3+ {Saving the bishop with check.}
@@ -12,9 +28,9 @@
 [FEN "r3kb1r/ppp2ppp/3p1q2/8/3pP1b1/2NP4/PPP1BPPP/R2QK2R w - - 0 1"]
 1.Nd5 {Saving the knight and attacking the queen.}
 1...Qd8 {}
-1...Bxe2 {does not work since White captures Black’s queen with check:}
+(1...Bxe2 {does not work since White captures Black’s queen with check:}
 2.Nxf6+ gxf6 {}
-3.Qxe2 {.}
+3.Qxe2 {.})
 2.Bxg4 {}
 
 [Event "Exercise 287 - In-Between Move"]
@@ -35,10 +51,9 @@
 [Event "Exercise 290 - In-Between Move"]
 [FEN "6k1/4bp1p/6p1/8/3p1Pb1/Q2P2P1/2B1PK1P/1q6 w - - 0 1"]
 1.Qa8+ {First saving the queen with a check.}
-1.Bxb1 Bxa3 {is just a queen trade.}
+(1.Bxb1 Bxa3 {is just a queen trade.})
 1...Kg7 {}
-2.Bxb1 {By playing the in-between move}
-1.Qa8+ {, White was able to win Black’s queen.}
+2.Bxb1 {By playing the in-between move 1.Qa8+, White was able to win Black’s queen.}
 
 [Event "Exercise 291 - In-Between Move"]
 [FEN "3r2k1/p4p2/1Qp1p1p1/4P3/2P2P1p/P6P/6P1/3R2K1 b - - 0 1"]
@@ -48,51 +63,48 @@
 [Event "Exercise 292 - In-Between Move"]
 [FEN "4b1k1/rp3pp1/2p4p/pPq2P2/P1P5/2RNpN1P/2nrQ1PK/5R2 b - - 0 1"]
 1...Qd6+ {Saving the queen with a check.}
-1...Rxe2 {}
-2.Nxc5 {is just a trade of queens.}
-2.Kg1 Rxe2 {By playing the in-between move}
-1...Qd6+ {, Black was able to save the queen while still winning White’s.}
+(1...Rxe2 {}
+2.Nxc5 {is just a trade of queens.})
+2.Kg1 Rxe2 {By playing the in-between move 1...Qd6+, Black was able to save the queen while still winning White’s.}
 
 [Event "Exercise 293 - In-Between Move"]
 [FEN "8/3r2k1/p2R4/P6K/2p5/2P5/1r3RPP/8 b - - 0 1"]
 1...Rb5+ {Saving the rook on b2 from capture.}
-1...Rxd6 {}
-2.Rxb2 {is just a rook trade.}
-2.Kh4 Rxd6 {By playing}
-1...Rb5+ {, Black was able to save the rook on b2 and then capture White’s on d6, winning a whole rook.}
+(1...Rxd6 {}
+2.Rxb2 {is just a rook trade.})
+2.Kh4 Rxd6 {By playing 1...Rb5+, Black was able to save the rook on b2 and then capture White’s on d6, winning a whole rook.}
 
 [Event "Exercise 294 - In-Between Move"]
 [FEN "r3r1k1/1b3ppp/p2bpn2/1p6/1P2N3/4PN1P/P1qBBPP1/2RR2K1 w - - 0 1"]
 1.Nxf6+ {Trading knights first to avoid the loss of the knight, then recapturing the queen.}
-1.Rxc2 Bxe4 {keeps everything even.}
+(1.Rxc2 Bxe4 {keeps everything even.})
 1...gxf6 {}
 2.Rxc2 {White is up a minor piece and should go on to win.}
 
 [Event "Exercise 295 - In-Between Move"]
 [FEN "r5k1/pp2bpp1/2p4p/4Pb2/2Br4/4BP2/P1R3PK/1N3R2 b - - 0 1"]
 1...Rh4+ {Saving the rook from capture using a check.}
-1...Bxc2 {}
-2.Bxd4 {is just a trade.}
+(1...Bxc2 {}
+2.Bxd4 {is just a trade.})
 2.Kg3 Bxc2 {Black has won the exchange and should go on to win the game.}
 
 [Event "Exercise 296 - In-Between Move"]
 [FEN "4r3/8/p3pk1p/1p1R4/2r2pK1/P1P2P2/1P2RP2/8 b - - 0 1"]
 1...Rg8+ {First getting out of the pin on the e-file.}
-1...exd5 {}
-2.Rxe8 {is just a trade.}
+(1...exd5 {}
+2.Rxe8 {is just a trade.})
 2.Kh3 exd5 {Black emerges a rook up and should win the game.}
 
 [Event "Exercise 297 - In-Between Move"]
 [FEN "rnbqk1nR/p2p1p2/2p2b2/1p2p3/4P3/2NP1Pp1/PPPQ1B2/R3KBN1 b - - 0 1"]
 1...gxf2+ {Capturing the bishop with a check, and then recapturing the rook on h8.}
-1.Qxf2 Bxh8 {The in-between move}
-2...gxf2+ {won an extra bishop.}
+2.Qxf2 Bxh8 {The in-between move 1...gxf2+ won an extra bishop.}
 
 [Event "Exercise 298 - In-Between Move"]
 [FEN "6k1/p2R3p/1n1p2p1/2pP4/2P5/P3r1P1/4NK1P/8 b - - 0 1"]
 1...Rxe2+ {Capturing the knight with check and then capturing the rook on d7.}
-1...Nxd7 {}
-2.Kxe3 {is just a trade.}
+(1...Nxd7 {}
+2.Kxe3 {is just a trade.})
 2.Kxe2 Nxd7 {Black is up a knight and should win the game.}
 
 [Event "Exercise 299 - In-Between Move"]
@@ -104,7 +116,7 @@
 [Event "Exercise 300 - In-Between Move"]
 [FEN "rnbq1rk1/ppp1bppp/3p4/4p1B1/4n3/3P1N2/PPP1BPPP/RN1Q1RK1 w - - 0 1"]
 1.Bxe7 {Trading bishops first with plans to capture the knight next.}
-1.dxe4 Bxg5 {is simply a trade of pieces.}
+(1.dxe4 Bxg5 {is simply a trade of pieces.})
 1...Qxe7 {}
 2.dxe4 {White has won a piece and should win the game.}
 
@@ -123,6 +135,5 @@
 [Event "Exercise 303 - In-Between Move"]
 [FEN "8/8/6k1/7R/7K/1r3b2/8/8 b - - 0 1"]
 1...Rb4+ {Checking the king away first and eliminating the stalemate trap.}
-1...Bxh5 {looks good until you realize it’s stalemate!}
-1.Kg3 Bxh5 {Black is up a bishop and a rook and should go on to win the game.}
-
+(1...Bxh5 {looks good until you realize it’s stalemate!})
+2.Kg3 Bxh5 {Black is up a bishop and a rook and should go on to win the game.}

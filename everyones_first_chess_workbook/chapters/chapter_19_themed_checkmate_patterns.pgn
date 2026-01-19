@@ -1,0 +1,539 @@
+[Event "Chapter 19: Arabian Checkmate"]
+[FEN "r4bk1/2R5/6pp/8/4N3/5P2/6PP/7K w - - 0 1"]
+{
+The Arabian checkmate is a checkmate pattern which uses the knight and rook in coordination to deliver checkmate. Typically this checkmate takes place when the king is in the corner and the enemy rook is on the 2nd/7th.
+Here White can checkmate Black in two moves using the Arabian checkmate pattern. White first plays:
+}
+1.Nf6+
+{
+This pushes the king into the corner and now the knight assists the rook in delivering a helper checkmate.
+}
+1...Kh8 2.Rh7#
+{
+I’ve assigned you five Arabian checkmate puzzles. They start easy, and then get progressively harder. Keep an eye out for the knight and rook combination!
+}
+
+[Event "Chapter 19: Anastasia’s Checkmate"]
+[FEN "5rk1/5ppp/8/3NR2Q/8/8/8/6K1 w - - 0 1"]
+{
+Anastasia’s checkmate is a pattern involving a knight and rook (or queen) delivering a checkmate to king on the a- or h-file. In this pattern, typically the king is pushed to the end of the board by a knight check and then a sacrifice opens a line of attack along the file toward the king. Let’s see how this looks in practice:
+First White issues a check with the knight to push the king to the corner. The knight is very important as you will see in a few moves.
+}
+1.Ne7+ 1...Kh8
+{
+Now White sacrifices the queen to pry open the h-file:
+}
+2.Qxh7+ 2...Kxh7 3.Rh5#
+{
+Notice the importance of the knight on e7. If it were not for the knight on e7 Black’s king would be able to escape to the g8- or g6-square. This is a very fun checkmate to play since often times you are able to sacrifice your queen! I’ve devoted five problems to Anastasia’s Checkmate. Each one gets progressively harder but once you recognize the pattern, you will be able to see it coming several moves ahead!
+}
+
+[Event "Chapter 19: Blind Swine Checkmate"]
+[FEN "5r1k/2R3R1/8/8/8/6P1/7P/6K1 w - - 0 1"]
+{
+The blind swine checkmate is when a pair of rooks on the 2nd or 7th rank deliver checkmate against the king. When two rooks are aligned in a battery on the 2nd or 7th ranks, they can be extremely strong! White can force a checkmate in two moves with the right sequence of moves.
+}
+1.Rh7+ 1...Kg8 2.Rcg7#
+{
+Notice that the black king cannot continue to run since its own piece, the rook, is obstructing its flight squares. This is an extremely common type of blind swine checkmate. This checkmate pattern happens quite often in chess games and it’s useful to grow comfortable with the pattern. I have devoted five problems to this theme.
+}
+
+[Event "Chapter 19: Boden’s Checkmate"]
+[FEN "2krq2r/pp1n2R1/2p5/8/4QB2/6P1/4B1KP/8 w - - 0 1"]
+{
+Boden’s checkmate is a pattern where the king gets caught in the crossfire of two bishops. Usually the king’s own pieces are blocking some of the escape squares that the bishops do not attack. This checkmate is named after Samuel Boden (1826-1882). This checkmate typically starts with a sacrifice to open up the position of the king. This checkmate may also be referred to as the ‘criss-cross checkmate’ since the bishops form an x-like attack around the king. Let’s see this checkmate in action:
+White’s bishop on f4 is an extremely strong piece which cuts through the black king’s position. White recognized that if the a6-c8 diagonal was open, there would be a ‘Boden’s checkmate’ pattern. So first White sacrifices the queen to open up the diagonal!
+}
+1.Qxc6+
+{
+Black has no choice but to capture the queen.
+}
+1...bxc6 2.Ba6#
+{
+White is able to finish the game with Boden’s checkmate. This is a pattern worth knowing in chess. It’s not overly common, but it certainly does happen. I have devoted five puzzles to this particular topic.
+}
+
+[Event "Chapter 19: Damiano’s Checkmate"]
+[FEN "q4rk1/6p1/6P1/3b3R/6QP/8/8/6K1 w - - 0 1"]
+{
+Damiano’s checkmate is when a pawn is wedged into the kingside and used as support to bring the queen in for a checkmate. In most cases, a rook sacrifice is made first to bring the king into the open, so that the queen is able to come in with a check (tempo). This checkmate is named after Pedro Damiano (1480-1544).
+White noticed that if the queen could get to the h7-square that would be checkmate thanks to the pawn on g6. First White sacrifices the rook to bring the king to the open file and allow the queen to take the rook’s spot.
+}
+1.Rh8+
+{
+This type of move, luring a piece to a square so that it can be taken advantage of is called an ‘attraction’ tactic.
+}
+1...Kxh8 2.Qh5+ (see diagram 3 on the next page)
+{
+Now the queen is able to come over with check. Black is forced to move the king but then checkmate will follow.
+}
+2...Kg8 3.Qh7#
+{
+This is a very common type of pattern and certainly a useful one to know. I have devoted five puzzles to Damiano’s checkmate.
+}
+
+[Event "Chapter 19: Dovetail Checkmate"]
+[FEN "6q1/6kR/8/6P1/8/8/5Q1P/7K w - - 0 1"]
+{
+A dovetail checkmate occurs when the enemy queen attacks the king one square away on a diagonal and the king’s flight squares are blocked by his own pieces. Sometimes this checkmate is known as Cozio’s checkmate.
+White’s pawn on g5 supports the queen to f6. Once the queen arrives on the f6-square, Black’s own queen and rook will be blocking his king from escaping.
+}
+1.Qf6#
+{
+I have devoted five problems to the dovetail checkmate.
+}
+
+[Event "Chapter 19: Epaulette Checkmate"]
+[FEN "rkr5/8/8/8/3Q4/8/8/1K6 w - - 0 1"]
+{
+The epaulette checkmate is a checkmate where two parallel flight squares prevent the king’s escape. The most common type of epaulette checkmate is seen in the following example.
+Black’s two rooks are taking away the a8- and c8-squares from the king. This sets up a classic epaulette checkmate:
+}
+1.Qb6#
+{
+Since the black rooks prevent the black king’s mobility, White found the perfect way to attack the king where they can not assist in the defence. I have devoted five problems to the epaulette checkmate.
+}
+
+[Event "Chapter 19: Greco’s Checkmate"]
+[FEN "3r3k/6p1/4B3/3P4/3R4/6P1/5P1P/6K1 w - - 0 1"]
+{
+Greco’s checkmate is characterized by using a bishop to stop the king from escaping the corner, then a checkmate is given by a rook or a queen along the flank (side) of the board. This checkmate is named after Gioacchino Greco (1600-1634).
+Notice that the bishop on e6 is stopping the king from escaping toward the center. Now White needs to issue an attack along the h-file to finish the game.
+}
+1.Rh4#
+{
+This is a basic example of Greco’s checkmate. This is a very common pattern in chess and is important to learn. I have devoted five problems to Greco’s checkmate.
+}
+
+[Event "Chapter 19: Kill Box Checkmate"]
+[FEN "4r1k1/8/q1p2Q2/8/7R/6P1/1p3P2/6K1 w - - 0 1"]
+{
+The kill box checkmate is a pattern which occurs when the queen and rook work together to checkmate the king. Usually, the rook is being protected by the queen forming a box around the king. White’s queen supports the rook to go to h8 for checkmate. Once the rook is on h8, the queen and rook form a box around the king, stopping the king from escaping.
+}
+1.Rh8#
+
+[Event "Chapter 19: Lolli’s Checkmate"]
+[FEN "6k1/5p1p/5Pp1/8/q7/4Q1PP/5P1K/8 w - - 0 1"]
+{
+Lolli’s checkmate is a checkmate pattern which uses both the queen and the pawn to checkmate the king. Usually, Lolli’s Checkmate involves invading the fianchetto position. Lolli’s Checkmate is named after Giambattista Lolli (1698-1769).
+Note to the student: a fianchetto is a method of getting your bishop into the game on the longest diagonal of the chess board. Sometimes people see it as the top of a house. When the bishop is removed from the fianchetto position, the empty squares can be really weak. We are going to see that in this checkmate pattern!
+}
+1.Qh6 1...Qe8 2.Qg7#
+{
+Lolli’s Checkmate is quite common and you should be familiar with the pattern. I’ve assigned you five Lolli’s checkmate puzzles.
+}
+
+[Event "Chapter 19: Opera House Checkmate"]
+[FEN "3k4/2p5/2B5/8/8/8/8/4R1K1 w - - 0 1"]
+{
+The Opera House checkmate is a coordinated attack on the king using a bishop and a rook. It gets its name from a the classic chess game between Paul Morphy against the Duke Karl of Brunswick and Count Isouard (1858).
+White’s bishop and rook are both controlling the vital e8-square. White is able to play
+}
+1.Re8#
+{
+... which ends the game with checkmate. This, of course, is a very simple example of the Opera House checkmate but one that illustrates the basic concept. I have devoted five problems to this checkmate and included a fragment from the famous Opera House game!
+}
+
+[Event "Chapter 19: Pillsbury’s Checkmate"]
+[FEN "3kr3/1b6/8/8/8/8/5P1P/5RK1 b - - 0 1"]
+{
+Pillsbury’s checkmate is a checkmate pattern where a rook attacks the king from afar while the bishop cuts off the diagonal flight square. This checkmate is named after Harry Nelson Pillsbury (1872-1906).
+The bishop on b7 is controlling the key a8-h1 diagonal which cuts through the heart of White’s position. Black can slide the rook over to g8 to deliver a checkmate:
+}
+1...Rg8#
+{
+As you will see from the example problems in this section, Pillsbury’s checkmate is often set up by using a discovery. I have devoted five problems to this theme.
+}
+
+[Event "Chapter 19: Smothered Checkmate"]
+[FEN "1r3r1k/6pp/4Q2N/8/8/8/8/6K1 w - - 0 1"]
+{
+Smothered checkmate is a very common checkmating pattern. This checkmate occurs when the king is surrounded by its own pieces and an enemy knight delivers the checkmate. I have a funny story about this checkmate which I would like to share with you. I was about 1300 at the time, and was playing one of my first ever open tournaments (where adults can play too). To make a long story short, the pattern came up in my game. I had a position similar to the one in the diagram and was thinking about what my next move would be. To my great surprise, my opponent reached out to shake my hand and resigned the game. He proceed to show me the smothered checkmate pattern. Here’s the catch: I didn’t know it! Let’s just say, I learned the smothered checkmate by not playing it, lucky me!
+In the following position, Black’s king is not yet smothered. White sets up the pattern by first sacrificing the queen to smother the king. Let’s see:
+}
+1.Qg8+
+{
+Alarming move! Here, because the knight on h6 protects the queen, the rook must capture. That is a very important point. Once the rook captures, Black’s king will be smothered.
+}
+1...Rxg8 2.Nf7#
+{
+The final blow, or, as chess players like to call it, the coup de grâce. Black was forced to block in his king, and the knight was able to finish the game by smothered checkmate. This is a very important pattern and one you should know. As my father always used to tell me as a kid, ‘Don’t be like me, be better than me.’ Learn it here first so that you don’t have to rely on your opponent prematurely resigning! I have devoted five problems to smothered checkmate.
+}
+
+[Event "Chapter 19: Vukovic’s Checkmate"]
+[FEN "5k2/2R5/5NPb/5K2/8/8/8/q7 w - - 0 1"]
+{
+Vukovic’s checkmate is a checkmate which uses the combination of a rook and knight. It’s different from the Arabian checkmate since, in the Vukovic checkmate, the knight doesn’t support the rook’s check, but rather stops the king’s escape. The rook check is usually supported by another piece. This checkmate is named after Vladimir Vukovic (1898-1975).
+The knight on f6 stops the black king from moving to g8 and e8. White’s rook on the 7th rank does a great job of cutting off the black king and thanks to the support of the pawn on g6, it can also deliver checkmate:
+}
+1.Rf7#
+{
+Vukovic’s checkmate is quite common in practice. I have devoted five problems to this pattern.
+Now you will begin solving these different types of checkmate patterns on your own. Each checkmate pattern has five supplemental puzzles that get progressively harder. Be sure to use the patterns you’ve learned to solve the puzzles - good luck!
+}
+[Event "Exercise 495 - Arabian Checkmate"]
+[FEN "r5rk/ppp4p/3p4/2b2Q2/3pPP1q/2P2n2/PP3PRP/RNB4K b - - 0 1"]
+1...Qxh2+ {Sacrificing the queen to allow the rook to come to g1 for an Arabian checkmate.}
+2.Rxh2 Rg1# {}
+
+[Event "Exercise 496 - Arabian Checkmate"]
+[FEN "7k/p2bqprp/2p2N2/1p2pP2/4P2Q/2P4R/PP4rP/3R3K w - - 0 1"]
+1.Qxh7+ Rxh7 {}
+2.Rxh7# {}
+
+[Event "Exercise 497 - Arabian Checkmate"]
+[FEN "4r1k1/1p4pp/p2Rq3/2Q5/2P1p3/1P2Nn1P/r5P1/4R2K b - - 0 1"]
+1...Qxh3+ {}
+2.gxh3 Rh2# {}
+
+[Event "Exercise 498 - Arabian Checkmate"]
+[FEN "8/p3Rp2/6p1/3Nn1k1/7p/r5PK/8/8 b - - 0 1"]
+1...Rxg3+ {}
+2.Kh2 Nf3+ {}
+3.Kh1 Rg1# {}
+
+[Event "Exercise 499 - Arabian Checkmate"]
+[FEN "r6k/3nq1rp/p3pNQ1/1p1pn3/1PpP1P2/2P2N1R/P6P/6RK w - - 0 1"]
+1.Rxh7+ Rxh7 {}
+2.Qg8+ Rxg8 {}
+3.Rxg8# {}
+
+
+[Event "Exercise 500 - Anastasia’s Checkmate"]
+[FEN "Q7/p1p1k1pp/1b6/7q/5r2/8/P3nPPP/RN3R1K b - - 0 1"]
+1...Qxh2+ {}
+2.Kxh2 Rh4# {}
+
+[Event "Exercise 501 - Anastasia’s Checkmate"]
+[FEN "r1bq1r1k/1pp1Nppp/p2p4/4R2Q/n7/8/PPPP1PPP/R1B3K1 w - - 0 1"]
+1.Qxh7+ Kxh7 {}
+2.Rh5# {.}
+
+[Event "Exercise 502 - Anastasia’s Checkmate"]
+[FEN "5rk1/ppp2pbp/3p2p1/1q6/4r1P1/1NP1B3/PP2nPP1/R2QR2K b - - 0 1"]
+1...Qh5+ {}
+2.gxh5 Rh4# {}
+
+[Event "Exercise 503 - Anastasia’s Checkmate"]
+[FEN "rn3rk1/ppp2ppp/1b6/3P1N2/5P2/2N3P1/PPP1K3/R6R w - - 0 1"]
+1.Ne7+ Kh8 {}
+2.Rxh7+ Kxh7 {}
+3.Rh1# {}
+
+[Event "Exercise 504 - Anastasia’s Checkmate"]
+[FEN "r1b2rk1/p4ppp/1p1pn3/5N1Q/R7/1P6/1qP3PP/5R1K w - - 0 1"]
+1.Ne7+ Kh8 {}
+2.Qxh7+ Kxh7 {}
+3.Rh4# {}
+
+
+[Event "Exercise 505 - Blind Swine Checkmate"]
+[FEN "5r1k/2R3R1/2p1rp2/5p2/2b5/p5P1/7P/6K1 w - - 0 1"]
+1.Rh7+ Kg8 {}
+2.Rcg7# {}
+
+[Event "Exercise 506 - Blind Swine Checkmate"]
+[FEN "2r1kr2/pR2n3/6q1/P7/3p1p2/P1p3P1/2P4P/4R1K1 w - - 0 1"]
+1.Rexe7+ Kd8 {}
+2.Rbd7# {}
+
+[Event "Exercise 507 - Blind Swine Checkmate"]
+[FEN "5rk1/RR4pp/8/8/8/6P1/5r1P/6K1 w - - 0 1"]
+1.Rxg7+ Kh8 {}
+2.Rxh7+ Kg8 {}
+3.Rag7# {}
+21. {}
+
+[Event "Exercise 508 - Blind Swine Checkmate"]
+[FEN "4r1k1/1R3R1p/4N1p1/p7/5p2/1P4P1/r2nP1KP/4q3 w - - 0 1"]
+1.Rg7+ Kh8 {}
+2.Rxh7+ Kg8 {}
+3.Rbg7# {}
+
+[Event "Exercise 509 - Blind Swine Checkmate"]
+[FEN "5rk1/1RQ3pp/6r1/p7/6R1/1P4P1/r2qP1KP/8 w - - 0 1"]
+1.Qxg7+ Rxg7 {}
+2.Rgxg7+ Kh8 {}
+3.Rxh7+ Kg8 {}
+4.Rbg7# {}
+2021. {}
+
+
+[Event "Exercise 510 - Boden’s Checkmate"]
+[FEN "2kr1b1r/pp3ppp/2p1b2q/4B3/4Q3/2PB2R1/PPP2PPP/3R2K1 w - - 0 1"]
+1.Qxc6+ bxc6 {}
+2.Ba6# {}
+
+[Event "Exercise 511 - Boden’s Checkmate"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR w - - 0 1"]
+1.Qxe6+ fxe6 {}
+1.Bg6# {}
+2021. {}
+
+[Event "Exercise 512 - Boden’s Checkmate"]
+[FEN "r3bk1r/1p2n1pp/p2Q4/q4p2/P1Bn4/8/1PP2PPP/R1B3K1 w - - 0 1"]
+1.Qf6+ gxf6 {}
+2.Bh6# {.}
+
+[Event "Exercise 513 - Boden’s Checkmate"]
+[FEN "r1k2r2/pp1R2pp/1b2Pn2/2p5/Q1B2Bq1/2P5/P5PP/5RK1 w - - 0 1"]
+1.Qc6+ bxc6 {}
+2.Ba6# {}
+
+[Event "Exercise 514 - Boden’s Checkmate"]
+[FEN "2krR2r/1p4p1/5n2/p2p3p/P2q1B1P/2N5/1PP2PP1/2K1QB2 w - - 0 1"]
+1.Qe6+ Nd7 {}
+2.Qc6+ bxc6 {}
+3.Ba6# {}
+
+
+[Event "Exercise 515 - Damiano’s Checkmate"]
+[FEN "5r1k/1Q4p1/6P1/8/8/8/8/6K1 w - - 0 1"]
+1.Qh1+ Kg8 {}
+2.Qh7# {.}
+
+[Event "Exercise 516 - Damiano’s Checkmate"]
+[FEN "5r1k/6p1/q5P1/8/8/6K1/7B/7Q w - - 0 1"]
+1.Bg1+ Kg8 {}
+2.Qh7# {}
+1. {}
+
+[Event "Exercise 517 - Damiano’s Checkmate"]
+[FEN "3r1rk1/4q1p1/5pP1/8/8/6K1/8/2Q4R w - - 0 1"]
+1.Rh8+ Kxh8 {}
+2.Qh1+ Kg8 {}
+3.Qh7# {}
+
+[Event "Exercise 518 - Damiano’s Checkmate"]
+[FEN "r3bqk1/ppp3p1/1b2p1P1/3pP3/P2P4/2N5/1PP2QP1/2B1K2R w - - 0 1"]
+1.Rh8+ Kxh8 {}
+2.Qh4+ Kg8 {}
+3.Qh7# {}
+
+[Event "Exercise 519 - Damiano’s Checkmate"]
+[FEN "3r1r1k/q5p1/5pP1/8/8/6K1/8/4QR2 w - - 0 1"]
+1.Rh1+ Kg8 {}
+2.Rh8+ Kxh8 {}
+3.Qh1+ Kg8 {}
+4.Qh7# {: 2021.}
+
+
+[Event "Exercise 520 - Dovetail Checkmate"]
+[FEN "r1b1q1r1/ppp3kp/1bnp4/4p1B1/3PP3/2P2Q2/PP3PPP/RN3RK1 w - - 0 1"]
+1.Qf6# {}
+
+[Event "Exercise 521 - Dovetail Checkmate"]
+[FEN "rnb1kb1Q/pppp4/6p1/5p2/5q2/2KP4/PPP1BnPP/RNB4R b - - 0 1"]
+1...Qb4# {}
+
+[Event "Exercise 522 - Dovetail Checkmate"]
+[FEN "4rk2/1p3p2/2p2Q2/4P2p/p6P/P5R1/1q3PK1/8 w - - 0 1"]
+1.Qh6+ Ke7 {}
+2.Qd6# {}
+
+[Event "Exercise 523 - Dovetail Checkmate"]
+[FEN "3r1k2/1pr2p2/4b1p1/pP6/4N2Q/P3qP2/1bP3P1/1K3B1R w - - 0 1"]
+1.Qxd8+ Kg7 {}
+2.Qh8# {}
+
+[Event "Exercise 524 - Dovetail Checkmate"]
+[FEN "6k1/1p5p/2pp2p1/p7/2PbK1R1/1P1Pp3/P1N2q1P/1RQ5 b - - 0 1"]
+1...Qf5+ {}
+2.Kxd4 Qe5# {}
+
+
+[Event "Exercise 525 - Epaulette Checkmate"]
+[FEN "5r2/pp3k2/5r2/q1p2Q2/3P4/6R1/PPP2PP1/1K6 w - - 0 1"]
+1.Qd7# {}
+
+[Event "Exercise 526 - Epaulette Checkmate"]
+[FEN "r1b3kr/3pQ3/ppq4p/5P2/8/B7/P5PP/5RK1 w - - 0 1"]
+1.Qf8+ Kh7 {}
+2.Qf7# {}
+
+[Event "Exercise 527 - Epaulette Checkmate"]
+[FEN "5rkr/pp2Rp2/1b1p1Pb1/3P2Q1/2n3P1/2p5/P4P2/4R1K1 w - - 0 1"]
+1.Qxg6+ fxg6 {}
+2.Rg7# {}
+
+[Event "Exercise 528 - Epaulette Checkmate"]
+[FEN "r6r/pp4pk/4R3/3Q2Pp/3P3P/P5q1/1PP3B1/6K1 w - - 0 1"]
+1.Rh6+ gxh6 {}
+2.Qf7# {}
+
+[Event "Exercise 529 - Epaulette Checkmate"]
+[FEN "r3q1kr/ppp5/3p2pQ/8/3PP1b1/5R2/PPP3P1/5RK1 w - - 0 1"]
+1.Rf8+ Qxf8 {}
+2.Rxf8+ {}
+(2.Qxg6+ {does not work since the queen can block:}
+2...Qg7 {.})
+2...Rxf8 {}
+3.Qxg6# {}
+
+
+[Event "Exercise 530 - Greco’s Checkmate"]
+[FEN "6Q1/p3q2p/7k/5R2/2PN3P/4b3/6P1/7K b - - 0 1"]
+1...Qxh4# {}
+
+[Event "Exercise 531 - Greco’s Checkmate"]
+[FEN "2br3k/6pp/r2nB3/3PN3/2pR4/1p4P1/5P1P/1R4K1 w - - 0 1"]
+1.Ng6+ hxg6 {}
+2.Rh4# {}
+
+[Event "Exercise 532 - Greco’s Checkmate"]
+[FEN "4r1k1/3q4/3p1pp1/p1pP3n/4P2P/5P2/1PQ2bNP/2BR3K b - - 0 1"]
+1...Ng3+ {}
+2.hxg3 Qh3# {}
+
+[Event "Exercise 533 - Greco’s Checkmate"]
+[FEN "3q3r/k4P2/pn1p2Q1/1pb1p3/8/8/P1P3PP/4RR1K b - - 0 1"]
+1...Rxh2+ {}
+2.Kxh2 Qh4# {}
+
+[Event "Exercise 534 - Greco’s Checkmate"]
+[FEN "8/5k2/1p2p1p1/p1b5/2R2p1q/8/5PP1/1B1Q2K1 b - - 0 1"]
+1...Qxf2+ {}
+2.Kh1 Qh4# {}
+
+
+[Event "Exercise 535 - Kill Box Checkmate"]
+[FEN "2N1r1k1/6p1/1p6/p5Q1/2pP3P/2P4q/2P2R2/6K1 b - - 0 1"]
+1...Re1+ {}
+2.Rf1 Rxf1# {}
+
+[Event "Exercise 536 - Kill Box Checkmate"]
+[FEN "2r3k1/p5pp/4p3/3pP3/6R1/qPr4P/2P1RQP1/1K6 b - - 0 1"]
+1...Rxb3+ {}
+2.cxb3 Rc1# {}
+
+[Event "Exercise 537 - Kill Box Checkmate"]
+[FEN "3R4/r4pk1/p7/1p3Q1p/6r1/7q/P6P/5R1K w - - 0 1"]
+1.Qf6+ Kh7 {}
+2.Rh8# {}
+
+[Event "Exercise 538 - Kill Box Checkmate"]
+[FEN "k5r1/P1b5/1p1p3q/2pP1p1p/QP2p2P/2P1P3/3K4/5R2 w - - 0 1"]
+1.Qc6+ Kxa7 {}
+2.Ra1+ Kb8 {}
+3.Ra8# {Or}
+(3.Qa8# {.})
+
+[Event "Exercise 539 - Kill Box Checkmate"]
+[FEN "5rk1/1Q5p/6p1/2p5/p1N2n2/P1B3q1/1P6/4RR1K b - - 0 1"]
+1...Qh3+ {}
+2.Kg1 Ne2+ {}
+3.Rxe2 Rxf1# {}
+
+
+[Event "Exercise 540 - Lolli’s Checkmate"]
+[FEN "1k3r2/p3q3/1pQ5/3p4/3N4/1Pp2P2/2P1R1P1/K6R b - - 0 1"]
+1...Qa3+ {}
+2.Kb1 Qb2# {}
+1. {}
+
+[Event "Exercise 541 - Lolli’s Checkmate"]
+[FEN "7k/p6p/1p3n2/2p5/2P1P2Q/P1NP1pPq/6rP/3R2BK b - - 0 1"]
+1...Rxh2+ {}
+2.Bxh2 Qg2# {}
+
+[Event "Exercise 542 - Lolli’s Checkmate"]
+[FEN "1k3r2/p3q1PP/2Q5/3p4/5R2/1Pp5/K1P5/4r3 b - - 0 1"]
+1...Ra1+ {}
+2.Kxa1 Qa3+ {}
+3.Kb1 Qb2# {}
+
+[Event "Exercise 543 - Lolli’s Checkmate"]
+[FEN "r5k1/3q1p1p/2p1r1pQ/1p2P3/p3N3/P1Pn1B1P/1P3PP1/6K1 w - - 0 1"]
+1.Nf6+ Rxf6 {}
+(1...Kh8 {leads to checkmate even faster!}
+2.Qxh7# {.})
+2.exf6 Qe8 {}
+3.Qg7# {}
+
+[Event "Exercise 544 - Lolli’s Checkmate"]
+[FEN "1bq3k1/5p1p/5Pp1/8/5Q2/r4BP1/5PKP/4R3 w - - 0 1"]
+1.Qh6 Qf8 {}
+2.Re8 Qxe8 {}
+3.Qg7# {}
+
+
+[Event "Exercise 545 - Opera House Checkmate"]
+[FEN "4k2r/2p2ppp/r1q5/1p2P1B1/1b2n3/1P3N2/1P3PPP/1N1R2K1 w - - 0 1"]
+1.Rd8# {}
+
+[Event "Exercise 546 - Opera House Checkmate"]
+[FEN "4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w - - 0 1"]
+1.Qb8+ Nxb8 {}
+2.Rd8# {}
+
+[Event "Exercise 547 - Opera House Checkmate"]
+[FEN "2kb2r1/pR1r4/n4p2/P1N2P1p/5B2/3P4/1R4PP/6K1 w - - 0 1"]
+1.Rb8+ Nxb8 {}
+2.Rxb8# {}
+
+[Event "Exercise 548 - Opera House Checkmate"]
+[FEN "rn1r2k1/ppp2ppp/3q1n2/4b1B1/4P1b1/1BP1Q3/PP3PPP/RN2K1NR b - - 0 1"]
+1...Qd1+ {}
+2.Bxd1 Rxd1# {}
+
+[Event "Exercise 549 - Opera House Checkmate"]
+[FEN "rn3rk1/p5pp/2p5/3Ppb2/8/1Q6/PPPB2PP/R4KNR b - - 0 1"]
+1...Bd3+ {}
+2.Ke1 Rf1# {}
+
+
+[Event "Exercise 550 - Pillsbury’s Checkmate"]
+[FEN "3kr3/1b6/8/8/8/8/5PrP/5R1K b - - 0 1"]
+1...Rg1+ {}
+2.Kxg1 Rg8# {}
+
+[Event "Exercise 551 - Pillsbury’s Checkmate"]
+[FEN "1k5r/pp3p1p/2q1p3/2Q1P3/1P1p4/8/P1P2PrP/RN3R1K b - - 0 1"]
+1...Rg1+ {}
+2.Kxg1 Rg8# {}
+
+[Event "Exercise 552 - Pillsbury’s Checkmate"]
+[FEN "6r1/1p6/p1kP4/4P3/P7/2P2P1b/1P3P1P/R4R1K b - - 0 1"]
+1...Bg2+ {}
+2.Kg1 Bxf3# {}
+
+[Event "Exercise 553 - Pillsbury’s Checkmate"]
+[FEN "1qr2rk1/pp3pnp/1b1p4/3p4/2n1P3/3B1P2/PB2NP1P/R5RK w - - 0 1"]
+1.Rxg7+ Kh8 {}
+2.Rg8+ Kxg8 {}
+3.Rg1# {}
+
+[Event "Exercise 554 - Pillsbury’s Checkmate"]
+[FEN "2kr2r1/Qppn1p1p/6q1/3bp3/2B5/2BPN3/PPP2PPP/R4RK1 b - - 0 1"]
+1...Qxg2+ {}
+2.Nxg2 Rxg2+ {}
+3.Kh1 Rg1+ {}
+4.Kxg1 Rg8# {}
+
+
+[Event "Exercise 555 - Smothered Checkmate"]
+[FEN "r3r1kb/1p1bpp1p/pq1p2pB/6N1/2Q1PP2/2N4n/PPP3PP/R4R1K b - - 0 1"]
+1...Qg1+ {}
+2.Rxg1 Nf2# {}
+
+[Event "Exercise 556 - Smothered Checkmate"]
+[FEN "r5rk/6pp/p2b2q1/4BpN1/1p2bP2/7Q/PPP3PP/4RR1K w - - 0 1"]
+1.Qxh7+ Qxh7 {}
+2.Nf7# {}
+1. {}
+
+[Event "Exercise 557 - Smothered Checkmate"]
+[FEN "rn1k1b2/pppb2p1/8/3Q1P2/8/3n1Nq1/PPPPB3/RNBK4 b - - 0 1"]
+1...Qe1+ {}
+2.Nxe1 Nf2# {}
+
+[Event "Exercise 558 - Smothered Checkmate"]
+[FEN "r3r1kb/1p1bpp1p/pq1p2pB/6N1/2Q1PP2/2N5/PPP2nPP/R4RK1 b - - 0 1"]
+1...Nh3+ {}
+2.Kh1 Qg1+ {}
+3.Rxg1 Nf2# {}
+
+[Event "Exercise 559 - Smothered Checkmate"]
+[FEN "5rk1/ppQ2pp1/7p/6q1/2n5/5B2/PPPn2PP/2KR3R b - - 0 1"]
+1...Nb3+ 2.Kb1 Qc1+ 3.Rxc1 Ncd2#
+
