@@ -1,0 +1,616 @@
+
+[Event "Exercise 645 - []"]
+[FEN "r3r1k1/1b3qb1/pp4Q1/2p1p3/4P3/2P1B3/PP1N1PP1/2K4R w - - 0 1"]
+21.Rh8+ {Luring the king away from the protection of the queen.}
+21...Kxh8 {}
+22.Qxf7 {Steinitz won the queen and later the game.}
+
+[Event "Exercise 646 - []"]
+[FEN "8/pp2R2p/4Nkb1/3P1p2/1B5p/8/PP1rr2P/5R1K b - - 0 1"]
+32...Rxh2+ {}
+33.Kg1 Rdg2# {Finishing with the blind swine checkmate, seen earlier in the book.}
+0-1 Chigorin-Steinitz, World Championship Match 1892 (23). {}
+
+[Event "Exercise 647 - []"]
+[FEN "r6r/ppN1b1pp/1q2Nk2/8/3p1PQ1/8/PPP4P/R1B3K1 w - - 0 1"]
+25.Qg5+ Kf7 {}
+26.Qxg7# {}
+1-0 Steinitz-Meitner, Vienna 1860. {}
+
+[Event "Exercise 648 - []"]
+[FEN "2kr2nr/p1pnq1bp/Pp1p4/6p1/3PNp2/1BP2Q2/1P4PP/R1B2RK1 w - - 0 1"]
+16.Nxd6+ {A nice discovery which opens up the queen for a helper checkmate.}
+16...Qxd6 {}
+16...cxd6 {}
+17.Qb7# {doesn’t change much.}
+17.Qb7# {}
+1-0 Lasker-Gibbons, London simul 1900. {}
+
+[Event "Exercise 649 - []"]
+[FEN "r3k3/1pp3p1/1pn1q1P1/3bp1Q1/4Nn1N/3P4/PPP2P1K/R4R2 b - - 0 1"]
+31...Qh3+ {}
+32.Kg1 Ne2# {}
+0-1 Raubitschek-Lasker, Trenton Falls 1906. {}
+
+[Event "Exercise 650 - []"]
+[FEN "r1q4r/p2p2p1/1pkPp1Bp/2p1Pp2/2P1b2Q/1P5P/P5P1/2B2RK1 w - - 0 1"]
+24.Qxe4+ {Using the X-ray of the bishop on g6 to create a checkmate.}
+24...fxe4 {}
+25.Bxe4# {}
+1-0 Lasker-Beramje, New York simul 1892. {}
+
+[Event "Exercise 651 - []"]
+[FEN "r1q2r2/2p2p1p/p1n3kB/1pb1p1Pn/4P3/2P2Q1P/PPB2P2/R3R1K1 w - - 0 1"]
+21.Qf5+ Qxf5 {}
+22.exf5# {Checkmate with a pawn!}
+1-0 Capablanca-Rosenthal, New York Rapid-transit match 1909. {}
+
+[Event "Exercise 652 - []"]
+[FEN "r4r2/pppqNpkp/3p4/2b1p3/2BnP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+13.Qg5+ Kh8 {}
+14.Qf6# {}
+1-0 Capablanca-NN, New York 1918. {}
+
+[Event "Exercise 653 - []"]
+[FEN "r1bq1r1k/ppp1n1pB/2n1p3/4p2Q/3P4/2P5/P1P2PPP/R1B2RK1 w - - 0 1"]
+14.Bg6+ {A very important move.}
+14...Kg8 {}
+15.Qh7# {}
+1-0 Capablanca-Hoffman, Providence simul 1922. {}
+
+[Event "Exercise 654 - []"]
+[FEN "3q1r1k/1b1nNppp/4p3/1Nnp4/1R6/4PP2/2Q1B1PP/6K1 w - - 0 1"]
+27.Qxh7+ Kxh7 {}
+28.Rh4# {A classic Anastasia’s checkmate.}
+1-0 Alekhine-Leonhardt, Hamburg 1910. {}
+
+[Event "Exercise 655 - []"]
+[FEN "3rr1k1/1pp3pp/p1p5/5R2/2b1q3/3N1Q2/PPP3PP/5RK1 w - - 0 1"]
+22.Rf8+ {Deflecting the rook away from the defense of the queen.}
+22...Rxf8 {}
+23.Qxe4 {Alekhine was up material and went on to win from here.}
+
+[Event "Exercise 656 - []"]
+[FEN "5qk1/pr3p1p/1p3pnQ/5N2/2p5/8/P4PPP/4R1K1 w - - 0 1"]
+24.Re8 {Pinning and Deflecting the queen away from the defense of the g7- square.}
+24...Qxe8 {}
+25.Qg7# {}
+1-0 Alekhine-Frieman, New York blindfold simul. {}
+
+[Event "Exercise 657 - []"]
+[FEN "r4bkr/pp2n1p1/8/5Pq1/2p3P1/7Q/PPP5/R1B2RK1 w - - 0 1"]
+26.Qxh8+ {Grabbing a rook before capturing the queen.}
+26.Bxg5 Rxh3 {is just a trade.}
+26...Kxh8 {}
+27.Bxg5 {Euwe was up an exchange and a pawn and went on to win.}
+
+[Event "Exercise 658 - []"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 w - - 0 1"]
+19.Ng6+ {Forcing the h-file open.}
+19...hxg6 {}
+20.Rh4# {White wins by checkmate.}
+
+[Event "Exercise 659 - []"]
+[FEN "r2qk3/1b2nr1p/pnpBQ3/1p2P1pB/P1pP4/8/1P1N1PPP/5RK1 w - - 0 1"]
+23.Qxf7+ Kd7 {}
+24.Bg4# {}
+1-0 Euwe-Graves, Amsterdam 1919/20. {}
+
+[Event "Exercise 660 - []"]
+[FEN "r2q2bk/1pp1b3/p4rQ1/n2p2N1/3B4/P7/1P3PPP/3RK2R w - - 0 1"]
+23.Qh6+ {Using the pin against the rook on f6.}
+23...Bh7 {}
+24.Qxh7# {}
+1-0 Botvinnik-Timofeev, Leningrad 1924. {}
+
+[Event "Exercise 661 - []"]
+[FEN "r1b1k3/pp3q1p/2p1p3/5p2/1BPPP2Q/6R1/PP5P/2K5 w - - 0 1"]
+28.Rg8+ {Deflecting the queen away from the defense of the e7-square.}
+28...Qxg8 {}
+28...Kd7 {}
+29.Qd8# {.}
+29.Qe7# {}
+1-0 Botvinnik-Muchin, Leningrad 1926. {}
+
+[Event "Exercise 662 - []"]
+[FEN "3r2k1/2Q1rpp1/p6p/1p1p1P2/2pnn1P1/7P/PP3PN1/1BR1R1K1 b - - 0 1"]
+28...Nf3+ {}
+29.Kf1 {}
+29.Kh1 Nxf2# {is another checkmate.}
+29...Ned2# {}
+0-1 Dubinin-Botvinnik, Leningrad ch-URS 1939. {}
+
+[Event "Exercise 663 - []"]
+[FEN "1q2k2r/3n1ppp/1rQBp3/2p5/8/8/1PP2PPP/R2R2K1 w - - 0 1"]
+21.Qxd7+ {Winning a rook and setting up the discovered check from the rook on d1.}
+21.Bxb8 Rxc6 {is just a trade.}
+21...Kxd7 {}
+22.Bxb8+ {Smyslov won a bishop and went on to win the game, Smyslov-Kottnauer, Groningen 1946.}
+
+[Event "Exercise 664 - []"]
+[FEN "4rk2/ppb3n1/2p1bNQ1/3p4/3P1qP1/2P5/P1B2P1P/R3R1K1 w - - 0 1"]
+28.Qxg7+ {Setting up the fork on the next turn.}
+28...Kxg7 {}
+29.Nh5+ {Winning the queen back and defending against the threat on h2. After capturing the queen, Smyslov was up the exchange and two pawns and went on to win, Smyslov-Lutikov, Leningrad ch-URS 1960.}
+
+[Event "Exercise 665 - []"]
+[FEN "1br4k/pp4pp/8/2n4b/P7/7P/1P1N1KBq/R1B1NQ2 b - - 0 1"]
+27...Bg3+ {}
+28.Ke3 Bxe1 {White loses a minor piece since the queen is overloaded.}
+
+[Event "Exercise 666 - []"]
+[Event "Exercise 667 - []"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w - - 0 1"]
+17.Qxd7+ {Winning a knight by setting up a fork.}
+17...Kxd7 {}
+18.Nc5+ {Tal won the queen back and went on to win the game, Tal-Tringov, Munich Olympiad Final-A 1958.}
+
+[Event "Exercise 668 - []"]
+[FEN "6k1/2Q2pp1/p2p1n1p/2p5/8/5NP1/r4PKP/8 w - - 0 1"]
+28.Qb8+ Kh7 {}
+28...Ne8 {}
+29.Qxe8+ {also wins.}
+29.Qb1+ {Forking the king and rook.}
+
+[Event "Exercise 669 - []"]
+[Event "Exercise 670 - []"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+30.Qh8+ {A gorgeous attraction tactic which wins material.}
+30...Kxh8 {}
+31.Nxf7+ {Winning the rook and the queen on the next turn, 1-0 Petrosian-Spassky, Moscow World Championship Match 1966 (10).}
+
+[Event "Exercise 671 - []"]
+[FEN "r3q1k1/3n1p1p/1p4p1/p1n5/2P2P2/1Pb1BQ2/P5PP/1R1R2K1 w - - 0 1"]
+24.Bxc5 {A simple trade which leaves the bishop on c3 unprotected.}
+24...Nxc5 {}
+25.Qxc3 {}
+1-0 Petrosian-Anastasopoulos, Varna Olympiad qual-A 1962. {}
+
+[Event "Exercise 672 - []"]
+[FEN "4r3/pp5p/2p1b1pk/2Q5/1P4B1/6q1/PBPP4/RN3K2 b - - 0 1"]
+23...Bc4+ {Clearing the way for the rook on e8.}
+24.Qxc4 {}
+24.Be2 Bxe2# {.}
+24...Re1# {}
+0-1 Kuznetsov-Spassky, Kislovodsk 1960. {}
+
+[Event "Exercise 673 - []"]
+[FEN "3r2k1/2p2ppp/p1Q2n2/4q3/2P5/B3PP2/P2RKP1P/8 b - - 0 1"]
+21...Rxd2+ {Forcing the king to a bad square.}
+22.Kxd2 Qa5+ {Spassky would win the bishop on the next turn, 0-1 Korelov-Spassky, Leningrad 1961.}
+
+[Event "Exercise 674 - []"]
+[FEN "4r1k1/pb3p1p/6pB/4Q3/1qp5/8/2B2PPP/4R1K1 b - - 0 1"]
+29...Qxe1+ {}
+30.Qxe1 Rxe1# {}
+0-1 Lein-Spassky, Sochi 1964. {}
+
+[Event "Exercise 675 - []"]
+[FEN "6rk/pp5n/5PpQ/3q2P1/4p3/2P3R1/PP4RK/8 w - - 0 1"]
+33.Qxh7+ {To open the h-file.}
+33...Kxh7 {}
+34.Rh3# {A nice checkmate by Fischer!}
+1-0 Fischer-Pilnik, Santiago 1959. {}
+
+[Event "Exercise 676 - []"]
+[FEN "1r1q2k1/4b1pp/p1rp1p2/1p1NpP2/P3P3/2PQ4/1P4PP/R4R1K w - - 0 1"]
+23.Nxe7+ Qxe7 {}
+24.Qd5+ {Forking the king and rook.}
+1-0 Fischer-Gadia, Mar del Plata 1960. {}
+
+[Event "Exercise 677 - []"]
+[FEN "1Q6/5pk1/2p3p1/1p2N2p/1b5P/1b6/r3n1P1/1K6 b - - 0 1"]
+40...Nc3+ {}
+41.Kc1 Rc2# {}
+0-1 D. {Byrne-Fischer, New York 1956.}
+
+[Event "Exercise 678 - []"]
+[FEN "1r1k1r2/1bRn1pNQ/p3p3/1p1pPpq1/3B4/3P4/PP4PP/5RK1 w - - 0 1"]
+28.Nxe6+ {Forking the king and queen, while opening up the 7th rank.}
+28...fxe6 {}
+28...Ke8 {}
+29.Nxg5 {.}
+29.Qxd7# {}
+1-0 Karpov- Uddenfeldt, Skopje Olympiad 1972. {}
+
+[Event "Exercise 679 - []"]
+[FEN "5k2/p4p1p/1r2b1pP/4Q3/2q3P1/5P2/PP6/1KNR4 w - - 0 1"]
+34.Qh8+ Ke7 {}
+35.Qd8# {}
+1-0 Karpov-Sosonko, Brussels blitz 1987. {}
+
+[Event "Exercise 680 - []"]
+[FEN "r1b2rk1/pp3ppp/4p3/1Pp5/q1P5/PN2Q3/1B2P1PP/R3KB1n w - - 0 1"]
+19.Qc3 {and Kortchnoi resigned.}
+
+[Event "Exercise 681 - []"]
+[FEN "6k1/1p3pb1/4p1p1/2p2p2/2PP1P1q/1P5P/rB1Q2P1/R5K1 b - - 0 1"]
+30...Rxb2 {Removing the guard of the d4-pawn and putting the queen in a bad position.}
+31.Qxb2 Bxd4+ {Winning the queen, 0-1 Fedoruk-Kasparov, Baku Team Tournament 1978.}
+
+[Event "Exercise 682 - []"]
+[FEN "1rb3k1/p2n1rq1/6p1/3Np3/3PP3/3B4/PP5Q/2K3RR w - - 0 1"]
+25.Rxg6 {Deflecting the queen away from the defense of h8.}
+25...Qxg6 {}
+26.Qh8# {}
+1-0 Kasparov-Dür, Graz World Championship Teams U26 1981. {}
+
+[Event "Exercise 683 - []"]
+[FEN "r2q2k1/5ppp/6b1/3r4/p1Q1pn2/P2P1N2/1P3PPP/3RBRK1 b - - 0 1"]
+25...Ne2+ {Saves the knight from capture.}
+25...exf3 {}
+26.Qxf4 {is just a trade.}
+26.Kh1 exf3 {}
+0-1 Ehlvest-Kasparov, Reykjavik World Cup 1988. {}
+
+[Event "Exercise 684 - []"]
+[FEN "7k/3r1rRp/p4n1Q/1pq5/4BP2/P7/1P5P/1K4R1 w - - 0 1"]
+31.Qxh7+ {Deflecting the knight away from the defense of g8.}
+31...Nxh7 {}
+32.Rg8# {}
+1-0 Kramnik-Rashkovsky, ch-URS 1991. {}
+
+[Event "Exercise 685 - []"]
+[FEN "r3q1r1/1R4pk/5p2/p7/2p1P1Q1/4BP2/6PP/5NK1 w - - 0 1"]
+36.Qh3+ Kg6 {}
+36...Qh5 {}
+37.Qxh5# {doesn’t change much.}
+37.Qf5# {}
+1-0 Kramnik- Lautier, Cannes Match 1993. {}
+
+[Event "Exercise 686 - []"]
+[FEN "1r4k1/p5pp/4q3/2Q2pP1/3N4/P1n1P3/1R1B1P1P/K7 b - - 0 1"]
+28...Qa2+ {Forcing the rook on b2 out of the way of the rook on b8.}
+29.Rxa2 Rb1# {}
+0-1 Gelfand-Kramnik, Berlin European Club Cup 1996. {}
+
+[Event "Exercise 687 - []"]
+[FEN "3r2k1/4qppp/p7/1pp1n3/4P3/BP6/P2R1PPP/3Q2K1 b - - 0 1"]
+31...Nf3+ {}
+0-1 Gil Capape-Anand, Gausdal World Championship U20. {}
+
+[Event "Exercise 688 - []"]
+[FEN "2r1r3/p4k1p/2pQbpq1/8/2P4P/2B3P1/1P3PBK/4R3 w - - 0 1"]
+31.Rxe6 Rxe6 {}
+32.Qd7+ {Winning the rook on c8. 1-0 Anand-Speelman, Geneve rapid 1996.}
+
+[Event "Exercise 689 - []"]
+[FEN "2q2rk1/p3pp2/3p1nPQ/2pP4/4P2P/2b2R2/Pn4R1/7K w - - 0 1"]
+33.gxf7+ {Double Check.}
+33...Kxf7 {}
+34.Qg6# {}
+1-0 Anand-Chernin, Eupen European Club Cup 1999. {}
+
+[Event "Exercise 690 - []"]
+[FEN "2r2rk1/pp3p1p/6p1/2q5/3QP3/1P4P1/P1P3BP/3R2K1 b - - 0 1"]
+22...Rfd8 {Skewering the queen and rook.}
+23.Qxc5 Rxd1+ {A fine in-between move which wins the rook for nothing.}
+0-1 Haugsrud-Carlsen, Norway Championship Group Junior 2001. {}
+
+[Event "Exercise 691 - []"]
+[FEN "4r1kr/ppq3pp/1b2b3/nP1p2p1/R7/B2B1Q2/2P2PPP/4R1K1 w - - 0 1"]
+22.Rxe6 {Picking on the overloaded rook on e8.}
+22...Rxe6 {}
+23.Qf8# {}
+1-0 Carlsen-Nikolic, Wijk aan Zee 2005. {}
+
+[Event "Exercise 692 - []"]
+[FEN "r2r4/2pqkppp/p2b4/2p1p3/Q1N1P3/2P2R2/PP3PPP/3R2K1 w - - 0 1"]
+23.Rxf7+ {Setting up a fork!}
+23...Kxf7 {}
+24.Nxe5+ {Very nice by World Champion Carlsen!}
+1-0 Carlsen-Greiff, Dos Hermanas Qualifier. {}
+
+
+[Event "Exercise 645 - []"]
+[FEN "r3r1k1/1b3qb1/pp4Q1/2p1p3/4P3/2P1B3/PP1N1PP1/2K4R w - - 0 1"]
+21.Rh8+ {Luring the king away from the protection of the queen.}
+21...Kxh8 {}
+22.Qxf7 {Steinitz won the queen and later the game.}
+
+[Event "Exercise 646 - []"]
+[FEN "8/pp2R2p/4Nkb1/3P1p2/1B5p/8/PP1rr2P/5R1K b - - 0 1"]
+32...Rxh2+ {}
+33.Kg1 Rdg2# {Finishing with the blind swine checkmate, seen earlier in the book.}
+0-1 Chigorin-Steinitz, World Championship Match 1892 (23). {}
+
+[Event "Exercise 647 - []"]
+[FEN "r6r/ppN1b1pp/1q2Nk2/8/3p1PQ1/8/PPP4P/R1B3K1 w - - 0 1"]
+25.Qg5+ Kf7 {}
+26.Qxg7# {}
+1-0 Steinitz-Meitner, Vienna 1860. {}
+
+[Event "Exercise 648 - []"]
+[FEN "2kr2nr/p1pnq1bp/Pp1p4/6p1/3PNp2/1BP2Q2/1P4PP/R1B2RK1 w - - 0 1"]
+16.Nxd6+ {A nice discovery which opens up the queen for a helper checkmate.}
+16...Qxd6 {}
+16...cxd6 {}
+17.Qb7# {doesn’t change much.}
+17.Qb7# {}
+1-0 Lasker-Gibbons, London simul 1900. {}
+
+[Event "Exercise 649 - []"]
+[FEN "r3k3/1pp3p1/1pn1q1P1/3bp1Q1/4Nn1N/3P4/PPP2P1K/R4R2 b - - 0 1"]
+31...Qh3+ {}
+32.Kg1 Ne2# {}
+0-1 Raubitschek-Lasker, Trenton Falls 1906. {}
+
+[Event "Exercise 650 - []"]
+[FEN "r1q4r/p2p2p1/1pkPp1Bp/2p1Pp2/2P1b2Q/1P5P/P5P1/2B2RK1 w - - 0 1"]
+24.Qxe4+ {Using the X-ray of the bishop on g6 to create a checkmate.}
+24...fxe4 {}
+25.Bxe4# {}
+1-0 Lasker-Beramje, New York simul 1892. {}
+
+[Event "Exercise 651 - []"]
+[FEN "r1q2r2/2p2p1p/p1n3kB/1pb1p1Pn/4P3/2P2Q1P/PPB2P2/R3R1K1 w - - 0 1"]
+21.Qf5+ Qxf5 {}
+22.exf5# {Checkmate with a pawn!}
+1-0 Capablanca-Rosenthal, New York Rapid-transit match 1909. {}
+
+[Event "Exercise 652 - []"]
+[FEN "r4r2/pppqNpkp/3p4/2b1p3/2BnP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+13.Qg5+ Kh8 {}
+14.Qf6# {}
+1-0 Capablanca-NN, New York 1918. {}
+
+[Event "Exercise 653 - []"]
+[FEN "r1bq1r1k/ppp1n1pB/2n1p3/4p2Q/3P4/2P5/P1P2PPP/R1B2RK1 w - - 0 1"]
+14.Bg6+ {A very important move.}
+14...Kg8 {}
+15.Qh7# {}
+1-0 Capablanca-Hoffman, Providence simul 1922. {}
+
+[Event "Exercise 654 - []"]
+[FEN "3q1r1k/1b1nNppp/4p3/1Nnp4/1R6/4PP2/2Q1B1PP/6K1 w - - 0 1"]
+27.Qxh7+ Kxh7 {}
+28.Rh4# {A classic Anastasia’s checkmate.}
+1-0 Alekhine-Leonhardt, Hamburg 1910. {}
+
+[Event "Exercise 655 - []"]
+[FEN "3rr1k1/1pp3pp/p1p5/5R2/2b1q3/3N1Q2/PPP3PP/5RK1 w - - 0 1"]
+22.Rf8+ {Deflecting the rook away from the defense of the queen.}
+22...Rxf8 {}
+23.Qxe4 {Alekhine was up material and went on to win from here.}
+
+[Event "Exercise 656 - []"]
+[FEN "5qk1/pr3p1p/1p3pnQ/5N2/2p5/8/P4PPP/4R1K1 w - - 0 1"]
+24.Re8 {Pinning and Deflecting the queen away from the defense of the g7- square.}
+24...Qxe8 {}
+25.Qg7# {}
+1-0 Alekhine-Frieman, New York blindfold simul. {}
+
+[Event "Exercise 657 - []"]
+[FEN "r4bkr/pp2n1p1/8/5Pq1/2p3P1/7Q/PPP5/R1B2RK1 w - - 0 1"]
+26.Qxh8+ {Grabbing a rook before capturing the queen.}
+26.Bxg5 Rxh3 {is just a trade.}
+26...Kxh8 {}
+27.Bxg5 {Euwe was up an exchange and a pawn and went on to win.}
+
+[Event "Exercise 658 - []"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 w - - 0 1"]
+19.Ng6+ {Forcing the h-file open.}
+19...hxg6 {}
+20.Rh4# {White wins by checkmate.}
+
+[Event "Exercise 659 - []"]
+[FEN "r2qk3/1b2nr1p/pnpBQ3/1p2P1pB/P1pP4/8/1P1N1PPP/5RK1 w - - 0 1"]
+23.Qxf7+ Kd7 {}
+24.Bg4# {}
+1-0 Euwe-Graves, Amsterdam 1919/20. {}
+
+[Event "Exercise 660 - []"]
+[FEN "r2q2bk/1pp1b3/p4rQ1/n2p2N1/3B4/P7/1P3PPP/3RK2R w - - 0 1"]
+23.Qh6+ {Using the pin against the rook on f6.}
+23...Bh7 {}
+24.Qxh7# {}
+1-0 Botvinnik-Timofeev, Leningrad 1924. {}
+
+[Event "Exercise 661 - []"]
+[FEN "r1b1k3/pp3q1p/2p1p3/5p2/1BPPP2Q/6R1/PP5P/2K5 w - - 0 1"]
+28.Rg8+ {Deflecting the queen away from the defense of the e7-square.}
+28...Qxg8 {}
+28...Kd7 {}
+29.Qd8# {.}
+29.Qe7# {}
+1-0 Botvinnik-Muchin, Leningrad 1926. {}
+
+[Event "Exercise 662 - []"]
+[FEN "3r2k1/2Q1rpp1/p6p/1p1p1P2/2pnn1P1/7P/PP3PN1/1BR1R1K1 b - - 0 1"]
+28...Nf3+ {}
+29.Kf1 {}
+29.Kh1 Nxf2# {is another checkmate.}
+29...Ned2# {}
+0-1 Dubinin-Botvinnik, Leningrad ch-URS 1939. {}
+
+[Event "Exercise 663 - []"]
+[FEN "1q2k2r/3n1ppp/1rQBp3/2p5/8/8/1PP2PPP/R2R2K1 w - - 0 1"]
+21.Qxd7+ {Winning a rook and setting up the discovered check from the rook on d1.}
+21.Bxb8 Rxc6 {is just a trade.}
+21...Kxd7 {}
+22.Bxb8+ {Smyslov won a bishop and went on to win the game, Smyslov-Kottnauer, Groningen 1946.}
+
+[Event "Exercise 664 - []"]
+[FEN "4rk2/ppb3n1/2p1bNQ1/3p4/3P1qP1/2P5/P1B2P1P/R3R1K1 w - - 0 1"]
+28.Qxg7+ {Setting up the fork on the next turn.}
+28...Kxg7 {}
+29.Nh5+ {Winning the queen back and defending against the threat on h2. After capturing the queen, Smyslov was up the exchange and two pawns and went on to win, Smyslov-Lutikov, Leningrad ch-URS 1960.}
+
+[Event "Exercise 665 - []"]
+[FEN "1br4k/pp4pp/8/2n4b/P7/7P/1P1N1KBq/R1B1NQ2 b - - 0 1"]
+27...Bg3+ {}
+28.Ke3 Bxe1 {White loses a minor piece since the queen is overloaded.}
+
+[Event "Exercise 666 - []"]
+[FEN "5rk1/1pp3bp/8/p1pPp2Q/2P1N3/3KB1pb/PP5q/6R1 b - - 0 1"]
+29...Bf1+ {Winning the unprotected queen on h5.}
+30.Rxf1 Qxh5 {}
+0-1 Neibults-Tal, Riga ch-LAT 1954. {}
+
+[Event "Exercise 667 - []"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w - - 0 1"]
+17.Qxd7+ {Winning a knight by setting up a fork.}
+17...Kxd7 {}
+18.Nc5+ {Tal won the queen back and went on to win the game, Tal-Tringov, Munich Olympiad Final-A 1958.}
+
+[Event "Exercise 668 - []"]
+[FEN "6k1/2Q2pp1/p2p1n1p/2p5/8/5NP1/r4PKP/8 w - - 0 1"]
+28.Qb8+ Kh7 {}
+28...Ne8 {}
+29.Qxe8+ {also wins.}
+29.Qb1+ {Forking the king and rook.}
+
+[Event "Exercise 669 - []"]
+[FEN "5rk1/q4ppp/2b1pb2/8/r1Bp4/P2Q1N2/R1P2PPP/3R2K1 b - - 0 1"]
+20...Rxc4 {Temporarily sacrificing the exchange to set up a Skewer.}
+21.Qxc4 Bd5 {Petrosian would win the rook back and be up a piece!}
+0-1 Tal-Petrosian, Willemstad Candidates 1962. {}
+
+[Event "Exercise 670 - []"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+30.Qh8+ {A gorgeous attraction tactic which wins material.}
+30...Kxh8 {}
+31.Nxf7+ {Winning the rook and the queen on the next turn, 1-0 Petrosian-Spassky, Moscow World Championship Match 1966 (10).}
+
+[Event "Exercise 671 - []"]
+[FEN "r3q1k1/3n1p1p/1p4p1/p1n5/2P2P2/1Pb1BQ2/P5PP/1R1R2K1 w - - 0 1"]
+24.Bxc5 {A simple trade which leaves the bishop on c3 unprotected.}
+24...Nxc5 {}
+25.Qxc3 {}
+1-0 Petrosian-Anastasopoulos, Varna Olympiad qual-A 1962. {}
+
+[Event "Exercise 672 - []"]
+[FEN "4r3/pp5p/2p1b1pk/2Q5/1P4B1/6q1/PBPP4/RN3K2 b - - 0 1"]
+23...Bc4+ {Clearing the way for the rook on e8.}
+24.Qxc4 {}
+24.Be2 Bxe2# {.}
+24...Re1# {}
+0-1 Kuznetsov-Spassky, Kislovodsk 1960. {}
+
+[Event "Exercise 673 - []"]
+[FEN "3r2k1/2p2ppp/p1Q2n2/4q3/2P5/B3PP2/P2RKP1P/8 b - - 0 1"]
+21...Rxd2+ {Forcing the king to a bad square.}
+22.Kxd2 Qa5+ {Spassky would win the bishop on the next turn, 0-1 Korelov-Spassky, Leningrad 1961.}
+
+[Event "Exercise 674 - []"]
+[FEN "4r1k1/pb3p1p/6pB/4Q3/1qp5/8/2B2PPP/4R1K1 b - - 0 1"]
+29...Qxe1+ {}
+30.Qxe1 Rxe1# {}
+0-1 Lein-Spassky, Sochi 1964. {}
+
+[Event "Exercise 675 - []"]
+[FEN "6rk/pp5n/5PpQ/3q2P1/4p3/2P3R1/PP4RK/8 w - - 0 1"]
+33.Qxh7+ {To open the h-file.}
+33...Kxh7 {}
+34.Rh3# {A nice checkmate by Fischer!}
+1-0 Fischer-Pilnik, Santiago 1959. {}
+
+[Event "Exercise 676 - []"]
+[FEN "1r1q2k1/4b1pp/p1rp1p2/1p1NpP2/P3P3/2PQ4/1P4PP/R4R1K w - - 0 1"]
+23.Nxe7+ Qxe7 {}
+24.Qd5+ {Forking the king and rook.}
+1-0 Fischer-Gadia, Mar del Plata 1960. {}
+
+[Event "Exercise 677 - []"]
+[FEN "1Q6/5pk1/2p3p1/1p2N2p/1b5P/1b6/r3n1P1/1K6 b - - 0 1"]
+40...Nc3+ {}
+41.Kc1 Rc2# {}
+0-1 D. {Byrne-Fischer, New York 1956.}
+
+[Event "Exercise 678 - []"]
+[FEN "1r1k1r2/1bRn1pNQ/p3p3/1p1pPpq1/3B4/3P4/PP4PP/5RK1 w - - 0 1"]
+28.Nxe6+ {Forking the king and queen, while opening up the 7th rank.}
+28...fxe6 {}
+28...Ke8 {}
+29.Nxg5 {.}
+29.Qxd7# {}
+1-0 Karpov- Uddenfeldt, Skopje Olympiad 1972. {}
+
+[Event "Exercise 679 - []"]
+[FEN "5k2/p4p1p/1r2b1pP/4Q3/2q3P1/5P2/PP6/1KNR4 w - - 0 1"]
+34.Qh8+ Ke7 {}
+35.Qd8# {}
+1-0 Karpov-Sosonko, Brussels blitz 1987. {}
+
+[Event "Exercise 680 - []"]
+[FEN "r1b2rk1/pp3ppp/4p3/1Pp5/q1P5/PN2Q3/1B2P1PP/R3KB1n w - - 0 1"]
+19.Qc3 {and Kortchnoi resigned.}
+
+[Event "Exercise 681 - []"]
+[FEN "6k1/1p3pb1/4p1p1/2p2p2/2PP1P1q/1P5P/rB1Q2P1/R5K1 b - - 0 1"]
+30...Rxb2 {Removing the guard of the d4-pawn and putting the queen in a bad position.}
+31.Qxb2 Bxd4+ {Winning the queen, 0-1 Fedoruk-Kasparov, Baku Team Tournament 1978.}
+
+[Event "Exercise 682 - []"]
+[FEN "1rb3k1/p2n1rq1/6p1/3Np3/3PP3/3B4/PP5Q/2K3RR w - - 0 1"]
+25.Rxg6 {Deflecting the queen away from the defense of h8.}
+25...Qxg6 {}
+26.Qh8# {}
+1-0 Kasparov-Dür, Graz World Championship Teams U26 1981. {}
+
+[Event "Exercise 683 - []"]
+[FEN "r2q2k1/5ppp/6b1/3r4/p1Q1pn2/P2P1N2/1P3PPP/3RBRK1 b - - 0 1"]
+25...Ne2+ {Saves the knight from capture.}
+25...exf3 {}
+26.Qxf4 {is just a trade.}
+26.Kh1 exf3 {}
+0-1 Ehlvest-Kasparov, Reykjavik World Cup 1988. {}
+
+[Event "Exercise 684 - []"]
+[FEN "7k/3r1rRp/p4n1Q/1pq5/4BP2/P7/1P5P/1K4R1 w - - 0 1"]
+31.Qxh7+ {Deflecting the knight away from the defense of g8.}
+31...Nxh7 {}
+32.Rg8# {}
+1-0 Kramnik-Rashkovsky, ch-URS 1991. {}
+
+[Event "Exercise 685 - []"]
+[FEN "r3q1r1/1R4pk/5p2/p7/2p1P1Q1/4BP2/6PP/5NK1 w - - 0 1"]
+36.Qh3+ Kg6 {}
+36...Qh5 {}
+37.Qxh5# {doesn’t change much.}
+37.Qf5# {}
+1-0 Kramnik- Lautier, Cannes Match 1993. {}
+
+[Event "Exercise 686 - []"]
+[FEN "1r4k1/p5pp/4q3/2Q2pP1/3N4/P1n1P3/1R1B1P1P/K7 b - - 0 1"]
+28...Qa2+ {Forcing the rook on b2 out of the way of the rook on b8.}
+29.Rxa2 Rb1# {}
+0-1 Gelfand-Kramnik, Berlin European Club Cup 1996. {}
+
+[Event "Exercise 687 - []"]
+[FEN "3r2k1/4qppp/p7/1pp1n3/4P3/BP6/P2R1PPP/3Q2K1 b - - 0 1"]
+31...Nf3+ {}
+0-1 Gil Capape-Anand, Gausdal World Championship U20. {}
+
+[Event "Exercise 688 - []"]
+[FEN "2r1r3/p4k1p/2pQbpq1/8/2P4P/2B3P1/1P3PBK/4R3 w - - 0 1"]
+31.Rxe6 Rxe6 {}
+32.Qd7+ {Winning the rook on c8. 1-0 Anand-Speelman, Geneve rapid 1996.}
+
+[Event "Exercise 689 - []"]
+[FEN "2q2rk1/p3pp2/3p1nPQ/2pP4/4P2P/2b2R2/Pn4R1/7K w - - 0 1"]
+33.gxf7+ {Double Check.}
+33...Kxf7 {}
+34.Qg6# {}
+1-0 Anand-Chernin, Eupen European Club Cup 1999. {}
+
+[Event "Exercise 690 - []"]
+[FEN "2r2rk1/pp3p1p/6p1/2q5/3QP3/1P4P1/P1P3BP/3R2K1 b - - 0 1"]
+22...Rfd8 {Skewering the queen and rook.}
+23.Qxc5 Rxd1+ {A fine in-between move which wins the rook for nothing.}
+0-1 Haugsrud-Carlsen, Norway Championship Group Junior 2001. {}
+
+[Event "Exercise 691 - []"]
+[FEN "4r1kr/ppq3pp/1b2b3/nP1p2p1/R7/B2B1Q2/2P2PPP/4R1K1 w - - 0 1"]
+22.Rxe6 {Picking on the overloaded rook on e8.}
+22...Rxe6 {}
+23.Qf8# {}
+1-0 Carlsen-Nikolic, Wijk aan Zee 2005. {}
+
+[Event "Exercise 692 - []"]
+[FEN "r2r4/2pqkppp/p2b4/2p1p3/Q1N1P3/2P2R2/PP3PPP/3R2K1 w - - 0 1"]
+23.Rxf7+ {Setting up a fork!}
+23...Kxf7 {}
+24.Nxe5+ {Very nice by World Champion Carlsen!}
+1-0 Carlsen-Greiff, Dos Hermanas Qualifier. {}
+

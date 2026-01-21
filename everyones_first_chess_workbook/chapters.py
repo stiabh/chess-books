@@ -8,12 +8,17 @@ chapter_dir = "epub/OEBPS/Text"
 chapters = defaultdict(list)
 
 for filename in os.listdir(chapter_dir):
+    if not filename.endswith("_split_001.html"):
+        continue
+
     with open(f"{chapter_dir}/{filename}") as f:
         data = f.read()
-    matches = re.findall(r'<h2 class="style2">(.*?) – Guided', data)
-    if matches:
-        theme = matches[0]
-        first_exercise = re.findall(r'<a href=".*?">Exercise (\d+)</a>', data)[0]
+
+    if first_exercise := re.findall(r'<a href=".*?">Exercise (\d+)</a>', data):
+        first_exercise = first_exercise[0]
+
+        if theme := re.findall(r'<h2 class="style2">(.*?) – Guided', data):
+            theme = theme[0]
         chapter_number, chapter_name = re.findall(
             r"<title>Chapter (\d+): (.*?)</title>", data
         )[0]
