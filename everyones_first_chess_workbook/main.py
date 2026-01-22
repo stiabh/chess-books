@@ -6,7 +6,7 @@ import requests
 from google.cloud import vision
 from PIL import Image
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "vision_api_key.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../vision_api_key.json"
 url = "https://helpman.komtera.lt/predict"
 
 session = requests.Session()
