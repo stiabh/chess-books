@@ -1,6 +1,5 @@
 import json
 import os
-import re
 from io import BytesIO
 
 import cv2
@@ -11,10 +10,11 @@ from PIL import Image
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../vision_api_key.json"
 os.makedirs("extracted", exist_ok=True)
-os.makedirs("diagrams", exist_ok=True)
+os.makedirs("boxes", exist_ok=True)
 
 
 def extract_page_images(doc: pymupdf.Document, page_number: int) -> list[dict]:
+    """Extract all images from a PDF page. First image is the background scan."""
     page = doc[page_number - 1]
     page_images = page.get_images()
     images = []
@@ -36,42 +36,34 @@ def extract_page_images(doc: pymupdf.Document, page_number: int) -> list[dict]:
     return images
 
 
-# page = doc[59]
-# page_images = page.get_images()
-# image_index = page_image[-1][0]
-# page.get_image_rects(image_index)
-
-
-def extract_text_from_image(file: bytes) -> list[str]:
+def extract_text_from_image(file: bytes) -> str:
+    """Extract text from an image using Google Cloud Vision API."""
     image = vision.Image(content=file)
-
     client = vision.ImageAnnotatorClient()
     response = client.text_detection(image=image)
     texts = response.text_annotations
 
-    # lines = []
-
-    # if texts:
-    #     # first result contains all text
-    #     for line in texts[0].description.split("\n"):
-    #         if re.search(r"[a-zA-Z0-9]", line):  # and len(line) > 1:
-    #             lines.append(line)
-
-    return texts
+    if texts:
+        return texts[0].description.strip()
+    return ""
 
 
-def extract_boxes(filename: str) -> list[dict]:
-    # Load your PNG file
+def extract_boxes(filename: str, page_number: int) -> list[dict]:
+    """
+    Detect rectangular bounding boxes on a page image.
+    Returns list of boxes with their coordinates and cropped image paths.
+    """
     img = Image.open(filename)
+    img_width, img_height = img.size
 
-    # Set minimum dimensions (adjust these based on your image)
-    min_height = 100  # adjust based on your box sizes
-    min_width = 200  # adjust based on your box sizes
+    # Minimum dimensions for a valid box (question/answer boxes)
+    min_height = 100
+    min_width = 200
 
-    # Convert PIL image to OpenCV format
+    # Convert to grayscale for processing
     img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2GRAY)
 
-    # Threshold to binary
+    # Apply threshold to create binary image
     _, binary = cv2.threshold(img_cv, 127, 255, cv2.THRESH_BINARY_INV)
 
     # Find contours
@@ -81,21 +73,28 @@ def extract_boxes(filename: str) -> list[dict]:
     contours = sorted(contours, key=lambda c: cv2.boundingRect(c)[1])
 
     box_data = []
-
-    # Get bounding boxes and save each one
     box_num = 1
+
     for contour in contours:
         x, y, w, h = cv2.boundingRect(contour)
-        filename = f"box_{box_num}.png"
 
+        # Filter: must be large enough and not the entire page
         if w > min_width and h > min_height:
+            # Skip if this is essentially the whole page (within 5% margin)
+            if w > img_width * 0.95 and h > img_height * 0.95:
+                continue
+
+            box_filename = f"boxes/page_{page_number}_box_{box_num}.png"
             box_img = img.crop((x, y, x + w, y + h))
-            box_img.save(filename)
+            box_img.save(box_filename)
 
             box_data.append(
                 {
+                    "box_id": box_num,
                     "coords": [(x, y), (x + w, y + h)],
-                    "filename": filename,
+                    "filename": box_filename,
+                    "diagrams": [],
+                    "text": "",
                 }
             )
             box_num += 1
@@ -103,9 +102,9 @@ def extract_boxes(filename: str) -> list[dict]:
     return box_data
 
 
-def is_contained(inner_coords: list[tuple], outer_coords: list[tuple]) -> bool:
+def is_contained(inner_coords: list[tuple], outer_coords: list[tuple], tolerance: int = 5) -> bool:
     """
-    Check if inner box is completely contained within outer box.
+    Check if inner box is contained within outer box (with tolerance for edge cases).
     Coords format: [(x0, y0), (x1, y1)] where (x0, y0) is top-left and (x1, y1) is bottom-right
     """
     inner_x0, inner_y0 = inner_coords[0]
@@ -114,54 +113,132 @@ def is_contained(inner_coords: list[tuple], outer_coords: list[tuple]) -> bool:
     outer_x1, outer_y1 = outer_coords[1]
 
     return (
-        inner_x0 >= outer_x0
-        and inner_y0 >= outer_y0
-        and inner_x1 <= outer_x1
-        and inner_y1 <= outer_y1
+        inner_x0 >= outer_x0 - tolerance
+        and inner_y0 >= outer_y0 - tolerance
+        and inner_x1 <= outer_x1 + tolerance
+        and inner_y1 <= outer_y1 + tolerance
     )
+
+
+def get_image_bytes(filename: str) -> bytes:
+    """Load an image file and return its bytes."""
+    with open(filename, "rb") as f:
+        return f.read()
+
+
+def process_page(doc: pymupdf.Document, page_number: int) -> dict:
+    """
+    Process a single page from the PDF.
+    Returns a dict with page data including boxes, diagrams, and text.
+    """
+    print(f"Processing page {page_number}...")
+
+    # Extract all images from the page
+    page_images = extract_page_images(doc, page_number)
+
+    if not page_images:
+        return {
+            "page": page_number,
+            "has_boxes": False,
+            "boxes": [],
+            "diagrams": [],
+            "text": "",
+        }
+
+    background_image = page_images[0]
+    overlay_diagrams = page_images[1:]  # Higher quality chess diagrams
+
+    # Detect bounding boxes on the background image
+    boxes = extract_boxes(background_image["filename"], page_number)
+
+    page_data = {
+        "page": page_number,
+        "has_boxes": len(boxes) > 0,
+        "boxes": boxes,
+        "diagrams": [],
+        "text": "",
+    }
+
+    if boxes:
+        # Link each overlay diagram to its containing box
+        for diagram in overlay_diagrams:
+            assigned = False
+            for box in boxes:
+                if is_contained(diagram["coords"], box["coords"]):
+                    box["diagrams"].append(diagram["filename"])
+                    assigned = True
+                    break
+            if not assigned:
+                # Diagram not in any box - add to page-level diagrams
+                page_data["diagrams"].append(diagram["filename"])
+
+        # Extract text from each box
+        for box in boxes:
+            try:
+                img_bytes = get_image_bytes(box["filename"])
+                box["text"] = extract_text_from_image(img_bytes)
+            except Exception as e:
+                print(f"  Error extracting text from box {box['box_id']}: {e}")
+                box["text"] = ""
+    else:
+        # No boxes - extract text from the whole page and list all diagrams
+        page_data["diagrams"] = [d["filename"] for d in overlay_diagrams]
+        try:
+            # Crop bottom 5% to avoid page numbers
+            img = Image.open(background_image["filename"])
+            width, height = img.size
+            cropped_img = img.crop((0, 0, width, int(height * 0.95)))
+
+            img_byte_arr = BytesIO()
+            cropped_img.save(img_byte_arr, format="PNG")
+            page_data["text"] = extract_text_from_image(img_byte_arr.getvalue())
+        except Exception as e:
+            print(f"  Error extracting text from page: {e}")
+            page_data["text"] = ""
+
+    return page_data
+
+
+def process_pdf(pdf_path: str, start_page: int = 1, end_page: int = None) -> list[dict]:
+    """
+    Process all pages of a PDF and extract structured data.
+    """
+    doc = pymupdf.open(pdf_path)
+    total_pages = len(doc)
+
+    if end_page is None:
+        end_page = total_pages
+
+    end_page = min(end_page, total_pages)
+
+    results = []
+    for page_num in range(start_page, end_page + 1):
+        try:
+            page_data = process_page(doc, page_num)
+            results.append(page_data)
+        except Exception as e:
+            print(f"Error processing page {page_num}: {e}")
+            results.append({
+                "page": page_num,
+                "has_boxes": False,
+                "boxes": [],
+                "diagrams": [],
+                "text": "",
+                "error": str(e),
+            })
+
+    doc.close()
+    return results
 
 
 if __name__ == "__main__":
     pdf_path = "pdfs/bobby_fischer_teaches_chess.pdf"
-    doc = pymupdf.open(pdf_path)
-    page_images = extract_page_images(doc, 156)
-    boxes = extract_boxes(page_images[0]["filename"])
-    for i, image in enumerate(page_images[1:]):
-        for box in boxes:
-            if is_contained(image["coords"], box["coords"]):
-                page_images[i + 1]["box"] = box["filename"]
 
-    breakpoint()
+    # Process all pages
+    results = process_pdf(pdf_path)
 
+    # Save results to JSON
+    with open("book_data.json", "w") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
-# page_text = []
-
-
-# for page in range(1, len(doc) + 1):
-#     log_message = ""
-#     try:
-#         paths = extract_page_images(doc, page)
-#         diagrams = paths[1:]
-
-#         # Load image and crop bottom 10%
-#         img = Image.open(paths[0])
-#         width, height = img.size
-#         cropped_img = img.crop((0, 0, width, int(height * 0.95)))
-
-#         img_byte_arr = BytesIO()
-#         cropped_img.save(img_byte_arr, format="PNG")
-#         content = img_byte_arr.getvalue()
-
-#         lines = extract_text_from_image(content)
-#         page_text.append({"page": page, "text": "\n".join(lines), "diagrams": diagrams})
-#         log_message += f"Page {page} ok"
-
-#     except Exception as e:
-#         log_message += f"Page {page} failed: {e}"
-
-#     finally:
-#         print(log_message)
-
-
-# with open("text.json", "w") as f:
-#     json.dump(page_text, f, ensure_ascii=False, indent=4)
+    print(f"\nProcessed {len(results)} pages. Output saved to book_data.json")
