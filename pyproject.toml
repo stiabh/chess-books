@@ -13,4 +13,5 @@ dependencies = [
     "python-chess>=1.999",
     "python-dotenv>=1.2.1",
     "numpy>=2.4.1",
+    "opencv-python>=4.13.0.90",
 ]
