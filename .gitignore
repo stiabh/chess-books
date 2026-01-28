@@ -17,7 +17,6 @@ wheels/
 !README.md
 *.png
 *.txt
-**/epub/
 **/vision_api_key.json
 output/
 pdfs/
